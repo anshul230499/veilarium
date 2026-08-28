@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Veilarium — Atlas of the Unseen</title>
+  <meta name="description" content="An illustrated, source-first encyclopedia of sacred beings, unseen worlds, cosmologies, celestial parallels and encounter traditions.">
+  <meta name="theme-color" content="#0a0b12">
+  <meta property="og:title" content="Veilarium — Atlas of the Unseen">
+  <meta property="og:description" content="Beings, realms, cosmologies and celestial parallels across cultures — source-first and tradition-specific.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="assets/art/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="shell header-row">
+    <a class="brand" href="#top" aria-label="Veilarium home">
+      <img src="assets/art/mark.svg" alt="">
+      <span class="brand-name">VEILARIUM</span>
+    </a>
+    <nav class="nav" id="siteNav" aria-label="Primary navigation">
+      <a href="#beings">Beings</a>
+      <a href="#celestial">Celestial Parallels</a>
+      <a href="#realms">Realms</a>
+      <a href="#encounter">Encounter</a>
+      <a href="#rights" class="header-cta">Sources & Rights</a>
+    </nav>
+    <button class="mobile-menu" id="mobileMenu" type="button" aria-expanded="false" aria-controls="siteNav">Menu</button>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <img class="hero-art" src="assets/art/hero-cosmos.svg" alt="Original abstract celestial atlas illustration created for Veilarium">
+    <div class="hero-shade"></div>
+    <div class="shell hero-inner">
+      <div class="eyebrow">AN ENCYCLOPEDIA OF SACRED & UNSEEN WORLDS</div>
+      <h1>Across the<br>visible veil.</h1>
+      <p>Explore beings, lokas, heavens, hidden realms, sacred presences and recorded encounters — without collapsing one culture into another.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#beings">Enter the atlas</a>
+        <a class="btn" href="#celestial">Follow the planets</a>
+      </div>
+      <div class="hero-note">Every parallel is labeled by source type. Similarity is never presented as identity.</div>
+    </div>
+  </section>
+
+  <section class="section" id="beings">
+    <div class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">THE LIVING INDEX</div>
+          <h2>Beings & presences</h2>
+        </div>
+        <div class="section-intro">A navigation system broad enough for devas, fair folk, jinn, kami, nāgas, angels, yōkai and more — while preserving the vocabulary and worldview of each tradition.</div>
+      </div>
+
+      <div class="search-box">
+        <input id="searchInput" type="search" placeholder="Search beings, traditions, regions, symbols…" aria-label="Search the atlas">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+      </div>
+
+      <div class="filter-row" aria-label="Filter beings">
+        <button class="filter-btn active" type="button" data-filter="all">All</button>
+        <button class="filter-btn" type="button" data-filter="celestial">Celestial</button>
+        <button class="filter-btn" type="button" data-filter="water">Water</button>
+        <button class="filter-btn" type="button" data-filter="folklore">Folklore</button>
+        <button class="filter-btn" type="button" data-filter="sacred-place">Sacred place</button>
+        <button class="filter-btn" type="button" data-filter="unseen">Unseen</button>
+      </div>
+
+      <div class="being-grid" id="beingGrid"></div>
+      <div class="empty-state" id="emptyState">No records match that search yet.</div>
+    </div>
+  </section>
+
+  <section class="section" id="celestial">
+    <div class="shell">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow">CELESTIAL LENS</div>
+          <h2>Parallels beneath<br>the same sky</h2>
+        </div>
+        <div class="section-intro"><strong class="gold">Parallel, not equivalent.</strong> Select a celestial body to compare historically attested planetary deities and mythic celestial figures across traditions.</div>
+      </div>
+
+      <div class="cosmic-wrap">
+        <div class="planet-orbit">
+          <div class="eyebrow">SELECT A CELESTIAL BODY</div>
+          <div class="orbit-visual" aria-label="Interactive classical planets">
+            <div class="orbit-ring r1"></div><div class="orbit-ring r2"></div><div class="orbit-ring r3"></div>
+            <div class="planet-center" id="planetGlyph" aria-hidden="true">♀</div>
+            <button class="planet-btn pb-sun" type="button" data-planet="sun" aria-label="Sun">☉</button>
+            <button class="planet-btn pb-moon" type="button" data-planet="moon" aria-label="Moon">☾</button>
+            <button class="planet-btn pb-mercury" type="button" data-planet="mercury" aria-label="Mercury">☿</button>
+            <button class="planet-btn pb-venus active" type="button" data-planet="venus" aria-label="Venus">♀</button>
+            <button class="planet-btn pb-mars" type="button" data-planet="mars" aria-label="Mars">♂</button>
+            <button class="planet-btn pb-jupiter" type="button" data-planet="jupiter" aria-label="Jupiter">♃</button>
+            <button class="planet-btn pb-saturn" type="button" data-planet="saturn" aria-label="Saturn">♄</button>
+            <button class="planet-btn pb-eclipses" type="button" data-planet="eclipses" aria-label="Eclipses and lunar nodes">☊</button>
+          </div>
+          <div class="planet-caption"><strong id="planetTheme">Attraction · fertility · desire</strong><p>Traditional astral links remain distinct from later occult correspondences.</p></div>
+        </div>
+
+        <div class="parallel-panel">
+          <div class="parallel-top">
+            <div><div class="eyebrow">CROSS-CULTURAL HUB</div><h3 id="planetTitle">Venus</h3></div>
+            <div class="parallel-glyph" aria-hidden="true">✦</div>
+          </div>
+          <p class="muted" id="planetIntro"></p>
+          <div class="parallel-note"><strong>Method:</strong> a shared planet, eclipse phenomenon, solar identity or lunar identity can justify comparison. A loose personality resemblance cannot.</div>
+          <div class="parallel-list" id="parallelList"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="realms">
+    <div class="shell">
+      <div class="section-head">
+        <div><div class="eyebrow">COSMIC ATLAS · SAMPLE SCHEMA</div><h2>The lokas</h2></div>
+        <div class="section-intro">Rather than pretending there is one universal Hindu cosmology, Veilarium can store multiple textual schemas and show exactly which source supports each arrangement.</div>
+      </div>
+      <div class="loka-layout">
+        <div class="loka-stack" id="lokaStack"></div>
+        <aside class="loka-detail">
+          <span class="tag source-tag">TEXT-VARIANT MODEL</span>
+          <h3 id="lokaTitle">Satyaloka / Brahmaloka</h3>
+          <p id="lokaDetailText">A highest or extremely elevated realm in several Purāṇic cosmological presentations; descriptions vary by text.</p>
+          <div class="loka-line"></div>
+          <div class="eyebrow">EDITORIAL RULE</div>
+          <p class="loka-caution">The live encyclopedia should attach each cosmographic claim to a specific text, translation or scholarly reference. Modern diagrams are treated as interpretations unless sourced.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="encounter">
+    <div class="shell">
+      <div class="section-head">
+        <div><div class="eyebrow">ENCOUNTER INDEX</div><h2>How traditions<br>describe contact</h2></div>
+        <div class="section-intro">The site can document practices and narratives without presenting supernatural outcomes as established fact. Living devotional practice is never thrown into the same bucket as modern occult reconstruction.</div>
+      </div>
+      <div class="encounter-grid" id="encounterGrid"></div>
+    </div>
+  </section>
+
+  <section class="section" id="rights">
+    <div class="shell">
+      <div class="rights-box">
+        <div class="rights-copy">
+          <div class="eyebrow">PROVENANCE BY DESIGN</div>
+          <h2>Beautiful enough to share.<br>Precise enough to cite.</h2>
+          <p>This starter build uses original Veilarium interface illustrations rather than copied fantasy art. The production archive can add museum and manuscript imagery only with an explicit rights record: Public Domain, CC0, CC BY, licensed, or original.</p>
+          <div class="source-list">
+            <span class="tag source-tag">ORIGINAL ART</span>
+            <span class="tag">IMAGE RIGHTS FIELD</span>
+            <span class="tag">PRIMARY SOURCE FIELD</span>
+            <span class="tag">COPY CITATION</span>
+          </div>
+        </div>
+        <div class="rights-art"><img src="assets/art/mark.svg" alt="Veilarium original emblem"></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="shell footer-row">
+    <a class="brand" href="#top"><img src="assets/art/mark.svg" alt=""><span class="brand-name">VEILARIUM</span></a>
+    <p>© <span id="year"></span> Veilarium. Original interface, editorial taxonomy and original illustrations reserved. Historical, religious and folkloric subjects are not owned by Veilarium; third-party works must retain their own rights and attribution records.</p>
+  </div>
+</footer>
+
+<div class="modal" id="beingModal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modalName">
+  <div class="modal-card">
+    <div class="modal-grid">
+      <img id="modalImg" alt="">
+      <div class="modal-copy">
+        <button class="modal-close" id="modalClose" type="button" aria-label="Close">×</button>
+        <div class="eyebrow">ENCYCLOPEDIA RECORD</div>
+        <h2 id="modalName"></h2>
+        <div class="muted small" id="modalMeta"></div>
+        <p id="modalSummary"></p>
+        <div class="source-list" id="modalSources"></div>
+        <div class="parallel-note" id="modalNote"></div>
+        <button class="btn cite-btn" id="citeBtn" type="button">Copy site citation</button><span class="cite-status" id="citeStatus"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>document.getElementById("year").textContent=new Date().getFullYear();</script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
