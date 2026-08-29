@@ -23,7 +23,7 @@
   function openEntity(id){
     const b=D.beings.find(x=>x.id===id); if(!b)return;
     const a=art(b.artworkId);
-    $("#modalArt").src=a.image;
+    $("#modalArt").src=a.image; $("#modalArt").referrerPolicy="no-referrer";
     $("#modalArt").alt=`${a.title} — ${a.artist}`;
     $("#modalArtCredit").textContent=`${a.title} · ${a.artist} · ${a.date} · ${a.license}`;
     $("#modalKind").textContent=b.kind;
@@ -56,7 +56,7 @@
   $("#featuredGallery").innerHTML=featured.map(([bid,aid])=>{
     const b=D.beings.find(x=>x.id===bid), a=art(aid);
     return `<button class="feature" type="button" data-being="${bid}">
-      <img src="${a.image}" alt="${a.title} by ${a.artist}">
+      <img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title} by ${a.artist}">
       <div class="feature-credit">${a.artist} · ${a.license}</div>
       <div class="feature-copy"><span>${b.tradition}</span><strong>${b.name}</strong><small>${a.title}</small></div>
     </button>`;
@@ -70,7 +70,7 @@
     $$(".tradition-pill").forEach(x=>x.classList.toggle("active",x.dataset.trad===id));
     const t=D.traditions.find(x=>x.id===id), a=art(t.artworkId), list=beingsIn(id).slice(0,6);
     $("#chapterStage").innerHTML=`<div class="chapter-hero">
-      <div class="chapter-art"><img src="${a.image}" alt="${a.title} by ${a.artist}"><div class="art-mini-credit">${a.title} · ${a.artist} · ${a.license}</div></div>
+      <div class="chapter-art"><img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title} by ${a.artist}"><div class="art-mini-credit">${a.title} · ${a.artist} · ${a.license}</div></div>
       <div class="chapter-info">
         <div class="eyebrow">TRADITION CHAPTER</div><div class="chapter-title">${t.name}</div><div class="chapter-sub">${t.subtitle}</div>
         <div class="chapter-beings">${list.map(b=>`<button type="button" class="chapter-being" data-being="${b.id}"><strong>${b.name}</strong><small>${b.kind}</small></button>`).join("")}</div>
@@ -128,14 +128,14 @@
     const items=filtered(), shown=items.slice(0,limit);
     $("#indexCount").textContent=`Showing ${shown.length} of ${items.length} matching records · ${D.beings.length} total`;
     $("#beingGrid").innerHTML=shown.map(b=>{const a=art(b.artworkId);return `<button type="button" class="being-card" data-being="${b.id}">
-      <img src="${a.image}" alt="${a.title}"><div class="being-card-body"><small>${b.tradition}</small><h3>${b.name}</h3><p>${b.summary}</p></div></button>`}).join("");
+      <img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title}"><div class="being-card-body"><small>${b.tradition}</small><h3>${b.name}</h3><p>${b.summary}</p></div></button>`}).join("");
     $$(".being-card").forEach(x=>x.addEventListener("click",()=>openEntity(x.dataset.being)));
     $("#showMore").style.display=shown.length<items.length?"flex":"none";
   }
 
   // credits
   $("#creditsGrid").innerHTML=Object.entries(D.artworks).map(([id,a])=>`<article class="credit-card">
-    <img src="${a.image}" alt="${a.title} by ${a.artist}">
+    <img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title} by ${a.artist}">
     <div class="credit-copy"><strong>${a.title}</strong><p>${a.artist} · ${a.date}<br>${a.collection}</p>
     <div class="credit-meta"><span>${a.license}</span><span>Artwork ID: ${id}</span></div>
     <p>${a.useNote}</p><a href="${a.source}" target="_blank" rel="noopener noreferrer">Open source & rights record ↗</a></div>

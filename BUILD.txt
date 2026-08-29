@@ -1,0 +1,6 @@
+VEILARIUM PAINTERLY BUILD 2.1
+84 records
+Portal-based homepage
+Direct upload.wikimedia.org image URLs
+Visible artwork credits and source/rights section
+Generated to fix the blank-image / wrong-deployment issue.
