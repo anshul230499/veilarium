@@ -1,7 +1,16 @@
-VEILARIUM — PAINTERLY BUILD 4.0
-84 illustrated entity records with distinct artwork assignments
-6 multi-cosmology realm systems
+VEILARIUM — ILLUSTRATED ATLAS 4.1
+84 entity records
+84 distinct entity artwork assignments
+134 artwork + credit records
+6 cosmology systems
 42 illustrated realm stops
-8 illustrated celestial hubs
-Artwork provenance modes: direct / contextual / evocative / literary / symbolic
-Full visible source & rights ledger
+8 celestial artwork hubs
+
+4.1 CHANGES
+- Artwork is displayed with object-fit: contain: full painting visible, no forced crop.
+- Removed entity image zoom that re-cropped compositions on hover.
+- SFW-first replacements for nude-heavy/sensual entity artwork.
+- SFW planetary art replaces nude/violent classical hub imagery.
+- Greek Okeanos realm now uses an SFW marine painting.
+- All realm paths are reordered lowest/chthonic -> earthly/middle -> highest/celestial.
+- Non-linear cosmologies include explicit editorial caveats.

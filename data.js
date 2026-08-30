@@ -2121,57 +2121,12 @@ window.VEILARIUM_DATA = {
   },
   "lokas": [
     {
-      "name": "Satyaloka / Brahmaloka",
-      "band": "higher",
-      "detail": "A highest or extremely elevated realm in several Purāṇic cosmological presentations; descriptions vary by text."
-    },
-    {
-      "name": "Tapoloka",
-      "band": "higher",
-      "detail": "An elevated realm associated in some Purāṇic cosmographies with powerful ascetic beings."
-    },
-    {
-      "name": "Janaloka",
-      "band": "higher",
-      "detail": "An elevated loka associated in Purāṇic descriptions with spiritually advanced beings or sages."
-    },
-    {
-      "name": "Maharloka",
-      "band": "higher",
-      "detail": "A great world placed above Svarga in several later cosmographic schemes."
-    },
-    {
-      "name": "Svargaloka",
-      "band": "celestial",
-      "detail": "A celestial/heavenly realm associated with devas in many later Hindu textual traditions; terminology varies."
-    },
-    {
-      "name": "Bhuvarloka",
-      "band": "middle",
-      "detail": "An intermediary sphere in several cosmological enumerations; exact meanings differ by source."
-    },
-    {
-      "name": "Bhūloka",
-      "band": "earth",
-      "detail": "The terrestrial realm of embodied human life in common cosmographic usage."
-    },
-    {
-      "name": "Atala",
+      "name": "Pātāla",
       "band": "lower",
-      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+      "detail": "A subterranean or lower region often associated with nāgas in later Hindu cosmography; it should not automatically be translated as 'hell'."
     },
     {
-      "name": "Vitala",
-      "band": "lower",
-      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
-    },
-    {
-      "name": "Sutala",
-      "band": "lower",
-      "detail": "A lower realm prominently connected with Bali in Purāṇic narratives."
-    },
-    {
-      "name": "Talātala",
+      "name": "Rasātala",
       "band": "lower",
       "detail": "One of the seven lower regions in several Purāṇic cosmographies."
     },
@@ -2181,14 +2136,59 @@ window.VEILARIUM_DATA = {
       "detail": "One of the seven lower regions in several Purāṇic cosmographies."
     },
     {
-      "name": "Rasātala",
+      "name": "Talātala",
       "band": "lower",
       "detail": "One of the seven lower regions in several Purāṇic cosmographies."
     },
     {
-      "name": "Pātāla",
+      "name": "Sutala",
       "band": "lower",
-      "detail": "A subterranean or lower region often associated with nāgas in later Hindu cosmography; it should not automatically be translated as 'hell'."
+      "detail": "A lower realm prominently connected with Bali in Purāṇic narratives."
+    },
+    {
+      "name": "Vitala",
+      "band": "lower",
+      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+    },
+    {
+      "name": "Atala",
+      "band": "lower",
+      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+    },
+    {
+      "name": "Bhūloka",
+      "band": "earth",
+      "detail": "The terrestrial realm of embodied human life in common cosmographic usage."
+    },
+    {
+      "name": "Bhuvarloka",
+      "band": "middle",
+      "detail": "An intermediary sphere in several cosmological enumerations; exact meanings differ by source."
+    },
+    {
+      "name": "Svargaloka",
+      "band": "celestial",
+      "detail": "A celestial/heavenly realm associated with devas in many later Hindu textual traditions; terminology varies."
+    },
+    {
+      "name": "Maharloka",
+      "band": "higher",
+      "detail": "A great world placed above Svarga in several later cosmographic schemes."
+    },
+    {
+      "name": "Janaloka",
+      "band": "higher",
+      "detail": "An elevated loka associated in Purāṇic descriptions with spiritually advanced beings or sages."
+    },
+    {
+      "name": "Tapoloka",
+      "band": "higher",
+      "detail": "An elevated realm associated in some Purāṇic cosmographies with powerful ascetic beings."
+    },
+    {
+      "name": "Satyaloka / Brahmaloka",
+      "band": "higher",
+      "detail": "A highest or extremely elevated realm in several Purāṇic cosmological presentations; descriptions vary by text."
     }
   ],
   "encounterTypes": [
@@ -2230,7 +2230,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "British Museum / Commons",
       "mode": "direct",
-      "note": "Historical depiction of Indra used as the gateway to the broad Deva class."
+      "note": "Historical depiction of Indra used as the gateway to the broad Deva class.",
+      "sfw": true
     },
     "e-asuras": {
       "id": "e-asuras",
@@ -2244,7 +2245,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Detroit Institute of Arts",
       "mode": "direct",
-      "note": "Direct depiction of an asura in a goddess battle narrative; the Asura category itself is historically complex."
+      "note": "Direct depiction of an asura in a goddess battle narrative; the Asura category itself is historically complex.",
+      "sfw": true
     },
     "e-apsaras": {
       "id": "e-apsaras",
@@ -2258,7 +2260,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct artistic depiction of the apsara Menakā."
+      "note": "Direct artistic depiction of the apsara Menakā.",
+      "sfw": true
     },
     "e-gandharvas": {
       "id": "e-gandharvas",
@@ -2272,7 +2275,8 @@ window.VEILARIUM_DATA = {
       "license": "CC BY-SA 4.0",
       "collection": "Museum display, Hyderabad",
       "mode": "direct",
-      "note": "Direct Gandharva imagery; attribution/share-alike status retained."
+      "note": "Direct Gandharva imagery; attribution/share-alike status retained.",
+      "sfw": true
     },
     "e-yakshas": {
       "id": "e-yakshas",
@@ -2286,7 +2290,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Kubera-centered Yakṣa context; not a universal portrait of all Yakṣas."
+      "note": "Kubera-centered Yakṣa context; not a universal portrait of all Yakṣas.",
+      "sfw": true
     },
     "e-yakshinis": {
       "id": "e-yakshinis",
@@ -2300,7 +2305,8 @@ window.VEILARIUM_DATA = {
       "license": "CC0",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Yakṣiṇī imagery from a Jain context."
+      "note": "Direct Yakṣiṇī imagery from a Jain context.",
+      "sfw": true
     },
     "e-nagas": {
       "id": "e-nagas",
@@ -2314,7 +2320,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Los Angeles County Museum of Art",
       "mode": "direct",
-      "note": "Directly connected with the Nāga king Kāliya narrative."
+      "note": "Directly connected with the Nāga king Kāliya narrative.",
+      "sfw": true
     },
     "e-garudas": {
       "id": "e-garudas",
@@ -2328,7 +2335,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct depiction of Garuḍa."
+      "note": "Direct depiction of Garuḍa.",
+      "sfw": true
     },
     "e-rakshasas": {
       "id": "e-rakshasas",
@@ -2342,7 +2350,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Rāmāyaṇa Rākṣasa depiction."
+      "note": "Direct Rāmāyaṇa Rākṣasa depiction.",
+      "sfw": true
     },
     "e-vetalas": {
       "id": "e-vetalas",
@@ -2356,7 +2365,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Later literary reception of the Vetāla cycle, not ancient sacred art."
+      "note": "Later literary reception of the Vetāla cycle, not ancient sacred art.",
+      "sfw": true
     },
     "e-bhutas": {
       "id": "e-bhutas",
@@ -2370,7 +2380,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Evocative context for bhūta/gaṇa spirit worlds; bhūta is a broad, language-dependent category."
+      "note": "Evocative context for bhūta/gaṇa spirit worlds; bhūta is a broad, language-dependent category.",
+      "sfw": true
     },
     "e-pretas": {
       "id": "e-pretas",
@@ -2384,7 +2395,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Buddhist Japanese hungry-ghost imagery used cross-traditionally for the preta concept; clearly not presented as Hindu iconography."
+      "note": "Buddhist Japanese hungry-ghost imagery used cross-traditionally for the preta concept; clearly not presented as Hindu iconography.",
+      "sfw": true
     },
     "e-pisacas": {
       "id": "e-pisacas",
@@ -2398,7 +2410,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Literary context for Sanskrit uncanny-being traditions; not a literal Piśāca portrait."
+      "note": "Literary context for Sanskrit uncanny-being traditions; not a literal Piśāca portrait.",
+      "sfw": true
     },
     "e-kinnaras": {
       "id": "e-kinnaras",
@@ -2412,7 +2425,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct ancient painted depiction of a Kinnara musician."
+      "note": "Direct ancient painted depiction of a Kinnara musician.",
+      "sfw": true
     },
     "e-vidyadharas": {
       "id": "e-vidyadharas",
@@ -2426,7 +2440,8 @@ window.VEILARIUM_DATA = {
       "license": "CC BY 3.0",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Directly identified Vidyādhara image; sculpture used where strong painting evidence is scarce."
+      "note": "Directly identified Vidyādhara image; sculpture used where strong painting evidence is scarce.",
+      "sfw": true
     },
     "e-siddhas": {
       "id": "e-siddhas",
@@ -2440,7 +2455,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Museum of Fine Arts, Boston",
       "mode": "direct",
-      "note": "Historical depiction of Indian adepts / siddhas."
+      "note": "Historical depiction of Indian adepts / siddhas.",
+      "sfw": true
     },
     "e-maruts": {
       "id": "e-maruts",
@@ -2454,7 +2470,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Vedic storm-and-sacrifice context for the Maruts; not a direct group portrait."
+      "note": "Vedic storm-and-sacrifice context for the Maruts; not a direct group portrait.",
+      "sfw": true
     },
     "e-adityas": {
       "id": "e-adityas",
@@ -2468,21 +2485,23 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Solar deity gateway to the Ādityas; member lists vary across textual periods."
+      "note": "Solar deity gateway to the Ādityas; member lists vary across textual periods.",
+      "sfw": true
     },
     "e-nymphs": {
       "id": "e-nymphs",
-      "title": "Hylas and the Nymphs",
-      "artist": "John William Waterhouse",
-      "date": "1896",
-      "filename": "Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15 n2.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg/960px-Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg",
+      "title": "Landscape with the Nymph Egeria and King Numa",
+      "artist": "Claude Lorrain",
+      "date": "1669",
+      "filename": "Claude Lorrain - Paysage avec la nymphe Egerie.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Claude_Lorrain_-_Paysage_avec_la_nymphe_Egerie.jpg/1280px-Claude_Lorrain_-_Paysage_avec_la_nymphe_Egerie.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/Claude_Lorrain_-_Paysage_avec_la_nymphe_Egerie.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Claude_Lorrain_-_Paysage_avec_la_nymphe_Egerie.jpg",
       "license": "Public Domain",
-      "collection": "Manchester Art Gallery",
+      "collection": "Museo di Capodimonte",
       "mode": "direct",
-      "note": "Direct mythological depiction of nymphs."
+      "note": "A direct nymph subject placed within a classical landscape. Chosen as an SFW alternative to later nude-heavy nymph paintings.",
+      "sfw": true
     },
     "e-dryads": {
       "id": "e-dryads",
@@ -2496,63 +2515,68 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Victorian mythological depiction of a dryad."
+      "note": "Direct Victorian mythological depiction of a dryad.",
+      "sfw": true
     },
     "e-naiads": {
       "id": "e-naiads",
-      "title": "A Naiad",
-      "artist": "John William Waterhouse",
-      "date": "1893",
-      "filename": "Naiad1.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Naiad1.jpg/960px-Naiad1.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Naiad1.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Naiad1.jpg",
-      "license": "Public Domain",
-      "collection": "Wikimedia Commons",
-      "mode": "direct",
-      "note": "Direct mythological depiction of a naiad."
+      "title": "The Source of the Loue",
+      "artist": "Gustave Courbet",
+      "date": "1864",
+      "filename": "The Source of the Loue MET DT1964.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Source_of_the_Loue_MET_DT1964.jpg/1280px-The_Source_of_the_Loue_MET_DT1964.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_Source_of_the_Loue_MET_DT1964.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Source_of_the_Loue_MET_DT1964.jpg",
+      "license": "CC0 / Public Domain",
+      "collection": "The Metropolitan Museum of Art",
+      "mode": "evocative",
+      "note": "Fresh-water source landscape used evocatively for Naiads. It does not claim to depict a Naiad figure.",
+      "sfw": true
     },
     "e-nereids": {
       "id": "e-nereids",
-      "title": "Nereid on a Hippocampus",
-      "artist": "Ancient Roman painter",
-      "date": "1st century CE",
-      "filename": "Painting of a Nereid on a hippocampus from antechamber to room 3 of the Villa Arianna in Stabiae found in 1760 now in MANN 8859.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg/960px-Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg",
+      "title": "Fishermen at Sea",
+      "artist": "J. M. W. Turner",
+      "date": "1796",
+      "filename": "Joseph Mallord William Turner - Fishermen at Sea - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg/1280px-Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg",
       "license": "Public Domain",
-      "collection": "National Archaeological Museum, Naples",
-      "mode": "direct",
-      "note": "Ancient direct Nereid imagery."
+      "collection": "Tate / Google Art Project reproduction",
+      "mode": "evocative",
+      "note": "Moonlit marine painting used as an SFW sea-world visual for Nereids; it is not a literal depiction.",
+      "sfw": true
     },
     "e-oceanids": {
       "id": "e-oceanids",
-      "title": "The Oceanids",
-      "artist": "Gustave Doré",
-      "date": "19th century",
-      "filename": "Oceanides.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oceanides.jpg/960px-Oceanides.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Oceanides.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Oceanides.jpg",
+      "title": "Seaport with the Embarkation of the Queen of Sheba",
+      "artist": "Claude Lorrain",
+      "date": "1648",
+      "filename": "Claude Lorrain - Seaport with the Embarkation of the Queen of Sheba - WGA05002.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Claude_Lorrain_-_Seaport_with_the_Embarkation_of_the_Queen_of_Sheba_-_WGA05002.jpg/1280px-Claude_Lorrain_-_Seaport_with_the_Embarkation_of_the_Queen_of_Sheba_-_WGA05002.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Claude_Lorrain_-_Seaport_with_the_Embarkation_of_the_Queen_of_Sheba_-_WGA05002.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Claude_Lorrain_-_Seaport_with_the_Embarkation_of_the_Queen_of_Sheba_-_WGA05002.jpg",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
-      "mode": "direct",
-      "note": "Direct literary-artistic depiction of the Oceanids."
+      "collection": "National Gallery, London",
+      "mode": "evocative",
+      "note": "A luminous marine world used evocatively for the Oceanids. Chosen to avoid nude-heavy Oceanid imagery.",
+      "sfw": true
     },
     "e-satyrs": {
       "id": "e-satyrs",
-      "title": "Nymphs and Satyr",
-      "artist": "William-Adolphe Bouguereau",
-      "date": "1873",
-      "filename": "William-Adolphe Bouguereau (1825-1905) - Nymphs and Satyr (1873) HQ.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg/960px-William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg",
+      "title": "Et in Arcadia Ego",
+      "artist": "Nicolas Poussin",
+      "date": "c. 1638–1640",
+      "filename": "Nicolas poussin, i pastori in arcadia (et in arcadia ego), 1638-40 ca. 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicolas_poussin,_i_pastori_in_arcadia_(et_in_arcadia_ego),_1638-40_ca._01.jpg/1280px-Nicolas_poussin,_i_pastori_in_arcadia_(et_in_arcadia_ego),_1638-40_ca._01.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nicolas_poussin,_i_pastori_in_arcadia_(et_in_arcadia_ego),_1638-40_ca._01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nicolas_poussin,_i_pastori_in_arcadia_(et_in_arcadia_ego),_1638-40_ca._01.jpg",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
-      "mode": "direct",
-      "note": "Direct academic mythological depiction of a satyr."
+      "collection": "Musée du Louvre",
+      "mode": "evocative",
+      "note": "Arcadian pastoral imagery used as an SFW visual for the rustic world associated with satyrs; it is not a direct satyr portrait.",
+      "sfw": true
     },
     "e-centaurs": {
       "id": "e-centaurs",
@@ -2566,7 +2590,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Symbolist depiction of a centaur."
+      "note": "Direct Symbolist depiction of a centaur.",
+      "sfw": true
     },
     "e-cyclopes": {
       "id": "e-cyclopes",
@@ -2580,7 +2605,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct depiction of the Cyclops Polyphemus."
+      "note": "Direct depiction of the Cyclops Polyphemus.",
+      "sfw": true
     },
     "e-moirai": {
       "id": "e-moirai",
@@ -2594,7 +2620,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct depiction of the Moirai / Fates."
+      "note": "Direct depiction of the Moirai / Fates.",
+      "sfw": true
     },
     "e-erinyes": {
       "id": "e-erinyes",
@@ -2608,7 +2635,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Ancient visual tradition of the Erinyes/Furies."
+      "note": "Ancient visual tradition of the Erinyes/Furies.",
+      "sfw": true
     },
     "e-harpies": {
       "id": "e-harpies",
@@ -2622,21 +2650,23 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct mythological depiction of Harpies."
+      "note": "Direct mythological depiction of Harpies.",
+      "sfw": true
     },
     "e-sirens": {
       "id": "e-sirens",
-      "title": "The Siren",
-      "artist": "John William Waterhouse",
-      "date": "1900",
-      "filename": "John William Waterhouse - The Siren, 1900.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_William_Waterhouse_-_The_Siren,_1900.jpg/960px-John_William_Waterhouse_-_The_Siren,_1900.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/John_William_Waterhouse_-_The_Siren,_1900.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_The_Siren,_1900.jpg",
-      "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "title": "The Siren Clothed in Barbs, Emerged from the Waves",
+      "artist": "Odilon Redon",
+      "date": "1883",
+      "filename": "Odilon Redon, La sirene sortit des flots vetue de dards (The Siren clothed in barbs, emerged from the waves, 1883, NGA 40259.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Odilon_Redon,_La_sirene_sortit_des_flots_vetue_de_dards_(The_Siren_clothed_in_barbs,_emerged_from_the_waves,_1883,_NGA_40259.jpg/960px-Odilon_Redon,_La_sirene_sortit_des_flots_vetue_de_dards_(The_Siren_clothed_in_barbs,_emerged_from_the_waves,_1883,_NGA_40259.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Odilon_Redon,_La_sirene_sortit_des_flots_vetue_de_dards_(The_Siren_clothed_in_barbs,_emerged_from_the_waves,_1883,_NGA_40259.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Odilon_Redon,_La_sirene_sortit_des_flots_vetue_de_dards_(The_Siren_clothed_in_barbs,_emerged_from_the_waves,_1883,_NGA_40259.jpg",
+      "license": "CC0",
+      "collection": "National Gallery of Art, Washington",
       "mode": "direct",
-      "note": "Later painterly interpretation of the Siren tradition."
+      "note": "A direct, symbolic Siren image from Redon's lithographic series; selected as a fully SFW alternative.",
+      "sfw": true
     },
     "e-gorgons": {
       "id": "e-gorgons",
@@ -2650,7 +2680,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct artistic depiction of Medusa, the best-known Gorgon."
+      "note": "Direct artistic depiction of Medusa, the best-known Gorgon.",
+      "sfw": true
     },
     "e-lamia": {
       "id": "e-lamia",
@@ -2664,7 +2695,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Later literary/mythological depiction of Lamia."
+      "note": "Later literary/mythological depiction of Lamia.",
+      "sfw": true
     },
     "e-aos-si": {
       "id": "e-aos-si",
@@ -2678,7 +2710,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Victorian fairy painting used as a visual gateway; Aos Sí traditions are specifically Irish and broader than Victorian fairy art."
+      "note": "Victorian fairy painting used as a visual gateway; Aos Sí traditions are specifically Irish and broader than Victorian fairy art.",
+      "sfw": true
     },
     "e-bean-si": {
       "id": "e-bean-si",
@@ -2692,7 +2725,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct later artistic depiction of the banshee / bean sí."
+      "note": "Direct later artistic depiction of the banshee / bean sí.",
+      "sfw": true
     },
     "e-selkies": {
       "id": "e-selkies",
@@ -2706,7 +2740,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Illustration of a famous selkie ballad tradition."
+      "note": "Illustration of a famous selkie ballad tradition.",
+      "sfw": true
     },
     "e-kelpies": {
       "id": "e-kelpies",
@@ -2720,7 +2755,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct painting of the Scottish water-horse being."
+      "note": "Direct painting of the Scottish water-horse being.",
+      "sfw": true
     },
     "e-brownies": {
       "id": "e-brownies",
@@ -2734,7 +2770,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Later literary/illustrated reception of brownie folklore."
+      "note": "Later literary/illustrated reception of brownie folklore.",
+      "sfw": true
     },
     "e-puca": {
       "id": "e-puca",
@@ -2748,7 +2785,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Illustrated literary reception of the Púca."
+      "note": "Illustrated literary reception of the Púca.",
+      "sfw": true
     },
     "e-dullahan": {
       "id": "e-dullahan",
@@ -2762,21 +2800,23 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Early published folklore illustration of the headless rider tradition."
+      "note": "Early published folklore illustration of the headless rider tradition.",
+      "sfw": true
     },
     "e-leannan-si": {
       "id": "e-leannan-si",
-      "title": "The Fairy Lovers",
-      "artist": "Theodor von Holst",
-      "date": "19th century",
-      "filename": "The Fairy Lovers.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Fairy_Lovers.jpg/960px-The_Fairy_Lovers.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Fairy_Lovers.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:The_Fairy_Lovers.jpg",
+      "title": "Fairies Looking Through a Gothic Arch",
+      "artist": "John Anster Fitzgerald",
+      "date": "c. 1864",
+      "filename": "FairiesGothicArch.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FairiesGothicArch.jpg/960px-FairiesGothicArch.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/FairiesGothicArch.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:FairiesGothicArch.jpg",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
-      "mode": "contextual",
-      "note": "Evocative fairy-lover painting for the Leannán Sí tradition."
+      "collection": "Wikimedia Commons / historical reproduction",
+      "mode": "evocative",
+      "note": "Victorian fairy-world image used evocatively for Leannán Sí, replacing the more sensual Fairy Lovers painting.",
+      "sfw": true
     },
     "e-glaistig": {
       "id": "e-glaistig",
@@ -2790,7 +2830,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Tate",
       "mode": "contextual",
-      "note": "Evocative Highland/otherworld atmosphere; not a literal Glaistig portrait."
+      "note": "Evocative Highland/otherworld atmosphere; not a literal Glaistig portrait.",
+      "sfw": true
     },
     "e-bean-nighe": {
       "id": "e-bean-nighe",
@@ -2804,7 +2845,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Evocative fairy-book visual for the washer-at-the-ford tradition; not a canonical depiction."
+      "note": "Evocative fairy-book visual for the washer-at-the-ford tradition; not a canonical depiction.",
+      "sfw": true
     },
     "e-alfar": {
       "id": "e-alfar",
@@ -2818,7 +2860,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Later northern European fairy imagery used evocatively; Old Norse Álfar are not simply identical to Victorian fairies."
+      "note": "Later northern European fairy imagery used evocatively; Old Norse Álfar are not simply identical to Victorian fairies.",
+      "sfw": true
     },
     "e-dvergar": {
       "id": "e-dvergar",
@@ -2832,7 +2875,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Germanic/Nibelung visual context for supernatural smiths; not a strict Old Norse Dvergar portrait."
+      "note": "Germanic/Nibelung visual context for supernatural smiths; not a strict Old Norse Dvergar portrait.",
+      "sfw": true
     },
     "e-jotnar": {
       "id": "e-jotnar",
@@ -2846,7 +2890,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct mythological depiction of Jötnar."
+      "note": "Direct mythological depiction of Jötnar.",
+      "sfw": true
     },
     "e-valkyries": {
       "id": "e-valkyries",
@@ -2860,7 +2905,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Romantic depiction of a Valkyrie."
+      "note": "Direct Romantic depiction of a Valkyrie.",
+      "sfw": true
     },
     "e-norns": {
       "id": "e-norns",
@@ -2874,7 +2920,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct depiction of the Norns."
+      "note": "Direct depiction of the Norns.",
+      "sfw": true
     },
     "e-draugr": {
       "id": "e-draugr",
@@ -2888,7 +2935,8 @@ window.VEILARIUM_DATA = {
       "license": "CC BY 4.0",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Modern direct illustration, used under its open license and clearly labeled as modern."
+      "note": "Modern direct illustration, used under its open license and clearly labeled as modern.",
+      "sfw": true
     },
     "e-landvaettir": {
       "id": "e-landvaettir",
@@ -2902,7 +2950,8 @@ window.VEILARIUM_DATA = {
       "license": "CC BY-SA 4.0",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Modern direct illustration of Icelandic land spirits, preserved under ShareAlike licensing."
+      "note": "Modern direct illustration of Icelandic land spirits, preserved under ShareAlike licensing.",
+      "sfw": true
     },
     "e-fylgjur": {
       "id": "e-fylgjur",
@@ -2916,7 +2965,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Old Icelandic manuscript atmosphere for fylgja traditions; not a direct attested fylgja portrait."
+      "note": "Old Icelandic manuscript atmosphere for fylgja traditions; not a direct attested fylgja portrait.",
+      "sfw": true
     },
     "e-jinn": {
       "id": "e-jinn",
@@ -2930,7 +2980,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Arabian Nights literary depiction of a genie/jinni, not an Islamic theological portrait of jinn."
+      "note": "Arabian Nights literary depiction of a genie/jinni, not an Islamic theological portrait of jinn.",
+      "sfw": true
     },
     "e-ifrit": {
       "id": "e-ifrit",
@@ -2944,7 +2995,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Later Arabian Nights genie imagery used for the formidable ʿifrīt tradition."
+      "note": "Later Arabian Nights genie imagery used for the formidable ʿifrīt tradition.",
+      "sfw": true
     },
     "e-marid": {
       "id": "e-marid",
@@ -2958,7 +3010,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Evocative Arabian Nights illustration for later Mārid traditions."
+      "note": "Evocative Arabian Nights illustration for later Mārid traditions.",
+      "sfw": true
     },
     "e-ghul": {
       "id": "e-ghul",
@@ -2972,7 +3025,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "literary",
-      "note": "Direct literary depiction of a ghoul from an Arabian Nights illustration tradition."
+      "note": "Direct literary depiction of a ghoul from an Arabian Nights illustration tradition.",
+      "sfw": true
     },
     "e-peri": {
       "id": "e-peri",
@@ -2986,7 +3040,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Symbolist interpretation of a Péri; beautiful but later than the Persianate literary tradition."
+      "note": "Symbolist interpretation of a Péri; beautiful but later than the Persianate literary tradition.",
+      "sfw": true
     },
     "e-div": {
       "id": "e-div",
@@ -3000,7 +3055,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Shāhnāma depiction of the White Div."
+      "note": "Direct Shāhnāma depiction of the White Div.",
+      "sfw": true
     },
     "e-fravashis": {
       "id": "e-fravashis",
@@ -3014,7 +3070,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "symbolic",
-      "note": "Symbolic visual context only. Faravahar iconography should not be simplistically treated as a literal portrait of a fravashi."
+      "note": "Symbolic visual context only. Faravahar iconography should not be simplistically treated as a literal portrait of a fravashi.",
+      "sfw": true
     },
     "e-yazatas": {
       "id": "e-yazatas",
@@ -3028,7 +3085,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Historical architectural/artistic context for Anāhitā, a yazata; not a generic portrait of all Yazatas."
+      "note": "Historical architectural/artistic context for Anāhitā, a yazata; not a generic portrait of all Yazatas.",
+      "sfw": true
     },
     "e-kami": {
       "id": "e-kami",
@@ -3042,7 +3100,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct ukiyo-e depiction of the Amaterasu cave narrative; Kami is a broader category."
+      "note": "Direct ukiyo-e depiction of the Amaterasu cave narrative; Kami is a broader category.",
+      "sfw": true
     },
     "e-yokai": {
       "id": "e-yokai",
@@ -3056,7 +3115,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Edo supernatural print used for the broad Yōkai gateway."
+      "note": "Edo supernatural print used for the broad Yōkai gateway.",
+      "sfw": true
     },
     "e-oni": {
       "id": "e-oni",
@@ -3070,7 +3130,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Edo-period yōkai compendium depiction of an Oni."
+      "note": "Direct Edo-period yōkai compendium depiction of an Oni.",
+      "sfw": true
     },
     "e-tengu": {
       "id": "e-tengu",
@@ -3084,7 +3145,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Historical Tengu scroll imagery."
+      "note": "Historical Tengu scroll imagery.",
+      "sfw": true
     },
     "e-kitsune": {
       "id": "e-kitsune",
@@ -3098,7 +3160,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Japanese fox-spirit imagery."
+      "note": "Direct Japanese fox-spirit imagery.",
+      "sfw": true
     },
     "e-yurei": {
       "id": "e-yurei",
@@ -3112,7 +3175,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Edo-period ghost imagery."
+      "note": "Direct Edo-period ghost imagery.",
+      "sfw": true
     },
     "e-kappa": {
       "id": "e-kappa",
@@ -3126,7 +3190,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Historical illustrated Kappa types."
+      "note": "Historical illustrated Kappa types.",
+      "sfw": true
     },
     "e-tsukumogami": {
       "id": "e-tsukumogami",
@@ -3140,7 +3205,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Historical animated-object imagery from the Night Parade tradition."
+      "note": "Historical animated-object imagery from the Night Parade tradition.",
+      "sfw": true
     },
     "e-rusalka": {
       "id": "e-rusalka",
@@ -3154,7 +3220,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct literary/folkloric depiction of a Rusalka."
+      "note": "Direct literary/folkloric depiction of a Rusalka.",
+      "sfw": true
     },
     "e-domovoi": {
       "id": "e-domovoi",
@@ -3168,7 +3235,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct folklore illustration of a Domovoi."
+      "note": "Direct folklore illustration of a Domovoi.",
+      "sfw": true
     },
     "e-leshy": {
       "id": "e-leshy",
@@ -3182,7 +3250,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct folklore illustration of a Leshy."
+      "note": "Direct folklore illustration of a Leshy.",
+      "sfw": true
     },
     "e-vodyanoy": {
       "id": "e-vodyanoy",
@@ -3196,7 +3265,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct folklore illustration of a Vodyanoy."
+      "note": "Direct folklore illustration of a Vodyanoy.",
+      "sfw": true
     },
     "e-kikimora": {
       "id": "e-kikimora",
@@ -3210,7 +3280,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct folklore illustration of a Kikimora."
+      "note": "Direct folklore illustration of a Kikimora.",
+      "sfw": true
     },
     "e-zmey": {
       "id": "e-zmey",
@@ -3224,7 +3295,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct dragon/zmey artistic depiction."
+      "note": "Direct dragon/zmey artistic depiction.",
+      "sfw": true
     },
     "e-angelic": {
       "id": "e-angelic",
@@ -3238,7 +3310,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Christian academic painting used only as Christian visual reception; not a universal depiction of Jewish, Christian and Islamic angelic traditions."
+      "note": "Christian academic painting used only as Christian visual reception; not a universal depiction of Jewish, Christian and Islamic angelic traditions.",
+      "sfw": true
     },
     "e-seraphim": {
       "id": "e-seraphim",
@@ -3252,7 +3325,8 @@ window.VEILARIUM_DATA = {
       "license": "CC0",
       "collection": "Metropolitan Museum of Art",
       "mode": "direct",
-      "note": "Later Christian visual reception of seraphic/cherubic imagery."
+      "note": "Later Christian visual reception of seraphic/cherubic imagery.",
+      "sfw": true
     },
     "e-cherubim": {
       "id": "e-cherubim",
@@ -3266,7 +3340,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Christian artistic reception of Ezekiel’s throne vision and cherubic imagery."
+      "note": "Christian artistic reception of Ezekiel’s throne vision and cherubic imagery.",
+      "sfw": true
     },
     "e-netjeru": {
       "id": "e-netjeru",
@@ -3280,7 +3355,8 @@ window.VEILARIUM_DATA = {
       "license": "CC0",
       "collection": "Metropolitan Museum of Art",
       "mode": "direct",
-      "note": "Ancient Egyptian divine/funerary imagery."
+      "note": "Ancient Egyptian divine/funerary imagery.",
+      "sfw": true
     },
     "e-ammit": {
       "id": "e-ammit",
@@ -3294,7 +3370,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct visual tradition of Ammit."
+      "note": "Direct visual tradition of Ammit.",
+      "sfw": true
     },
     "e-bennu": {
       "id": "e-bennu",
@@ -3308,7 +3385,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Historical reproduction of Bennu iconography."
+      "note": "Historical reproduction of Bennu iconography.",
+      "sfw": true
     },
     "e-xian": {
       "id": "e-xian",
@@ -3322,7 +3400,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct depiction of famous Daoist immortals / transcendent beings."
+      "note": "Direct depiction of famous Daoist immortals / transcendent beings.",
+      "sfw": true
     },
     "e-huli-jing": {
       "id": "e-huli-jing",
@@ -3336,7 +3415,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Historical fox-spirit / nine-tailed fox imagery."
+      "note": "Historical fox-spirit / nine-tailed fox imagery.",
+      "sfw": true
     },
     "e-dakinis": {
       "id": "e-dakinis",
@@ -3350,7 +3430,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Tibetan Buddhist Ḍākinī imagery."
+      "note": "Direct Tibetan Buddhist Ḍākinī imagery.",
+      "sfw": true
     },
     "e-dharmapalas": {
       "id": "e-dharmapalas",
@@ -3364,7 +3445,8 @@ window.VEILARIUM_DATA = {
       "license": "CC0",
       "collection": "Sichuan University Museum",
       "mode": "direct",
-      "note": "Direct protector-deity imagery."
+      "note": "Direct protector-deity imagery.",
+      "sfw": true
     },
     "e-tzitzimime": {
       "id": "e-tzitzimime",
@@ -3378,7 +3460,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct codex-derived celestial-being imagery."
+      "note": "Direct codex-derived celestial-being imagery.",
+      "sfw": true
     },
     "e-aluxoob": {
       "id": "e-aluxoob",
@@ -3392,7 +3475,8 @@ window.VEILARIUM_DATA = {
       "license": "CC BY-SA 3.0",
       "collection": "Walters Art Museum",
       "mode": "contextual",
-      "note": "Contextual Maya creation/earth-dweller imagery. It is not presented as a canonical portrait of an Alux; the modern Alux tradition is distinct and living."
+      "note": "Contextual Maya creation/earth-dweller imagery. It is not presented as a canonical portrait of an Alux; the modern Alux tradition is distinct and living.",
+      "sfw": true
     },
     "r-satya": {
       "id": "r-satya",
@@ -3406,7 +3490,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Brahmā-centered evocative image for Satyaloka/Brahmaloka; not a canonical map of the realm."
+      "note": "Brahmā-centered evocative image for Satyaloka/Brahmaloka; not a canonical map of the realm.",
+      "sfw": true
     },
     "r-tapo": {
       "id": "r-tapo",
@@ -3420,7 +3505,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Ascetic imagery for Tapoloka."
+      "note": "Ascetic imagery for Tapoloka.",
+      "sfw": true
     },
     "r-jana": {
       "id": "r-jana",
@@ -3434,7 +3520,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Sage/divine cosmology atmosphere for Janaloka; not a direct realm portrait."
+      "note": "Sage/divine cosmology atmosphere for Janaloka; not a direct realm portrait.",
+      "sfw": true
     },
     "r-mahar": {
       "id": "r-mahar",
@@ -3448,7 +3535,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Heaven-ascent narrative used evocatively for Maharloka."
+      "note": "Heaven-ascent narrative used evocatively for Maharloka.",
+      "sfw": true
     },
     "r-svarga": {
       "id": "r-svarga",
@@ -3462,7 +3550,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Historical depiction of Indra’s heavenly court; an unusually direct visual for Svarga."
+      "note": "Historical depiction of Indra’s heavenly court; an unusually direct visual for Svarga.",
+      "sfw": true
     },
     "r-bhuvar": {
       "id": "r-bhuvar",
@@ -3476,7 +3565,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Los Angeles County Museum of Art",
       "mode": "evocative",
-      "note": "Celestial intermediary atmosphere used for Bhuvarloka."
+      "note": "Celestial intermediary atmosphere used for Bhuvarloka.",
+      "sfw": true
     },
     "r-bhu": {
       "id": "r-bhu",
@@ -3490,7 +3580,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Terrestrial sacred-world image for Bhūloka."
+      "note": "Terrestrial sacred-world image for Bhūloka.",
+      "sfw": true
     },
     "r-atala": {
       "id": "r-atala",
@@ -3504,7 +3595,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Lower-world/danger imagery only; not a direct depiction of Atala."
+      "note": "Lower-world/danger imagery only; not a direct depiction of Atala.",
+      "sfw": true
     },
     "r-vitala": {
       "id": "r-vitala",
@@ -3518,7 +3610,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Chthonic/power imagery used evocatively for Vitala; not a canonical realm portrait."
+      "note": "Chthonic/power imagery used evocatively for Vitala; not a canonical realm portrait.",
+      "sfw": true
     },
     "r-sutala": {
       "id": "r-sutala",
@@ -3532,7 +3625,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Story association with Bali/Vāmana makes this especially relevant to Sutala, though it is not a realm map."
+      "note": "Story association with Bali/Vāmana makes this especially relevant to Sutala, though it is not a realm map.",
+      "sfw": true
     },
     "r-talatala": {
       "id": "r-talatala",
@@ -3546,7 +3640,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Asura/power imagery used evocatively for Talātala."
+      "note": "Asura/power imagery used evocatively for Talātala.",
+      "sfw": true
     },
     "r-mahatala": {
       "id": "r-mahatala",
@@ -3560,7 +3655,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Nāga imagery used for Mahātala associations; not a direct map."
+      "note": "Nāga imagery used for Mahātala associations; not a direct map.",
+      "sfw": true
     },
     "r-rasatala": {
       "id": "r-rasatala",
@@ -3574,7 +3670,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Cosmic-ocean imagery used evocatively for Rasātala."
+      "note": "Cosmic-ocean imagery used evocatively for Rasātala.",
+      "sfw": true
     },
     "r-patala": {
       "id": "r-patala",
@@ -3588,7 +3685,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Subterranean/cosmic-serpent atmosphere for Pātāla. Pātāla is not automatically equivalent to “hell.”"
+      "note": "Subterranean/cosmic-serpent atmosphere for Pātāla. Pātāla is not automatically equivalent to “hell.”",
+      "sfw": true
     },
     "r-olympus": {
       "id": "r-olympus",
@@ -3602,7 +3700,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct later artistic visualization of Olympus."
+      "note": "Direct later artistic visualization of Olympus.",
+      "sfw": true
     },
     "r-hades": {
       "id": "r-hades",
@@ -3616,7 +3715,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Ancient manuscript underworld-journey context; Hades is broader than this one scene."
+      "note": "Ancient manuscript underworld-journey context; Hades is broader than this one scene.",
+      "sfw": true
     },
     "r-elysium": {
       "id": "r-elysium",
@@ -3630,21 +3730,23 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Later direct artistic visualization of Elysium."
+      "note": "Later direct artistic visualization of Elysium.",
+      "sfw": true
     },
     "r-oceanus": {
       "id": "r-oceanus",
-      "title": "The Oceanids",
-      "artist": "Gustave Doré",
-      "date": "19th century",
-      "filename": "Oceanides.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oceanides.jpg/960px-Oceanides.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Oceanides.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Oceanides.jpg",
+      "title": "Fishermen at Sea",
+      "artist": "J. M. W. Turner",
+      "date": "1796",
+      "filename": "Joseph Mallord William Turner - Fishermen at Sea - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg/1280px-Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Fishermen_at_Sea_-_Google_Art_Project.jpg",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "collection": "Tate / Google Art Project reproduction",
       "mode": "evocative",
-      "note": "Oceanic divine landscape used for Okeanos/Oceanus."
+      "note": "Moonlit open sea used evocatively for Okeanos/Oceanus. Greek cosmological geography is not being equated with this later British painting.",
+      "sfw": true
     },
     "r-blessed": {
       "id": "r-blessed",
@@ -3658,7 +3760,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Paradisal/underworld landscape used evocatively for the Isles of the Blessed."
+      "note": "Paradisal/underworld landscape used evocatively for the Isles of the Blessed.",
+      "sfw": true
     },
     "r-asgard": {
       "id": "r-asgard",
@@ -3672,7 +3775,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Later northern mythological vision used for the divine realm of Ásgarðr."
+      "note": "Later northern mythological vision used for the divine realm of Ásgarðr.",
+      "sfw": true
     },
     "r-valhalla": {
       "id": "r-valhalla",
@@ -3686,7 +3790,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct later illustration captioned “Valhalla.”"
+      "note": "Direct later illustration captioned “Valhalla.”",
+      "sfw": true
     },
     "r-alfheim": {
       "id": "r-alfheim",
@@ -3700,7 +3805,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Evocative later fairy imagery for Álfheimr, not direct Old Norse evidence."
+      "note": "Evocative later fairy imagery for Álfheimr, not direct Old Norse evidence.",
+      "sfw": true
     },
     "r-jotunheim": {
       "id": "r-jotunheim",
@@ -3714,7 +3820,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Jötunn imagery used for Jötunheimr."
+      "note": "Jötunn imagery used for Jötunheimr.",
+      "sfw": true
     },
     "r-midgard": {
       "id": "r-midgard",
@@ -3728,7 +3835,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Human-world northern landscape used for Miðgarðr."
+      "note": "Human-world northern landscape used for Miðgarðr.",
+      "sfw": true
     },
     "r-hel": {
       "id": "r-hel",
@@ -3742,7 +3850,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Later direct depiction of Hermóðr before Hel, strongly tied to the underworld location."
+      "note": "Later direct depiction of Hermóðr before Hel, strongly tied to the underworld location.",
+      "sfw": true
     },
     "r-niflheim": {
       "id": "r-niflheim",
@@ -3756,7 +3865,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Dark underworld journey imagery used evocatively for Niflheimr."
+      "note": "Dark underworld journey imagery used evocatively for Niflheimr.",
+      "sfw": true
     },
     "r-muspelheim": {
       "id": "r-muspelheim",
@@ -3770,7 +3880,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Fire/chaos mythic imagery for Muspelheim; realm lists vary by source and synthesis."
+      "note": "Fire/chaos mythic imagery for Muspelheim; realm lists vary by source and synthesis.",
+      "sfw": true
     },
     "r-duat": {
       "id": "r-duat",
@@ -3784,7 +3895,8 @@ window.VEILARIUM_DATA = {
       "license": "CC0",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Ancient funerary imagery for the Duat journey."
+      "note": "Ancient funerary imagery for the Duat journey.",
+      "sfw": true
     },
     "r-two-truths": {
       "id": "r-two-truths",
@@ -3798,7 +3910,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct judgment scene associated with the Hall of Two Truths."
+      "note": "Direct judgment scene associated with the Hall of Two Truths.",
+      "sfw": true
     },
     "r-aaru": {
       "id": "r-aaru",
@@ -3812,7 +3925,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Afterlife papyrus imagery used for Aaru / Field of Reeds context."
+      "note": "Afterlife papyrus imagery used for Aaru / Field of Reeds context.",
+      "sfw": true
     },
     "r-solar-barque": {
       "id": "r-solar-barque",
@@ -3826,7 +3940,8 @@ window.VEILARIUM_DATA = {
       "license": "CC0",
       "collection": "Metropolitan Museum of Art",
       "mode": "direct",
-      "note": "Direct divine-barque funerary imagery."
+      "note": "Direct divine-barque funerary imagery.",
+      "sfw": true
     },
     "r-tomb-night": {
       "id": "r-tomb-night",
@@ -3840,7 +3955,8 @@ window.VEILARIUM_DATA = {
       "license": "CC0",
       "collection": "Metropolitan Museum of Art",
       "mode": "contextual",
-      "note": "Funerary cosmology imagery for night passage; corpora vary by period."
+      "note": "Funerary cosmology imagery for night passage; corpora vary by period.",
+      "sfw": true
     },
     "r-trayastrimsa": {
       "id": "r-trayastrimsa",
@@ -3854,7 +3970,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct manuscript scene naming Trāyastriṃśa Heaven."
+      "note": "Direct manuscript scene naming Trāyastriṃśa Heaven.",
+      "sfw": true
     },
     "r-tushita": {
       "id": "r-tushita",
@@ -3868,7 +3985,8 @@ window.VEILARIUM_DATA = {
       "license": "CC BY-SA 4.0",
       "collection": "Ajanta Caves",
       "mode": "direct",
-      "note": "Directly identified Tuṣita-heaven imagery; the modern photo is CC BY-SA."
+      "note": "Directly identified Tuṣita-heaven imagery; the modern photo is CC BY-SA.",
+      "sfw": true
     },
     "r-preta": {
       "id": "r-preta",
@@ -3882,7 +4000,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct hungry-ghost / preta-realm imagery in Japanese Buddhist art."
+      "note": "Direct hungry-ghost / preta-realm imagery in Japanese Buddhist art.",
+      "sfw": true
     },
     "r-naraka": {
       "id": "r-naraka",
@@ -3896,7 +4015,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Naraka imagery; hell systems vary by school and region."
+      "note": "Direct Naraka imagery; hell systems vary by school and region.",
+      "sfw": true
     },
     "r-sukhavati": {
       "id": "r-sukhavati",
@@ -3910,7 +4030,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Direct Pure Land / Sukhāvatī visual tradition. Pure Land should not be forced into one universal six-realm ladder."
+      "note": "Direct Pure Land / Sukhāvatī visual tradition. Pure Land should not be forced into one universal six-realm ladder.",
+      "sfw": true
     },
     "r-human-buddhist": {
       "id": "r-human-buddhist",
@@ -3924,7 +4045,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Human sacred-world imagery used for the human realm and path of practice."
+      "note": "Human sacred-world imagery used for the human realm and path of practice.",
+      "sfw": true
     },
     "r-takamagahara": {
       "id": "r-takamagahara",
@@ -3938,7 +4060,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "Amaterasu myth imagery used for Takamagahara; not a cartographic depiction."
+      "note": "Amaterasu myth imagery used for Takamagahara; not a cartographic depiction.",
+      "sfw": true
     },
     "r-ashihara": {
       "id": "r-ashihara",
@@ -3952,7 +4075,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Creation-of-the-land imagery for Ashihara-no-Nakatsukuni / the central land."
+      "note": "Creation-of-the-land imagery for Ashihara-no-Nakatsukuni / the central land.",
+      "sfw": true
     },
     "r-yomi": {
       "id": "r-yomi",
@@ -3966,7 +4090,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Japanese print tradition / Wikimedia Commons",
       "mode": "contextual",
-      "note": "Izanagi and Izanami mythic context for Yomi. This print depicts the creator deities on the heavenly bridge, not Yomi itself."
+      "note": "Izanagi and Izanami mythic context for Yomi. This print depicts the creator deities on the heavenly bridge, not Yomi itself.",
+      "sfw": true
     },
     "r-shrine-threshold": {
       "id": "r-shrine-threshold",
@@ -3980,7 +4105,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "evocative",
-      "note": "Sacred-threshold / ritual imagery; this is not treated as a separate universal “realm.”"
+      "note": "Sacred-threshold / ritual imagery; this is not treated as a separate universal “realm.”",
+      "sfw": true
     },
     "p-sun": {
       "id": "p-sun",
@@ -3994,91 +4120,98 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "direct",
-      "note": "Solar visual for the Sun hub."
+      "note": "Solar visual for the Sun hub.",
+      "sfw": true
     },
     "p-moon": {
       "id": "p-moon",
-      "title": "Selene and Endymion",
-      "artist": "Albert Aublet",
-      "date": "1880s",
-      "filename": "Selene and Endymion.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Selene_and_Endymion.jpg/960px-Selene_and_Endymion.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/4/42/Selene_and_Endymion.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Selene_and_Endymion.jpg",
+      "title": "Chandra Graha",
+      "artist": "E. A. Rodrigues",
+      "date": "1842",
+      "filename": "Chandra graha.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chandra_graha.JPG/960px-Chandra_graha.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Chandra_graha.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Chandra_graha.JPG",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "collection": "The Complete Hindoo Pantheon (1842)",
       "mode": "direct",
-      "note": "Greek lunar visual for the Moon hub; other lunar traditions remain distinct."
+      "note": "Traditional illustration of Chandra used as the SFW visual anchor for the Moon hub. The comparison panel still preserves distinct lunar traditions.",
+      "sfw": true
     },
     "p-mercury": {
       "id": "p-mercury",
-      "title": "Mercury and Argus",
-      "artist": "Diego Velázquez",
-      "date": "c. 1659",
-      "filename": "Diego Velázquez - Mercury and Argus - WGA24471.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg/960px-Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg",
+      "title": "Budha Graha",
+      "artist": "E. A. Rodrigues",
+      "date": "1842",
+      "filename": "Budha graha.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Budha_graha.JPG/960px-Budha_graha.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Budha_graha.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Budha_graha.JPG",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "collection": "The Complete Hindoo Pantheon (1842)",
       "mode": "direct",
-      "note": "Greco-Roman Mercury visual for the planetary comparison hub."
+      "note": "Traditional illustration of Budha, the Mercury graha, used as the SFW visual anchor for the Mercury hub.",
+      "sfw": true
     },
     "p-venus": {
       "id": "p-venus",
-      "title": "The Birth of Venus",
-      "artist": "Sandro Botticelli",
-      "date": "c. 1484–1486",
-      "filename": "Birth of Venus Botticelli.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Birth_of_Venus_Botticelli.jpg/960px-Birth_of_Venus_Botticelli.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/Birth_of_Venus_Botticelli.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Birth_of_Venus_Botticelli.jpg",
+      "title": "Shukra Graha",
+      "artist": "E. A. Rodrigues",
+      "date": "1842",
+      "filename": "Shukra graha.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Shukra_graha.JPG/960px-Shukra_graha.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Shukra_graha.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Shukra_graha.JPG",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "collection": "The Complete Hindoo Pantheon (1842)",
       "mode": "direct",
-      "note": "Greco-Roman Venus/Aphrodite visual for the Venus hub."
+      "note": "Traditional illustration of Shukra, the Venus graha, used as the SFW visual anchor instead of nude Birth of Venus imagery.",
+      "sfw": true
     },
     "p-mars": {
       "id": "p-mars",
-      "title": "Mars, God of War",
-      "artist": "Diego Velázquez",
-      "date": "c. 1640",
-      "filename": "Diego Velázquez - Mars, God of War - WGA24429.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg/960px-Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg",
+      "title": "Angāraka / Mangala Graha",
+      "artist": "E. A. Rodrigues",
+      "date": "1842",
+      "filename": "Angraka graha.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Angraka_graha.JPG/960px-Angraka_graha.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Angraka_graha.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Angraka_graha.JPG",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "collection": "The Complete Hindoo Pantheon (1842)",
       "mode": "direct",
-      "note": "Greco-Roman Mars visual for the Mars hub."
+      "note": "Traditional illustration of Mangala/Angāraka, the Mars graha, used as the SFW visual anchor for the Mars hub.",
+      "sfw": true
     },
     "p-jupiter": {
       "id": "p-jupiter",
-      "title": "Jupiter and Thetis",
-      "artist": "Jean-Auguste-Dominique Ingres",
-      "date": "1811",
-      "filename": "IngresJupiterAndThetis.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/IngresJupiterAndThetis.jpg/960px-IngresJupiterAndThetis.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/IngresJupiterAndThetis.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:IngresJupiterAndThetis.jpg",
+      "title": "Bṛhaspati Graha",
+      "artist": "E. A. Rodrigues",
+      "date": "1842",
+      "filename": "Brihaspati graha.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Brihaspati_graha.JPG/960px-Brihaspati_graha.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brihaspati_graha.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Brihaspati_graha.JPG",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "collection": "The Complete Hindoo Pantheon (1842)",
       "mode": "direct",
-      "note": "Greco-Roman Jupiter visual for the Jupiter hub."
+      "note": "Traditional illustration of Bṛhaspati, the Jupiter graha, used as the SFW visual anchor for the Jupiter hub.",
+      "sfw": true
     },
     "p-saturn": {
       "id": "p-saturn",
-      "title": "Saturn Devouring His Son",
-      "artist": "Francisco de Goya",
-      "date": "1819–1823",
-      "filename": "Francisco de Goya, Saturno devorando a su hijo (1819-1823).jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg/960px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+      "title": "Śani Graha",
+      "artist": "E. A. Rodrigues",
+      "date": "1842",
+      "filename": "Shani graha.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Shani_graha.JPG/960px-Shani_graha.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Shani_graha.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Shani_graha.JPG",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
+      "collection": "The Complete Hindoo Pantheon (1842)",
       "mode": "direct",
-      "note": "Greco-Roman Saturn/Kronos reception for the Saturn hub; not a universal planetary meaning."
+      "note": "Traditional illustration of Śani, the Saturn graha, replacing Goya's violent Saturn image.",
+      "sfw": true
     },
     "p-eclipses": {
       "id": "p-eclipses",
@@ -4092,7 +4225,8 @@ window.VEILARIUM_DATA = {
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
       "mode": "contextual",
-      "note": "South Asian celestial/mythic context for the eclipse/node hub. Rāhu and Ketu are treated in the text as specific Jyotiṣa nodes."
+      "note": "South Asian celestial/mythic context for the eclipse/node hub. Rāhu and Ketu are treated in the text as specific Jyotiṣa nodes.",
+      "sfw": true
     }
   },
   "traditions": [
@@ -4444,76 +4578,105 @@ window.VEILARIUM_DATA = {
       "note": "Loka arrangements, inhabitants and descriptions vary across Purāṇas, schools and commentators. Lower lokas are not automatically “hells.”",
       "realms": [
         {
-          "name": "Satyaloka / Brahmaloka",
-          "artworkId": "r-satya",
-          "text": "An extremely elevated Brahmā-associated realm in several later cosmological presentations."
-        },
-        {
-          "name": "Tapoloka",
-          "artworkId": "r-tapo",
-          "text": "An elevated realm associated in some Purāṇic schemas with powerful ascetic beings."
-        },
-        {
-          "name": "Janaloka",
-          "artworkId": "r-jana",
-          "text": "An elevated loka associated in several texts with spiritually advanced sages or beings."
-        },
-        {
-          "name": "Maharloka",
-          "artworkId": "r-mahar",
-          "text": "A “great world” above Svarga in several later cosmographic arrangements."
-        },
-        {
-          "name": "Svargaloka",
-          "artworkId": "r-svarga",
-          "text": "A celestial/heavenly realm associated with devas and Indra in many later Hindu traditions."
-        },
-        {
-          "name": "Bhuvarloka",
-          "artworkId": "r-bhuvar",
-          "text": "An intermediary sphere whose precise meaning shifts across textual and ritual contexts."
-        },
-        {
-          "name": "Bhūloka",
-          "artworkId": "r-bhu",
-          "text": "The terrestrial sphere of embodied human life in common cosmographic usage."
-        },
-        {
-          "name": "Atala",
-          "artworkId": "r-atala",
-          "text": "One of seven lower regions in several Purāṇic cosmographies."
-        },
-        {
-          "name": "Vitala",
-          "artworkId": "r-vitala",
-          "text": "One of the seven lower regions; descriptions vary by source."
-        },
-        {
-          "name": "Sutala",
-          "artworkId": "r-sutala",
-          "text": "A lower realm prominently associated with Bali in Purāṇic Vāmana narratives."
-        },
-        {
-          "name": "Talātala",
-          "artworkId": "r-talatala",
-          "text": "One of the seven lower regions in several Purāṇic presentations."
-        },
-        {
-          "name": "Mahātala",
-          "artworkId": "r-mahatala",
-          "text": "A lower region often connected with serpent beings in later cosmographic accounts."
+          "name": "Pātāla",
+          "artworkId": "r-patala",
+          "text": "A subterranean/lower region often associated with Nāgas and splendor; not simply equivalent to “hell.”",
+          "ascentIndex": 1,
+          "ascentLabel": "LOWEST / CHthonic"
         },
         {
           "name": "Rasātala",
           "artworkId": "r-rasatala",
-          "text": "A lower region described differently across Purāṇic cosmographies."
+          "text": "A lower region described differently across Purāṇic cosmographies.",
+          "ascentIndex": 2,
+          "ascentLabel": "ASCENDING"
         },
         {
-          "name": "Pātāla",
-          "artworkId": "r-patala",
-          "text": "A subterranean/lower region often associated with Nāgas and splendor; not simply equivalent to “hell.”"
+          "name": "Mahātala",
+          "artworkId": "r-mahatala",
+          "text": "A lower region often connected with serpent beings in later cosmographic accounts.",
+          "ascentIndex": 3,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Talātala",
+          "artworkId": "r-talatala",
+          "text": "One of the seven lower regions in several Purāṇic presentations.",
+          "ascentIndex": 4,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Sutala",
+          "artworkId": "r-sutala",
+          "text": "A lower realm prominently associated with Bali in Purāṇic Vāmana narratives.",
+          "ascentIndex": 5,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Vitala",
+          "artworkId": "r-vitala",
+          "text": "One of the seven lower regions; descriptions vary by source.",
+          "ascentIndex": 6,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Atala",
+          "artworkId": "r-atala",
+          "text": "One of seven lower regions in several Purāṇic cosmographies.",
+          "ascentIndex": 7,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Bhūloka",
+          "artworkId": "r-bhu",
+          "text": "The terrestrial sphere of embodied human life in common cosmographic usage.",
+          "ascentIndex": 8,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Bhuvarloka",
+          "artworkId": "r-bhuvar",
+          "text": "An intermediary sphere whose precise meaning shifts across textual and ritual contexts.",
+          "ascentIndex": 9,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Svargaloka",
+          "artworkId": "r-svarga",
+          "text": "A celestial/heavenly realm associated with devas and Indra in many later Hindu traditions.",
+          "ascentIndex": 10,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Maharloka",
+          "artworkId": "r-mahar",
+          "text": "A “great world” above Svarga in several later cosmographic arrangements.",
+          "ascentIndex": 11,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Janaloka",
+          "artworkId": "r-jana",
+          "text": "An elevated loka associated in several texts with spiritually advanced sages or beings.",
+          "ascentIndex": 12,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Tapoloka",
+          "artworkId": "r-tapo",
+          "text": "An elevated realm associated in some Purāṇic schemas with powerful ascetic beings.",
+          "ascentIndex": 13,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Satyaloka / Brahmaloka",
+          "artworkId": "r-satya",
+          "text": "An extremely elevated Brahmā-associated realm in several later cosmological presentations.",
+          "ascentIndex": 14,
+          "ascentLabel": "HIGHEST / CELESTIAL"
         }
-      ]
+      ],
+      "orderingNote": "Displayed from the seven lower regions upward through Bhūloka, the intermediary/celestial worlds and Satyaloka. This is one common Purāṇic-style arrangement, not the only Hindu cosmology."
     },
     {
       "id": "greek",
@@ -4522,31 +4685,42 @@ window.VEILARIUM_DATA = {
       "note": "Greek and Roman authors do not provide one perfectly uniform map; terms and afterlife geographies shift by period and genre.",
       "realms": [
         {
-          "name": "Mount Olympus",
-          "artworkId": "r-olympus",
-          "text": "Seat of the Olympian gods in Greek poetic and later visual imagination."
-        },
-        {
           "name": "Hades / Underworld",
           "artworkId": "r-hades",
-          "text": "The realm of the dead, represented differently across epic, mystery, philosophical and later literary traditions."
-        },
-        {
-          "name": "Elysium",
-          "artworkId": "r-elysium",
-          "text": "A blessed afterlife landscape whose meaning develops across Greek and Roman literature."
+          "text": "The realm of the dead, represented differently across epic, mystery, philosophical and later literary traditions.",
+          "ascentIndex": 1,
+          "ascentLabel": "LOWEST / CHthonic"
         },
         {
           "name": "Okeanos / Oceanus",
           "artworkId": "r-oceanus",
-          "text": "The encircling cosmic river and divine watery boundary in archaic cosmological imagination."
+          "text": "The encircling cosmic river and divine watery boundary in archaic cosmological imagination.",
+          "ascentIndex": 2,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Elysium",
+          "artworkId": "r-elysium",
+          "text": "A blessed afterlife landscape whose meaning develops across Greek and Roman literature.",
+          "ascentIndex": 3,
+          "ascentLabel": "ASCENDING"
         },
         {
           "name": "Isles of the Blessed",
           "artworkId": "r-blessed",
-          "text": "A paradisal destination in several Greek poetic traditions, often compared with Elysium but not always identical."
+          "text": "A paradisal destination in several Greek poetic traditions, often compared with Elysium but not always identical.",
+          "ascentIndex": 4,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Mount Olympus",
+          "artworkId": "r-olympus",
+          "text": "Seat of the Olympian gods in Greek poetic and later visual imagination.",
+          "ascentIndex": 5,
+          "ascentLabel": "HIGHEST / CELESTIAL"
         }
-      ]
+      ],
+      "orderingNote": "Displayed as a navigational ascent from chthonic to terrestrial/oceanic to blessed/celestial spaces. Greek sources do not present these as one universal vertical staircase."
     },
     {
       "id": "norse",
@@ -4555,46 +4729,63 @@ window.VEILARIUM_DATA = {
       "note": "The popular fixed “nine worlds” list is a later synthesis; surviving Old Norse sources do not present one simple standardized chart.",
       "realms": [
         {
-          "name": "Ásgarðr",
-          "artworkId": "r-asgard",
-          "text": "Realm/home of the Æsir in Old Norse cosmological language."
-        },
-        {
-          "name": "Valhöll / Valhalla",
-          "artworkId": "r-valhalla",
-          "text": "Odin’s hall for selected slain warriors; not synonymous with all of Ásgarðr."
-        },
-        {
-          "name": "Álfheimr",
-          "artworkId": "r-alfheim",
-          "text": "A realm/place connected with Álfar in Old Norse sources, especially through Freyr."
-        },
-        {
-          "name": "Jötunheimr",
-          "artworkId": "r-jotunheim",
-          "text": "A region associated with Jötnar and the outer wild beyond divine/human centers."
-        },
-        {
-          "name": "Miðgarðr",
-          "artworkId": "r-midgard",
-          "text": "The human world or enclosure, situated within a larger mythic cosmos."
+          "name": "Niflheimr",
+          "artworkId": "r-niflheim",
+          "text": "A misty/cold primordial region whose relationship to Hel varies in later synthesis.",
+          "ascentIndex": 1,
+          "ascentLabel": "LOWEST / CHthonic"
         },
         {
           "name": "Hel",
           "artworkId": "r-hel",
-          "text": "A realm of the dead associated with the being Hel; not equivalent to later Christian hell."
-        },
-        {
-          "name": "Niflheimr",
-          "artworkId": "r-niflheim",
-          "text": "A misty/cold primordial region whose relationship to Hel varies in later synthesis."
+          "text": "A realm of the dead associated with the being Hel; not equivalent to later Christian hell.",
+          "ascentIndex": 2,
+          "ascentLabel": "ASCENDING"
         },
         {
           "name": "Muspelheim",
           "artworkId": "r-muspelheim",
-          "text": "A fiery primordial region associated with destructive forces and Surtr in later presentations."
+          "text": "A fiery primordial region associated with destructive forces and Surtr in later presentations.",
+          "ascentIndex": 3,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Miðgarðr",
+          "artworkId": "r-midgard",
+          "text": "The human world or enclosure, situated within a larger mythic cosmos.",
+          "ascentIndex": 4,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Jötunheimr",
+          "artworkId": "r-jotunheim",
+          "text": "A region associated with Jötnar and the outer wild beyond divine/human centers.",
+          "ascentIndex": 5,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Álfheimr",
+          "artworkId": "r-alfheim",
+          "text": "A realm/place connected with Álfar in Old Norse sources, especially through Freyr.",
+          "ascentIndex": 6,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Ásgarðr",
+          "artworkId": "r-asgard",
+          "text": "Realm/home of the Æsir in Old Norse cosmological language.",
+          "ascentIndex": 7,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Valhöll / Valhalla",
+          "artworkId": "r-valhalla",
+          "text": "Odin’s hall for selected slain warriors; not synonymous with all of Ásgarðr.",
+          "ascentIndex": 8,
+          "ascentLabel": "HIGHEST / CELESTIAL"
         }
-      ]
+      ],
+      "orderingNote": "Displayed as a navigational low-to-high journey. Old Norse cosmology is networked rather than a single canonical vertical ladder; Muspelheim and Niflheim are primordial extremes, not simple floors."
     },
     {
       "id": "egypt",
@@ -4605,29 +4796,40 @@ window.VEILARIUM_DATA = {
         {
           "name": "Duat",
           "artworkId": "r-duat",
-          "text": "A complex otherworld traversed by the dead and by the solar god in funerary texts."
+          "text": "A complex otherworld traversed by the dead and by the solar god in funerary texts.",
+          "ascentIndex": 1,
+          "ascentLabel": "LOWEST / CHthonic"
         },
         {
           "name": "Hall of Two Truths",
           "artworkId": "r-two-truths",
-          "text": "The judgment setting famous for the weighing of the heart in Book of the Dead imagery."
-        },
-        {
-          "name": "Aaru / Field of Reeds",
-          "artworkId": "r-aaru",
-          "text": "A blessed afterlife field represented in funerary traditions and often idealized as perfected Egypt."
-        },
-        {
-          "name": "Solar Barque Passage",
-          "artworkId": "r-solar-barque",
-          "text": "The divine boat journey through cosmic/night spaces, central to several Egyptian theological images."
+          "text": "The judgment setting famous for the weighing of the heart in Book of the Dead imagery.",
+          "ascentIndex": 2,
+          "ascentLabel": "ASCENDING"
         },
         {
           "name": "Night Books & Tomb Cosmos",
           "artworkId": "r-tomb-night",
-          "text": "Royal and funerary texts map night, gates and regeneration in different ways."
+          "text": "Royal and funerary texts map night, gates and regeneration in different ways.",
+          "ascentIndex": 3,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Solar Barque Passage",
+          "artworkId": "r-solar-barque",
+          "text": "The divine boat journey through cosmic/night spaces, central to several Egyptian theological images.",
+          "ascentIndex": 4,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Aaru / Field of Reeds",
+          "artworkId": "r-aaru",
+          "text": "A blessed afterlife field represented in funerary traditions and often idealized as perfected Egypt.",
+          "ascentIndex": 5,
+          "ascentLabel": "HIGHEST / CELESTIAL"
         }
-      ]
+      ],
+      "orderingNote": "Displayed as a symbolic movement from the Duat and judgment toward solar passage and the Field of Reeds. Egyptian afterlife texts describe journeys and cycles rather than one universal vertical stack."
     },
     {
       "id": "buddhist",
@@ -4636,36 +4838,49 @@ window.VEILARIUM_DATA = {
       "note": "Buddhist cosmologies differ by textual corpus, school and region. Pure Lands should not be treated as simply another rung in one universal six-realm diagram.",
       "realms": [
         {
-          "name": "Trāyastriṃśa",
-          "artworkId": "r-trayastrimsa",
-          "text": "A deva heaven associated with Śakra/Indra and major narrative episodes in Buddhist literature."
-        },
-        {
-          "name": "Tuṣita",
-          "artworkId": "r-tushita",
-          "text": "A deva heaven particularly associated with bodhisattvas and Maitreya in Buddhist traditions."
+          "name": "Naraka",
+          "artworkId": "r-naraka",
+          "text": "Hell realms of intense suffering; enumerations and iconography vary by text and region.",
+          "ascentIndex": 1,
+          "ascentLabel": "LOWEST / CHthonic"
         },
         {
           "name": "Preta Realm",
           "artworkId": "r-preta",
-          "text": "A realm/state of hungry ghosts marked by craving and deprivation in several Buddhist cosmologies."
-        },
-        {
-          "name": "Naraka",
-          "artworkId": "r-naraka",
-          "text": "Hell realms of intense suffering; enumerations and iconography vary by text and region."
-        },
-        {
-          "name": "Sukhāvatī / Western Pure Land",
-          "artworkId": "r-sukhavati",
-          "text": "Amitābha’s Pure Land in Pure Land Buddhist traditions, with its own doctrinal and devotional context."
+          "text": "A realm/state of hungry ghosts marked by craving and deprivation in several Buddhist cosmologies.",
+          "ascentIndex": 2,
+          "ascentLabel": "ASCENDING"
         },
         {
           "name": "Human Realm",
           "artworkId": "r-human-buddhist",
-          "text": "The human condition, often treated as especially precious for practice because suffering and opportunity coexist."
+          "text": "The human condition, often treated as especially precious for practice because suffering and opportunity coexist.",
+          "ascentIndex": 3,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Trāyastriṃśa",
+          "artworkId": "r-trayastrimsa",
+          "text": "A deva heaven associated with Śakra/Indra and major narrative episodes in Buddhist literature.",
+          "ascentIndex": 4,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Tuṣita",
+          "artworkId": "r-tushita",
+          "text": "A deva heaven particularly associated with bodhisattvas and Maitreya in Buddhist traditions.",
+          "ascentIndex": 5,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Sukhāvatī / Western Pure Land",
+          "artworkId": "r-sukhavati",
+          "text": "Amitābha’s Pure Land in Pure Land Buddhist traditions, with its own doctrinal and devotional context.",
+          "ascentIndex": 6,
+          "ascentLabel": "HIGHEST / CELESTIAL"
         }
-      ]
+      ],
+      "orderingNote": "Displayed from lower suffering states toward human and heavenly realms. Sukhāvatī is a Pure Land and should not be read as merely the top floor of a single vertical Buddhist cosmos."
     },
     {
       "id": "shinto",
@@ -4674,26 +4889,35 @@ window.VEILARIUM_DATA = {
       "note": "Shinto does not reduce neatly to a Western “heaven/hell” map. These are mythic and sacred landscape concepts from specific texts and traditions.",
       "realms": [
         {
-          "name": "Takamagahara",
-          "artworkId": "r-takamagahara",
-          "text": "The High Plain of Heaven in early Japanese mythic narratives, associated with heavenly kami."
+          "name": "Yomi",
+          "artworkId": "r-yomi",
+          "text": "A land of the dead in Kojiki/Nihon Shoki mythic narrative; not a simple doctrinal hell.",
+          "ascentIndex": 1,
+          "ascentLabel": "LOWEST / CHthonic"
         },
         {
           "name": "Ashihara-no-Nakatsukuni",
           "artworkId": "r-ashihara",
-          "text": "The central land / human world in early Japanese cosmogonic narratives."
-        },
-        {
-          "name": "Yomi",
-          "artworkId": "r-yomi",
-          "text": "A land of the dead in Kojiki/Nihon Shoki mythic narrative; not a simple doctrinal hell."
+          "text": "The central land / human world in early Japanese cosmogonic narratives.",
+          "ascentIndex": 2,
+          "ascentLabel": "ASCENDING"
         },
         {
           "name": "Shrine & Sacred Threshold",
           "artworkId": "r-shrine-threshold",
-          "text": "Not one separate realm, but a reminder that sacred presence is often localized through places, boundaries, ritual and landscape."
+          "text": "Not one separate realm, but a reminder that sacred presence is often localized through places, boundaries, ritual and landscape.",
+          "ascentIndex": 3,
+          "ascentLabel": "ASCENDING"
+        },
+        {
+          "name": "Takamagahara",
+          "artworkId": "r-takamagahara",
+          "text": "The High Plain of Heaven in early Japanese mythic narratives, associated with heavenly kami.",
+          "ascentIndex": 4,
+          "ascentLabel": "HIGHEST / CELESTIAL"
         }
-      ]
+      ],
+      "orderingNote": "Displayed from Yomi through the middle land and sacred thresholds toward Takamagahara. Japanese mythic geography is not reducible to a single universal vertical map."
     }
   ],
   "planetArtwork": {

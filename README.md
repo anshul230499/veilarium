@@ -1,20 +1,23 @@
-# Veilarium — Illustrated Atlas 4.0
+# Veilarium — Illustrated Atlas 4.1
 
-A source-aware, painterly atlas of sacred and unseen worlds.
+This build focuses on three refinements:
 
-## What changed
+1. **Full artwork display**
+   - All major artwork surfaces now use `object-fit: contain`.
+   - Paintings are framed against dark luminous backgrounds rather than cropped.
+   - Hover zoom has been removed from entity artwork.
 
-- All 84 entity records now have **distinct artwork assignments** rather than one image repeated across an entire tradition.
-- Tradition chapters are organized into thematic constellations (Celestial Courts, Waters & Groves, Night Parade, etc.).
-- The Realms section is now a **multi-cosmology illustrated atlas**: Hindu, Greek/Roman, Norse, Egyptian, Buddhist and Japanese/Shinto mythic landscapes.
-- Hindu 14-loka path includes a different visual for every stop, with explicit caveats about textual variation.
-- Celestial Lens has one artwork for every Sun/Moon/planet/node hub.
-- Every visual is tagged as Direct Depiction, Contextual Artwork, Evocative Artwork, Later Literary Reception, or Symbolic/Contextual.
-- Credits, artist, date, license status and Wikimedia Commons source stay attached to the art.
-- Images use direct Wikimedia upload URLs with fallback to the original file URL; broken remote files fail gracefully rather than leaving blank white space.
+2. **SFW-first art direction**
+   - Nude-heavy or sensual Western mythological images were replaced with modest, landscape, symbolic, or traditional alternatives.
+   - The celestial hubs now lean on traditional graha imagery for Mercury, Moon, Venus, Mars, Jupiter and Saturn.
+   - Credits and direct source links remain attached to each record.
+
+3. **Realms ascend from lowest to highest**
+   - Hindu: Pātāla → … → Bhūloka → Svarga → … → Satyaloka.
+   - Greek/Roman, Norse, Egyptian, Buddhist and Japanese paths are also arranged as low-to-high navigational journeys.
+   - Where a tradition is not truly a single vertical ladder, Veilarium says so explicitly.
 
 ## Deployment
 
-Extract the ZIP and upload **all extracted contents together** to the root of the GitHub `veilarium` repository in one commit. Do not delete the repo files one-by-one first.
-
-No build command is required. Vercel Framework Preset: Other.
+Extract this ZIP and upload **all contents together** over the current GitHub repository in one commit.
+Do not delete the existing repository files individually first.
