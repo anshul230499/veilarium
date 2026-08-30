@@ -1,143 +1,50 @@
-(() => {
-  const D = window.VEILARIUM_DATA;
-  const $ = (s,c=document)=>c.querySelector(s);
-  const $$ = (s,c=document)=>[...c.querySelectorAll(s)];
+(()=>{
+const D=window.VEILARIUM_DATA,$=(s,c=document)=>c.querySelector(s),$$=(s,c=document)=>[...c.querySelectorAll(s)];
+const art=id=>D.artworks[id];
+const modeLabel=m=>({direct:'Direct depiction',contextual:'Contextual artwork',evocative:'Evocative artwork',literary:'Later literary reception',symbolic:'Symbolic / contextual'})[m]||m;
+const tradition=id=>D.traditions.find(t=>t.id===id);
+const fallbackArtFor=b=>art((tradition(b.cluster)||{}).artworkId||'e-nymphs');
+function imageMarkup(a,cls='atlas-img',alt=''){return `<img class="${cls} atlas-img" src="${a.image}" data-original="${a.original}" alt="${alt||a.title}" loading="lazy" referrerpolicy="no-referrer">`}
+function bindFallbacks(scope=document){$$('img.atlas-img',scope).forEach(img=>{if(img.dataset.bound)return;img.dataset.bound='1';img.onerror=()=>{if(img.dataset.original&&!img.dataset.tried){img.dataset.tried='1';img.src=img.dataset.original}else{img.onerror=null;img.classList.add('image-failed');img.removeAttribute('src')}}})}
+function credit(a){return `${a.title} · ${a.artist} · ${a.date} · ${a.license}`}
 
-  const art = id => D.artworks[id];
-  const beingsIn = cluster => D.beings.filter(b=>b.cluster===cluster);
+// nav
+$('#mobileMenu').onclick=()=>$('#siteNav').classList.toggle('open');$$('[data-jump]').forEach(x=>x.onclick=()=>document.getElementById(x.dataset.jump).scrollIntoView({behavior:'smooth'}));
 
-  // mobile nav
-  $("#mobileMenu").addEventListener("click",()=>{
-    const n=$("#siteNav"); const open=n.classList.toggle("open");
-    $("#mobileMenu").setAttribute("aria-expanded",String(open));
-  });
-  $$("#siteNav a").forEach(a=>a.addEventListener("click",()=>$("#siteNav").classList.remove("open")));
+// hero mosaic
+const heroIds=['e-peri','e-kami','e-nymphs','e-devas','e-rusalka'];
+$('#heroMosaic').innerHTML=heroIds.map(id=>{const a=art(id);return `<figure>${imageMarkup(a,'hero-tile')}<figcaption>${a.artist}</figcaption></figure>`}).join('');bindFallbacks($('#heroMosaic'));
 
-  // path cards
-  $$("[data-jump]").forEach(b=>b.addEventListener("click",()=>{
-    const el=document.getElementById(b.dataset.jump); if(el) el.scrollIntoView({behavior:"smooth"});
-  }));
+// entity modal
+const modal=$('#entityModal');
+function openEntity(id){const b=D.beings.find(x=>x.id===id);if(!b)return;const a=art(b.artworkId),f=fallbackArtFor(b),img=$('#modalArt');img.src=a.image;img.dataset.original=a.original;img.dataset.tried='';img.alt=a.title;img.onerror=()=>{if(!img.dataset.tried){img.dataset.tried='1';img.src=a.original}else{img.onerror=null;img.src=f.image}};$('#modalArtCredit').textContent=credit(a);$('#modalMode').textContent=modeLabel(a.mode);$('#modalMode').dataset.mode=a.mode;$('#modalKind').textContent=b.kind;$('#modalName').textContent=b.name;$('#modalMeta').textContent=`${b.tradition} · ${b.region}`;$('#modalSummary').textContent=b.summary;$('#modalSources').innerHTML=b.sources.map(s=>`<span>${s}</span>`).join('');$('#modalArtNote').textContent=a.note;$('#modalSourceLink').href=a.source;modal.classList.add('open');modal.setAttribute('aria-hidden','false')}
+function closeModal(){modal.classList.remove('open');modal.setAttribute('aria-hidden','true')}$('#modalClose').onclick=closeModal;modal.onclick=e=>{if(e.target===modal)closeModal()};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+function randomEntity(){openEntity(D.beings[Math.floor(Math.random()*D.beings.length)].id)}$('#heroRandom').onclick=randomEntity;$('#portalRandom').onclick=randomEntity;$('#indexRandom').onclick=randomEntity;
 
-  // Modal
-  const modal=$("#entityModal");
-  function openEntity(id){
-    const b=D.beings.find(x=>x.id===id); if(!b)return;
-    const a=art(b.artworkId);
-    $("#modalArt").src=a.image; $("#modalArt").referrerPolicy="no-referrer";
-    $("#modalArt").alt=`${a.title} — ${a.artist}`;
-    $("#modalArtCredit").textContent=`${a.title} · ${a.artist} · ${a.date} · ${a.license}`;
-    $("#modalKind").textContent=b.kind;
-    $("#modalName").textContent=b.name;
-    $("#modalMeta").textContent=`${b.tradition} · ${b.region}`;
-    $("#modalSummary").textContent=b.summary;
-    $("#modalSources").innerHTML=b.sources.map(s=>`<span>${s}</span>`).join("");
-    $("#modalArtNote").textContent=(b.artworkMode==="collection"?"Collection artwork — not a literal depiction of this specific entity. ":"")+a.useNote;
-    $("#modalSourceLink").href=a.source;
-    modal.classList.add("open"); modal.setAttribute("aria-hidden","false"); $("#modalClose").focus();
-  }
-  function closeModal(){modal.classList.remove("open");modal.setAttribute("aria-hidden","true")}
-  $("#modalClose").addEventListener("click",closeModal);
-  modal.addEventListener("click",e=>{if(e.target===modal)closeModal()});
-  document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal()});
+// traditions
+$('#traditionRail').innerHTML=D.traditions.map((t,i)=>`<button class="tradition-pill ${i?'':'active'}" data-trad="${t.id}">${t.name}</button>`).join('');
+function entityTile(b){const a=art(b.artworkId);return `<button class="entity-tile" data-being="${b.id}"><div class="tile-art">${imageMarkup(a,'entity-img',a.title)}<span class="mode-mini">${modeLabel(a.mode)}</span></div><div class="tile-copy"><strong>${b.name}</strong><small>${b.kind}</small><em>${a.title}</em></div></button>`}
+function renderChapter(id){$$('.tradition-pill').forEach(x=>x.classList.toggle('active',x.dataset.trad===id));const t=tradition(id),sig=art(t.artworkId),groups=D.traditionGroups[id]||[];$('#chapterStage').innerHTML=`<div class="chapter-intro"><div class="chapter-art">${imageMarkup(sig,'chapter-img',sig.title)}<div class="art-credit">${credit(sig)}</div></div><div class="chapter-copy"><div class="eyebrow">TRADITION CHAPTER</div><h3>${t.name}</h3><p class="chapter-sub">${t.subtitle}</p><p>${t.note}</p><a href="${sig.source}" target="_blank" rel="noopener" class="source-link">Signature artwork source ↗</a></div></div><div class="group-stack">${groups.map(g=>`<section class="entity-group"><div class="group-heading"><span>${g.title}</span><small>${g.ids.length} records</small></div><div class="entity-mosaic">${g.ids.map(eid=>entityTile(D.beings.find(b=>b.id===eid))).join('')}</div></section>`).join('')}</div>`;bindFallbacks($('#chapterStage'));$$('[data-being]',$('#chapterStage')).forEach(x=>x.onclick=()=>openEntity(x.dataset.being))}
+$$('.tradition-pill').forEach(x=>x.onclick=()=>renderChapter(x.dataset.trad));renderChapter('south-asia');
 
-  function randomBeing(){
-    const b=D.beings[Math.floor(Math.random()*D.beings.length)];
-    openEntity(b.id);
-  }
-  $("#portalRandom").addEventListener("click",randomBeing);
-  $("#heroSurprise").addEventListener("click",randomBeing);
-  $("#indexRandom").addEventListener("click",randomBeing);
+// realms
+$('#realmSystemRail').innerHTML=D.realmSystems.map((s,i)=>`<button class="tradition-pill ${i?'':'active'}" data-realm-system="${s.id}">${s.name}</button>`).join('');
+let realmSystem=D.realmSystems[0],realmIndex=0;
+function renderRealmSystem(id){realmSystem=D.realmSystems.find(x=>x.id===id);realmIndex=0;$$('[data-realm-system]').forEach(x=>x.classList.toggle('active',x.dataset.realmSystem===id));$('#realmPath').innerHTML=`<div class="realm-system-note"><div class="eyebrow">${realmSystem.name}</div><p>${realmSystem.subtitle}</p></div>${realmSystem.realms.map((r,i)=>`<button class="realm-step ${i?'':'active'}" data-ri="${i}"><span>${String(i+1).padStart(2,'0')}</span><strong>${r.name}</strong></button>`).join('')}<p class="realm-caution">${realmSystem.note}</p>`;$$('.realm-step').forEach(x=>x.onclick=()=>renderRealm(Number(x.dataset.ri)));renderRealm(0)}
+function renderRealm(i){realmIndex=i;$$('.realm-step').forEach((x,j)=>x.classList.toggle('active',j===i));const r=realmSystem.realms[i],a=art(r.artworkId);$('#realmViewer').innerHTML=`<div class="realm-image">${imageMarkup(a,'realm-img',a.title)}<div class="art-credit">${credit(a)}</div></div><div class="realm-copy"><div class="mode-badge" data-mode="${a.mode}">${modeLabel(a.mode)}</div><div class="eyebrow">${realmSystem.name}</div><h3>${r.name}</h3><p>${r.text}</p><div class="art-note">${a.note}</div><a class="source-link" href="${a.source}" target="_blank" rel="noopener">Artwork source & rights ↗</a></div>`;bindFallbacks($('#realmViewer'))}
+$$('[data-realm-system]').forEach(x=>x.onclick=()=>renderRealmSystem(x.dataset.realmSystem));renderRealmSystem('hindu');
 
-  // Featured gallery
-  const featured = [
-    ["peri","peri"],["aos-si","fairies"],["nagas","kaliya"],
-    ["yokai","yokai"],["jotnar","thor"],["angelic-beings","angels"]
-  ];
-  $("#featuredGallery").innerHTML=featured.map(([bid,aid])=>{
-    const b=D.beings.find(x=>x.id===bid), a=art(aid);
-    return `<button class="feature" type="button" data-being="${bid}">
-      <img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title} by ${a.artist}">
-      <div class="feature-credit">${a.artist} · ${a.license}</div>
-      <div class="feature-copy"><span>${b.tradition}</span><strong>${b.name}</strong><small>${a.title}</small></div>
-    </button>`;
-  }).join("");
-  $$(".feature").forEach(x=>x.addEventListener("click",()=>openEntity(x.dataset.being)));
+// celestial
+function renderPlanet(key){const p=D.planets[key],a=art(D.planetArtwork[key]);$$('.planet').forEach(x=>x.classList.toggle('active',x.dataset.planet===key));$('#planetGlyph').textContent=p.glyph;$('#planetTitle').textContent=p.label;$('#planetTheme').textContent=p.theme;$('#planetIntro').textContent=p.intro;$('#parallelList').innerHTML=p.links.map(x=>`<div class="parallel-item"><strong>${x.name}</strong><span>${x.tradition}<br>${x.relation}</span><em>${x.confidence}</em></div>`).join('');$('#celestialArt').innerHTML=`${imageMarkup(a,'celestial-img',a.title)}<div class="art-credit">${credit(a)}</div><div class="celestial-art-note"><span class="mode-badge" data-mode="${a.mode}">${modeLabel(a.mode)}</span><p>${a.note}</p><a href="${a.source}" target="_blank" rel="noopener">Source ↗</a></div>`;bindFallbacks($('#celestialArt'))}
+$$('.planet').forEach(x=>x.onclick=()=>renderPlanet(x.dataset.planet));renderPlanet('venus');
 
-  // Traditions / chapters
-  const rail=$("#traditionRail");
-  rail.innerHTML=D.traditions.map((t,i)=>`<button class="tradition-pill ${i===0?"active":""}" type="button" data-trad="${t.id}">${t.name}</button>`).join("");
-  function renderChapter(id){
-    $$(".tradition-pill").forEach(x=>x.classList.toggle("active",x.dataset.trad===id));
-    const t=D.traditions.find(x=>x.id===id), a=art(t.artworkId), list=beingsIn(id).slice(0,6);
-    $("#chapterStage").innerHTML=`<div class="chapter-hero">
-      <div class="chapter-art"><img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title} by ${a.artist}"><div class="art-mini-credit">${a.title} · ${a.artist} · ${a.license}</div></div>
-      <div class="chapter-info">
-        <div class="eyebrow">TRADITION CHAPTER</div><div class="chapter-title">${t.name}</div><div class="chapter-sub">${t.subtitle}</div>
-        <div class="chapter-beings">${list.map(b=>`<button type="button" class="chapter-being" data-being="${b.id}"><strong>${b.name}</strong><small>${b.kind}</small></button>`).join("")}</div>
-      </div></div>`;
-    $$(".chapter-being",$("#chapterStage")).forEach(x=>x.addEventListener("click",()=>openEntity(x.dataset.being)));
-  }
-  $$(".tradition-pill").forEach(x=>x.addEventListener("click",()=>renderChapter(x.dataset.trad)));
-  renderChapter("south-asia");
+// Grand Index
+let filter='all',limit=16;const drawer=$('#indexDrawer'),search=$('#searchInput');$('#toggleIndex').onclick=()=>{drawer.hidden=!drawer.hidden;$('#toggleIndex').textContent=drawer.hidden?'Open the full index':'Close the full index';if(!drawer.hidden)renderIndex()};
+const filters=[['all','All 84'],...D.traditions.map(t=>[t.id,t.name.split(' Worlds')[0]]),['water','Water'],['celestial','Celestial'],['underworld','Underworld'],['shapeshifter','Shapeshifters']];$('#filterRow').innerHTML=filters.map(([id,label],i)=>`<button class="filter-btn ${i?'':'active'}" data-filter="${id}">${label}</button>`).join('');$$('.filter-btn').forEach(x=>x.onclick=()=>{filter=x.dataset.filter;limit=16;$$('.filter-btn').forEach(y=>y.classList.toggle('active',y===x));renderIndex()});search.oninput=()=>{limit=16;renderIndex()};$('#showMore').onclick=()=>{limit+=16;renderIndex()};
+function filtered(){const q=search.value.trim().toLowerCase();return D.beings.filter(b=>{const ok=filter==='all'||b.cluster===filter||b.tags.includes(filter),hay=[b.name,b.tradition,b.region,b.kind,b.summary,...b.tags].join(' ').toLowerCase();return ok&&(!q||hay.includes(q))})}
+function renderIndex(){const all=filtered(),shown=all.slice(0,limit);$('#indexCount').textContent=`Showing ${shown.length} of ${all.length} matching · ${D.beings.length} total`;$('#beingGrid').innerHTML=shown.map(entityTile).join('');bindFallbacks($('#beingGrid'));$$('[data-being]',$('#beingGrid')).forEach(x=>x.onclick=()=>openEntity(x.dataset.being));$('#showMore').style.display=shown.length<all.length?'inline-flex':'none'}
 
-  // celestial
-  function renderPlanet(key){
-    const p=D.planets[key]; if(!p)return;
-    $$(".planet").forEach(x=>x.classList.toggle("active",x.dataset.planet===key));
-    $("#planetGlyph").textContent=p.glyph; $("#planetTitle").textContent=p.label;
-    $("#planetTheme").textContent=p.theme; $("#planetIntro").textContent=p.intro;
-    $("#parallelList").innerHTML=p.links.map(x=>`<div class="parallel-item">
-      <strong>${x.name}</strong><span>${x.tradition}<br>${x.relation}</span><span class="confidence">${x.confidence}</span>
-    </div>`).join("");
-  }
-  $$(".planet").forEach(x=>x.addEventListener("click",()=>renderPlanet(x.dataset.planet)));
-  renderPlanet("venus");
-
-  // lokas
-  $("#lokaStair").innerHTML=D.lokas.map((l,i)=>`<button class="loka-step ${i===0?"active":""}" type="button" data-loka="${i}"><span>${l.name}</span><small>${l.band}</small></button>`).join("");
-  function selectLoka(i){
-    $$(".loka-step").forEach((x,j)=>x.classList.toggle("active",j===i));
-    const l=D.lokas[i]; $("#lokaTitle").textContent=l.name; $("#lokaDetail").textContent=l.detail;
-  }
-  $$(".loka-step").forEach(x=>x.addEventListener("click",()=>selectLoka(Number(x.dataset.loka))));
-  selectLoka(0);
-
-  // full index
-  let filter="all", limit=16;
-  const drawer=$("#indexDrawer"), search=$("#searchInput");
-  $("#toggleIndex").addEventListener("click",()=>{
-    const willOpen=drawer.hidden;
-    drawer.hidden=!willOpen; $("#toggleIndex").setAttribute("aria-expanded",String(willOpen));
-    $("#toggleIndex").textContent=willOpen?"Close the full index":"Open the full index";
-    if(willOpen) renderIndex();
-  });
-  const filters=[["all","All"],...D.traditions.map(t=>[t.id,t.name.replace(" Worlds","")]),["water","Water"],["celestial","Celestial"],["underworld","Underworld"],["shapeshifter","Shapeshifters"]];
-  $("#filterRow").innerHTML=filters.map(([id,label],i)=>`<button class="filter-btn ${i===0?"active":""}" type="button" data-filter="${id}">${label}</button>`).join("");
-  $$(".filter-btn").forEach(x=>x.addEventListener("click",()=>{filter=x.dataset.filter;limit=16;$$(".filter-btn").forEach(y=>y.classList.toggle("active",y===x));renderIndex()}));
-  search.addEventListener("input",()=>{limit=16;renderIndex()});
-  $("#showMore").addEventListener("click",()=>{limit+=16;renderIndex()});
-  function filtered(){
-    const q=(search.value||"").trim().toLowerCase();
-    return D.beings.filter(b=>{
-      const ok=filter==="all"||b.cluster===filter||b.tags.includes(filter);
-      const hay=[b.name,b.tradition,b.region,b.kind,b.summary,...b.tags].join(" ").toLowerCase();
-      return ok&&(!q||hay.includes(q));
-    });
-  }
-  function renderIndex(){
-    const items=filtered(), shown=items.slice(0,limit);
-    $("#indexCount").textContent=`Showing ${shown.length} of ${items.length} matching records · ${D.beings.length} total`;
-    $("#beingGrid").innerHTML=shown.map(b=>{const a=art(b.artworkId);return `<button type="button" class="being-card" data-being="${b.id}">
-      <img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title}"><div class="being-card-body"><small>${b.tradition}</small><h3>${b.name}</h3><p>${b.summary}</p></div></button>`}).join("");
-    $$(".being-card").forEach(x=>x.addEventListener("click",()=>openEntity(x.dataset.being)));
-    $("#showMore").style.display=shown.length<items.length?"flex":"none";
-  }
-
-  // credits
-  $("#creditsGrid").innerHTML=Object.entries(D.artworks).map(([id,a])=>`<article class="credit-card">
-    <img src="${a.image}" referrerpolicy="no-referrer" alt="${a.title} by ${a.artist}">
-    <div class="credit-copy"><strong>${a.title}</strong><p>${a.artist} · ${a.date}<br>${a.collection}</p>
-    <div class="credit-meta"><span>${a.license}</span><span>Artwork ID: ${id}</span></div>
-    <p>${a.useNote}</p><a href="${a.source}" target="_blank" rel="noopener noreferrer">Open source & rights record ↗</a></div>
-  </article>`).join("");
+// artwork ledger
+const uniqueEntityArt=new Set(D.beings.map(b=>b.artworkId)).size;const realmCount=D.realmSystems.reduce((n,s)=>n+s.realms.length,0);$('#ledgerSummary').innerHTML=`<div><strong>${uniqueEntityArt}</strong><span>distinct entity art assignments</span></div><div><strong>${realmCount}</strong><span>illustrated realm stops</span></div><div><strong>${Object.keys(D.planetArtwork).length}</strong><span>celestial artworks</span></div><div><strong>${Object.keys(D.artworks).length}</strong><span>artwork records in ledger</span></div>`;
+$('#toggleLedger').onclick=()=>{const g=$('#creditsGrid');g.hidden=!g.hidden;$('#toggleLedger').textContent=g.hidden?'Open the complete artwork ledger':'Close the artwork ledger';if(!g.hidden&&!g.dataset.rendered){g.dataset.rendered='1';g.innerHTML=Object.values(D.artworks).map(a=>`<article class="credit-card"><div class="credit-thumb">${imageMarkup(a,'credit-img',a.title)}<span class="mode-mini">${modeLabel(a.mode)}</span></div><div class="credit-copy"><strong>${a.title}</strong><p>${a.artist} · ${a.date}<br>${a.collection}</p><div class="credit-meta"><span>${a.license}</span></div><small>${a.note}</small><a href="${a.source}" target="_blank" rel="noopener">Source & rights ↗</a></div></article>`).join('');bindFallbacks(g)}};
 })();

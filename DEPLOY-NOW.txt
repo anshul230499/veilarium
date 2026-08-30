@@ -1,15 +1,9 @@
-DO NOT DELETE THE REPO FILES ONE BY ONE.
+VEILARIUM 4.0 DEPLOYMENT
 
-1. Extract this ZIP on your computer.
-2. Open the extracted folder. You should see index.html, app.js, data.js, styles.css, BUILD.txt, etc.
-3. In GitHub, open the ROOT of the veilarium repo.
-4. Choose Add file > Upload files.
-5. Drag ALL CONTENTS of the extracted folder into the upload area in ONE upload.
-6. Commit once to main. Existing same-name files should be replaced.
-7. Wait for the single new Vercel production deployment to become READY.
-8. Open https://veilarium.vercel.app
-9. Scroll to the footer. It MUST say:
-   Painterly Build 2.1 · 84 records
-If that exact phrase is absent, the wrong files are still deployed.
-
-Do not upload the .zip itself.
+1. Extract the ZIP.
+2. In GitHub, open the ROOT of the veilarium repo.
+3. Add file > Upload files.
+4. Drag all extracted files/folders in together.
+5. Commit once to main.
+6. Do not delete old files one-by-one first.
+7. When Vercel deploys, the footer must read: Painterly Build 4.0 · 84 illustrated records · multi-cosmology realm atlas

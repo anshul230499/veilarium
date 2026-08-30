@@ -1,202 +1,44 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Veilarium — Atlas of the Unseen</title>
-  <meta name="description" content="A painterly, source-first atlas of sacred beings, hidden worlds, cosmologies and celestial parallels across cultures.">
-  <meta name="theme-color" content="#09090f">
-  <meta name="referrer" content="no-referrer">
-  <link rel="icon" href="assets/art/mark.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Veilarium — Atlas of the Unseen</title>
+<meta name="description" content="A painterly, source-first atlas of sacred beings, hidden worlds, cosmologies and celestial parallels across cultures.">
+<meta name="theme-color" content="#09090f"><meta name="referrer" content="no-referrer">
+<link rel="icon" href="assets/art/mark.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="site-header">
-  <div class="shell header-row">
-    <a class="brand" href="#top"><img src="assets/art/mark.svg" alt=""><span>VEILARIUM</span></a>
-    <nav id="siteNav" class="nav" aria-label="Primary">
-      <a href="#portals">Portals</a>
-      <a href="#traditions">Traditions</a>
-      <a href="#celestial">Celestial</a>
-      <a href="#realms">Realms</a>
-      <a href="#grand-index">Index</a>
-      <a href="#credits">Credits</a>
-    </nav>
-    <button id="mobileMenu" class="mobile-menu" type="button" aria-expanded="false">Menu</button>
-  </div>
-</header>
-
+<header class="site-header"><div class="shell header-row">
+<a class="brand" href="#top"><img src="assets/art/mark.svg" alt=""><span>VEILARIUM</span></a>
+<nav id="siteNav" class="nav"><a href="#portals">Portals</a><a href="#traditions">Traditions</a><a href="#realms">Realms</a><a href="#celestial">Celestial</a><a href="#grand-index">Index</a><a href="#credits">Credits</a></nav>
+<button id="mobileMenu" class="mobile-menu" type="button">Menu</button></div></header>
 <main id="top">
-  <section class="hero">
-    <div class="hero-paintings" aria-hidden="true">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gustave_Moreau_-_The_Sacred_Elephant_(P%C3%A9ri)_-_Google_Art_Project.jpg/960px-Gustave_Moreau_-_The_Sacred_Elephant_(P%C3%A9ri)_-_Google_Art_Project.jpg" referrerpolicy="no-referrer" alt="">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fairies_in_a_birds_nest.jpg/1280px-Fairies_in_a_birds_nest.jpg" referrerpolicy="no-referrer" alt="">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg/960px-Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg" referrerpolicy="no-referrer" alt="">
-    </div>
-    <div class="hero-veil"></div>
-    <div class="shell hero-copy">
-      <div class="eyebrow">A PAINTERLY ATLAS OF SACRED & UNSEEN WORLDS</div>
-      <h1>There are more<br>worlds than one.</h1>
-      <p>Follow the beings, realms, stars and stories that humanity has placed just beyond the visible.</p>
-      <div class="hero-actions">
-        <a class="btn primary" href="#portals">Choose a portal</a>
-        <button class="btn ghost" id="heroSurprise" type="button">✦ Let the atlas choose</button>
-      </div>
-      <div class="hero-credit">Featured works: Gustave Moreau · John Anster Fitzgerald · Raja Ravi Varma — public-domain reproductions; full credits below.</div>
-    </div>
-  </section>
+<section class="hero"><div id="heroMosaic" class="hero-mosaic"></div><div class="hero-veil"></div><div class="shell hero-copy">
+<div class="eyebrow">AN ILLUSTRATED ATLAS OF SACRED & UNSEEN WORLDS</div><h1>Follow the image.<br>Find the world.</h1>
+<p>84 beings now carry distinct visual records, while cosmologies unfold as illustrated paths rather than bare lists.</p>
+<div class="hero-actions"><a class="btn primary" href="#traditions">Enter a tradition</a><a class="btn ghost" href="#realms">Walk the realms</a><button id="heroRandom" class="btn ghost" type="button">✦ Open a random portal</button></div>
+<div class="hero-credit">Historical paintings, prints, manuscripts and open-access museum images. Direct depictions and evocative/contextual art are labeled differently.</div>
+</div></section>
 
-  <section id="portals" class="section">
-    <div class="shell">
-      <div class="section-head">
-        <div><div class="eyebrow">BEGIN ANYWHERE</div><h2>Choose a path through the veil</h2></div>
-        <p>Veilarium is organized like an atlas, not a spreadsheet. Enter through a culture, a realm, a celestial body, or simply follow whatever catches your eye.</p>
-      </div>
-      <div class="path-grid">
-        <button class="path-card path-tall" data-jump="traditions" type="button">
-          <span class="path-num">I</span><span class="path-kicker">By tradition</span><strong>Enter a world</strong><small>From South Asian celestial courts to Japanese hidden presences.</small>
-        </button>
-        <button class="path-card" data-jump="realms" type="button">
-          <span class="path-num">II</span><span class="path-kicker">By realm</span><strong>Climb the cosmologies</strong><small>Lokas, heavens, underworlds, waters and thresholds.</small>
-        </button>
-        <button class="path-card" data-jump="celestial" type="button">
-          <span class="path-num">III</span><span class="path-kicker">By the sky</span><strong>Follow a planet</strong><small>Trace traditional astral links without pretending cultures are identical.</small>
-        </button>
-        <button class="path-card path-wide" id="portalRandom" type="button">
-          <span class="path-num">✦</span><span class="path-kicker">By chance</span><strong>Open a random portal</strong><small>Let Veilarium take you somewhere unexpected.</small>
-        </button>
-      </div>
-    </div>
-  </section>
+<section id="portals" class="section"><div class="shell"><div class="section-head"><div><div class="eyebrow">FOUR WAYS IN</div><h2>The atlas is meant to be wandered</h2></div><p>No wall of cards at the entrance. Pick a route and let the collections reveal themselves in layers.</p></div>
+<div class="path-grid"><button class="path-card tall" data-jump="traditions"><span>I</span><b>By tradition</b><strong>Enter a world</strong><small>Illustrated chapters with their own internal constellations.</small></button><button class="path-card" data-jump="realms"><span>II</span><b>By cosmology</b><strong>Walk a realm path</strong><small>Hindu, Greek, Norse, Egyptian, Buddhist and Japanese paths.</small></button><button class="path-card" data-jump="celestial"><span>III</span><b>By the sky</b><strong>Follow a planet</strong><small>Each celestial hub now has its own artwork.</small></button><button id="portalRandom" class="path-card wide"><span>✦</span><b>By chance</b><strong>Let Veilarium choose</strong><small>A random record from the full illustrated atlas.</small></button></div></div></section>
 
-  <section class="section featured-section">
-    <div class="shell">
-      <div class="section-head">
-        <div><div class="eyebrow">ILLUMINATED GALLERY</div><h2>Six doors worth opening</h2></div>
-        <p>Each painting is part of the record: title, artist, date, source and rights stay attached to it.</p>
-      </div>
-      <div id="featuredGallery" class="featured-gallery"></div>
-    </div>
-  </section>
+<section id="traditions" class="section"><div class="shell"><div class="section-head"><div><div class="eyebrow">ILLUSTRATED TRADITION CHAPTERS</div><h2>Worlds, not buckets</h2></div><p>Every entity classification now has its own artwork record. Chapters are organized into thematic constellations rather than one endless grid.</p></div>
+<div id="traditionRail" class="tradition-rail"></div><div id="chapterStage" class="chapter-stage"></div></div></section>
 
-  <section id="traditions" class="section">
-    <div class="shell">
-      <div class="section-head">
-        <div><div class="eyebrow">WANDER BY TRADITION</div><h2>Worlds, not buckets</h2></div>
-        <p>Choose a chapter. The atlas reveals a handful of beings first; the complete catalog remains available later.</p>
-      </div>
-      <div id="traditionRail" class="tradition-rail"></div>
-      <div id="chapterStage" class="chapter-stage"></div>
-    </div>
-  </section>
+<section id="realms" class="section realm-section"><div class="shell"><div class="section-head"><div><div class="eyebrow">THE COSMOLOGY ATLAS</div><h2>Realms deserve images too</h2></div><p>Select a cosmology, then move through its realms. Every scene is marked as direct, contextual or evocative so beauty never masquerades as evidence.</p></div>
+<div id="realmSystemRail" class="tradition-rail realm-rail"></div><div class="realm-atlas"><div id="realmPath" class="realm-path"></div><div id="realmViewer" class="realm-viewer"></div></div></div></section>
 
-  <section id="celestial" class="section celestial-section">
-    <div class="shell">
-      <div class="section-head">
-        <div><div class="eyebrow">CELESTIAL LENS</div><h2>Parallels beneath the same sky</h2></div>
-        <p><strong>Parallel, not equivalent.</strong> Shared planets or celestial phenomena justify comparison; resemblance alone does not.</p>
-      </div>
-      <div class="celestial-layout">
-        <div class="planetarium">
-          <div class="orbit o1"></div><div class="orbit o2"></div><div class="orbit o3"></div>
-          <div id="planetGlyph" class="planet-core">♀</div>
-          <button type="button" data-planet="sun" class="planet p-sun">☉</button>
-          <button type="button" data-planet="moon" class="planet p-moon">☾</button>
-          <button type="button" data-planet="mercury" class="planet p-mercury">☿</button>
-          <button type="button" data-planet="venus" class="planet p-venus active">♀</button>
-          <button type="button" data-planet="mars" class="planet p-mars">♂</button>
-          <button type="button" data-planet="jupiter" class="planet p-jupiter">♃</button>
-          <button type="button" data-planet="saturn" class="planet p-saturn">♄</button>
-          <button type="button" data-planet="eclipses" class="planet p-node">☊</button>
-        </div>
-        <div class="celestial-copy">
-          <div class="eyebrow">CURRENT CELESTIAL HUB</div>
-          <h3 id="planetTitle">Venus</h3>
-          <div id="planetTheme" class="celestial-theme"></div>
-          <p id="planetIntro"></p>
-          <div id="parallelList" class="parallel-list"></div>
-        </div>
-      </div>
-    </div>
-  </section>
+<section id="celestial" class="section celestial-section"><div class="shell"><div class="section-head"><div><div class="eyebrow">CELESTIAL LENS</div><h2>Parallels beneath the same sky</h2></div><p><strong>Parallel, not equivalent.</strong> Planetary identities and celestial phenomena justify comparison; generic personality resemblance does not.</p></div>
+<div class="celestial-layout"><div class="planetarium"><div class="orbit o1"></div><div class="orbit o2"></div><div class="orbit o3"></div><div id="planetGlyph" class="planet-core">♀</div><button data-planet="sun" class="planet p-sun">☉</button><button data-planet="moon" class="planet p-moon">☾</button><button data-planet="mercury" class="planet p-mercury">☿</button><button data-planet="venus" class="planet p-venus active">♀</button><button data-planet="mars" class="planet p-mars">♂</button><button data-planet="jupiter" class="planet p-jupiter">♃</button><button data-planet="saturn" class="planet p-saturn">♄</button><button data-planet="eclipses" class="planet p-node">☊</button></div>
+<div class="celestial-art" id="celestialArt"></div><div class="celestial-copy"><div class="eyebrow">CURRENT CELESTIAL HUB</div><h3 id="planetTitle"></h3><div id="planetTheme" class="celestial-theme"></div><p id="planetIntro"></p><div id="parallelList" class="parallel-list"></div></div></div></div></section>
 
-  <section id="realms" class="section">
-    <div class="shell">
-      <div class="section-head">
-        <div><div class="eyebrow">COSMIC ATLAS · ONE TEXTUAL SCHEMA</div><h2>Walk the lokas</h2></div>
-        <p>Cosmologies are stored as source-specific models. Veilarium should never turn one modern diagram into a universal doctrine.</p>
-      </div>
-      <div class="realm-layout">
-        <div id="lokaStair" class="loka-stair"></div>
-        <aside class="realm-note">
-          <div class="eyebrow">SELECTED REALM</div>
-          <h3 id="lokaTitle"></h3>
-          <p id="lokaDetail"></p>
-          <div class="rule"></div>
-          <small>Published records will attach the relevant textual source and variant directly to each cosmological claim.</small>
-        </aside>
-      </div>
-    </div>
-  </section>
+<section id="grand-index" class="section"><div class="shell"><div class="index-invite"><div><div class="eyebrow">THE GRAND INDEX</div><h2>All 84, when you want them</h2><p>The encyclopedia remains complete, but it stays behind the more atmospheric chapter and realm experiences.</p></div><button id="toggleIndex" class="btn primary" type="button">Open the full index</button></div>
+<div id="indexDrawer" class="index-drawer" hidden><div class="index-tools"><input id="searchInput" type="search" placeholder="Search beings, traditions, regions, symbols…"><button id="indexRandom" class="btn ghost">✦ Surprise me</button></div><div id="filterRow" class="filter-row"></div><div id="indexCount" class="index-count"></div><div id="beingGrid" class="being-grid"></div><button id="showMore" class="btn ghost show-more">Reveal more</button></div></div></section>
 
-  <section id="grand-index" class="section index-section">
-    <div class="shell">
-      <div class="index-invite">
-        <div><div class="eyebrow">THE GRAND INDEX</div><h2>Need the whole bestiary?</h2><p>The 84 records live here, but they no longer dominate the experience.</p></div>
-        <button id="toggleIndex" class="btn primary" type="button" aria-expanded="false">Open the full index</button>
-      </div>
-      <div id="indexDrawer" class="index-drawer" hidden>
-        <div class="index-tools">
-          <input id="searchInput" type="search" placeholder="Search beings, traditions, regions, symbols…" aria-label="Search all beings">
-          <button id="indexRandom" class="btn ghost" type="button">✦ Surprise me</button>
-        </div>
-        <div id="filterRow" class="filter-row"></div>
-        <div id="indexCount" class="index-count"></div>
-        <div id="beingGrid" class="being-grid"></div>
-        <button id="showMore" class="btn ghost show-more" type="button">Reveal more records</button>
-      </div>
-    </div>
-  </section>
-
-  <section id="credits" class="section credits-section">
-    <div class="shell">
-      <div class="section-head">
-        <div><div class="eyebrow">ART, SOURCE & RIGHTS</div><h2>Every image remembers where it came from</h2></div>
-        <p>Public-domain status does not erase authorship. Veilarium visibly credits artists and collections even where attribution is not legally required.</p>
-      </div>
-      <div id="creditsGrid" class="credits-grid"></div>
-    </div>
-  </section>
+<section id="credits" class="section credits-section"><div class="shell"><div class="section-head"><div><div class="eyebrow">ART, SOURCE & RIGHTS LEDGER</div><h2>Every image keeps its provenance</h2></div><p>Credits are visible where art appears. The complete ledger can also be opened here; Public Domain does not mean anonymous.</p></div><div class="ledger-summary" id="ledgerSummary"></div><button id="toggleLedger" class="btn ghost">Open the complete artwork ledger</button><div id="creditsGrid" class="credits-grid" hidden></div></div></section>
 </main>
+<footer class="footer"><div class="shell footer-row"><a class="brand" href="#top"><img src="assets/art/mark.svg" alt=""><span>VEILARIUM</span></a><p><strong class="build-marker">Painterly Build 4.0 · 84 illustrated records · multi-cosmology realm atlas</strong><br>© <span id="year"></span> Veilarium. Original interface and editorial structure reserved. Historical artworks retain the rights and attribution shown in their source records.</p></div></footer>
 
-<footer class="footer">
-  <div class="shell footer-row">
-    <a class="brand" href="#top"><img src="assets/art/mark.svg" alt=""><span>VEILARIUM</span></a>
-    <p><strong class="build-marker">Painterly Build 2.1 · 84 records</strong><br>© <span id="year"></span> Veilarium. Original interface, editorial structure and original design reserved. Historical artworks retain the rights status and attribution shown in their records.</p>
-  </div>
-</footer>
-
-<div id="entityModal" class="modal" aria-hidden="true" role="dialog" aria-modal="true">
-  <div class="modal-card">
-    <button id="modalClose" class="modal-close" type="button" aria-label="Close">×</button>
-    <div class="modal-art-wrap">
-      <img id="modalArt" alt="">
-      <div id="modalArtCredit" class="art-credit"></div>
-    </div>
-    <div class="modal-copy">
-      <div id="modalKind" class="eyebrow"></div>
-      <h2 id="modalName"></h2>
-      <div id="modalMeta" class="modal-meta"></div>
-      <p id="modalSummary"></p>
-      <div id="modalSources" class="source-chips"></div>
-      <div id="modalArtNote" class="art-note"></div>
-      <a id="modalSourceLink" class="btn ghost" target="_blank" rel="noopener noreferrer">View artwork source & rights</a>
-    </div>
-  </div>
-</div>
-
-<script>document.getElementById("year").textContent=new Date().getFullYear();</script>
-<script src="data.js"></script>
-<script src="app.js"></script>
-</body>
-</html>
+<div id="entityModal" class="modal" aria-hidden="true"><div class="modal-card"><button id="modalClose" class="modal-close">×</button><div class="modal-art-wrap"><img id="modalArt" class="atlas-img" alt=""><div id="modalArtCredit" class="art-credit"></div></div><div class="modal-copy"><div id="modalMode" class="mode-badge"></div><div id="modalKind" class="eyebrow"></div><h2 id="modalName"></h2><div id="modalMeta" class="modal-meta"></div><p id="modalSummary"></p><div id="modalSources" class="source-chips"></div><div id="modalArtNote" class="art-note"></div><a id="modalSourceLink" class="btn ghost" target="_blank" rel="noopener noreferrer">Artwork source & rights ↗</a></div></div></div>
+<script>document.getElementById('year').textContent=new Date().getFullYear()</script><script src="data.js"></script><script src="app.js"></script></body></html>

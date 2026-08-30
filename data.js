@@ -20,8 +20,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-devas",
+      "artworkMode": "direct"
     },
     {
       "id": "asuras",
@@ -43,8 +43,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-asuras",
+      "artworkMode": "direct"
     },
     {
       "id": "apsaras",
@@ -66,7 +66,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "menaka",
+      "artworkId": "e-apsaras",
       "artworkMode": "direct"
     },
     {
@@ -89,8 +89,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-gandharvas",
+      "artworkMode": "direct"
     },
     {
       "id": "yakshas",
@@ -112,8 +112,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-yakshas",
+      "artworkMode": "contextual"
     },
     {
       "id": "yakshinis",
@@ -135,8 +135,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-yakshinis",
+      "artworkMode": "direct"
     },
     {
       "id": "nagas",
@@ -159,7 +159,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/naga.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "kaliya",
+      "artworkId": "e-nagas",
       "artworkMode": "direct"
     },
     {
@@ -182,8 +182,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-garudas",
+      "artworkMode": "direct"
     },
     {
       "id": "rakshasas",
@@ -205,8 +205,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-rakshasas",
+      "artworkMode": "direct"
     },
     {
       "id": "vetalas",
@@ -228,8 +228,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-vetalas",
+      "artworkMode": "literary"
     },
     {
       "id": "bhutas",
@@ -251,8 +251,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-bhutas",
+      "artworkMode": "contextual"
     },
     {
       "id": "pretas",
@@ -274,8 +274,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-pretas",
+      "artworkMode": "contextual"
     },
     {
       "id": "pisacas",
@@ -297,8 +297,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-pisacas",
+      "artworkMode": "contextual"
     },
     {
       "id": "kinnaras",
@@ -320,8 +320,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-kinnaras",
+      "artworkMode": "direct"
     },
     {
       "id": "vidyadharas",
@@ -343,8 +343,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-vidyadharas",
+      "artworkMode": "direct"
     },
     {
       "id": "siddhas",
@@ -366,8 +366,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-siddhas",
+      "artworkMode": "direct"
     },
     {
       "id": "maruts",
@@ -388,8 +388,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-maruts",
+      "artworkMode": "contextual"
     },
     {
       "id": "adityas",
@@ -411,8 +411,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "lakshmi",
-      "artworkMode": "collection"
+      "artworkId": "e-adityas",
+      "artworkMode": "contextual"
     },
     {
       "id": "nymphs",
@@ -434,7 +434,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
+      "artworkId": "e-nymphs",
       "artworkMode": "direct"
     },
     {
@@ -457,8 +457,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-dryads",
+      "artworkMode": "direct"
     },
     {
       "id": "naiads",
@@ -479,7 +479,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
+      "artworkId": "e-naiads",
       "artworkMode": "direct"
     },
     {
@@ -502,7 +502,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
+      "artworkId": "e-nereids",
       "artworkMode": "direct"
     },
     {
@@ -524,8 +524,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-oceanids",
+      "artworkMode": "direct"
     },
     {
       "id": "satyrs",
@@ -547,8 +547,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-satyrs",
+      "artworkMode": "direct"
     },
     {
       "id": "centaurs",
@@ -570,8 +570,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-centaurs",
+      "artworkMode": "direct"
     },
     {
       "id": "cyclopes",
@@ -593,8 +593,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-cyclopes",
+      "artworkMode": "direct"
     },
     {
       "id": "moirai",
@@ -616,8 +616,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-moirai",
+      "artworkMode": "direct"
     },
     {
       "id": "erinyes",
@@ -639,8 +639,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-erinyes",
+      "artworkMode": "direct"
     },
     {
       "id": "harpies",
@@ -662,8 +662,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-harpies",
+      "artworkMode": "direct"
     },
     {
       "id": "sirens",
@@ -685,8 +685,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-sirens",
+      "artworkMode": "direct"
     },
     {
       "id": "gorgons",
@@ -708,8 +708,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-gorgons",
+      "artworkMode": "direct"
     },
     {
       "id": "lamia",
@@ -730,8 +730,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "nymphs",
-      "artworkMode": "collection"
+      "artworkId": "e-lamia",
+      "artworkMode": "direct"
     },
     {
       "id": "aos-si",
@@ -752,8 +752,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "direct"
+      "artworkId": "e-aos-si",
+      "artworkMode": "contextual"
     },
     {
       "id": "bean-si",
@@ -774,7 +774,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
+      "artworkId": "e-bean-si",
       "artworkMode": "direct"
     },
     {
@@ -796,8 +796,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "direct"
+      "artworkId": "e-selkies",
+      "artworkMode": "literary"
     },
     {
       "id": "kelpies",
@@ -817,8 +817,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "collection"
+      "artworkId": "e-kelpies",
+      "artworkMode": "direct"
     },
     {
       "id": "brownies",
@@ -839,8 +839,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "collection"
+      "artworkId": "e-brownies",
+      "artworkMode": "literary"
     },
     {
       "id": "puca",
@@ -860,8 +860,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "collection"
+      "artworkId": "e-puca",
+      "artworkMode": "literary"
     },
     {
       "id": "dullahan",
@@ -881,8 +881,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "collection"
+      "artworkId": "e-dullahan",
+      "artworkMode": "literary"
     },
     {
       "id": "leannan-si",
@@ -903,8 +903,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "collection"
+      "artworkId": "e-leannan-si",
+      "artworkMode": "contextual"
     },
     {
       "id": "glaistig",
@@ -924,8 +924,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "collection"
+      "artworkId": "e-glaistig",
+      "artworkMode": "contextual"
     },
     {
       "id": "bean-nighe",
@@ -945,8 +945,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "fairies",
-      "artworkMode": "collection"
+      "artworkId": "e-bean-nighe",
+      "artworkMode": "contextual"
     },
     {
       "id": "alfar",
@@ -968,8 +968,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
-      "artworkMode": "collection"
+      "artworkId": "e-alfar",
+      "artworkMode": "contextual"
     },
     {
       "id": "dvergar",
@@ -990,8 +990,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
-      "artworkMode": "collection"
+      "artworkId": "e-dvergar",
+      "artworkMode": "contextual"
     },
     {
       "id": "jotnar",
@@ -1012,7 +1012,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
+      "artworkId": "e-jotnar",
       "artworkMode": "direct"
     },
     {
@@ -1035,8 +1035,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
-      "artworkMode": "collection"
+      "artworkId": "e-valkyries",
+      "artworkMode": "direct"
     },
     {
       "id": "norns",
@@ -1057,8 +1057,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
-      "artworkMode": "collection"
+      "artworkId": "e-norns",
+      "artworkMode": "direct"
     },
     {
       "id": "draugr",
@@ -1079,8 +1079,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
-      "artworkMode": "collection"
+      "artworkId": "e-draugr",
+      "artworkMode": "direct"
     },
     {
       "id": "landvaettir",
@@ -1102,8 +1102,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
-      "artworkMode": "collection"
+      "artworkId": "e-landvaettir",
+      "artworkMode": "direct"
     },
     {
       "id": "fylgjur",
@@ -1124,8 +1124,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "thor",
-      "artworkMode": "collection"
+      "artworkId": "e-fylgjur",
+      "artworkMode": "contextual"
     },
     {
       "id": "jinn",
@@ -1147,8 +1147,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "Veilarium separates Qurʾānic / theological material from later literary and folkloric jinn traditions.",
-      "artworkId": "peri",
-      "artworkMode": "collection"
+      "artworkId": "e-jinn",
+      "artworkMode": "literary"
     },
     {
       "id": "ifrit",
@@ -1170,8 +1170,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "peri",
-      "artworkMode": "collection"
+      "artworkId": "e-ifrit",
+      "artworkMode": "literary"
     },
     {
       "id": "marid",
@@ -1192,8 +1192,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "peri",
-      "artworkMode": "collection"
+      "artworkId": "e-marid",
+      "artworkMode": "literary"
     },
     {
       "id": "ghul",
@@ -1214,8 +1214,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "peri",
-      "artworkMode": "collection"
+      "artworkId": "e-ghul",
+      "artworkMode": "literary"
     },
     {
       "id": "peri",
@@ -1236,7 +1236,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "peri",
+      "artworkId": "e-peri",
       "artworkMode": "direct"
     },
     {
@@ -1259,8 +1259,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "peri",
-      "artworkMode": "collection"
+      "artworkId": "e-div",
+      "artworkMode": "direct"
     },
     {
       "id": "fravashis",
@@ -1281,8 +1281,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "peri",
-      "artworkMode": "collection"
+      "artworkId": "e-fravashis",
+      "artworkMode": "symbolic"
     },
     {
       "id": "yazatas",
@@ -1303,8 +1303,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/jinn.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "peri",
-      "artworkMode": "collection"
+      "artworkId": "e-yazatas",
+      "artworkMode": "contextual"
     },
     {
       "id": "kami",
@@ -1326,7 +1326,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "amaterasu",
+      "artworkId": "e-kami",
       "artworkMode": "direct"
     },
     {
@@ -1348,7 +1348,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "yokai",
+      "artworkId": "e-yokai",
       "artworkMode": "direct"
     },
     {
@@ -1371,8 +1371,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "amaterasu",
-      "artworkMode": "collection"
+      "artworkId": "e-oni",
+      "artworkMode": "direct"
     },
     {
       "id": "tengu",
@@ -1394,8 +1394,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "amaterasu",
-      "artworkMode": "collection"
+      "artworkId": "e-tengu",
+      "artworkMode": "direct"
     },
     {
       "id": "kitsune",
@@ -1417,8 +1417,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "amaterasu",
-      "artworkMode": "collection"
+      "artworkId": "e-kitsune",
+      "artworkMode": "direct"
     },
     {
       "id": "yurei",
@@ -1440,8 +1440,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "amaterasu",
-      "artworkMode": "collection"
+      "artworkId": "e-yurei",
+      "artworkMode": "direct"
     },
     {
       "id": "kappa",
@@ -1462,8 +1462,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "amaterasu",
-      "artworkMode": "collection"
+      "artworkId": "e-kappa",
+      "artworkMode": "direct"
     },
     {
       "id": "tsukumogami",
@@ -1485,8 +1485,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/yokai.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "amaterasu",
-      "artworkMode": "collection"
+      "artworkId": "e-tsukumogami",
+      "artworkMode": "direct"
     },
     {
       "id": "rusalka",
@@ -1507,8 +1507,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "slavic",
-      "artworkMode": "collection"
+      "artworkId": "e-rusalka",
+      "artworkMode": "direct"
     },
     {
       "id": "domovoi",
@@ -1528,8 +1528,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "slavic",
-      "artworkMode": "collection"
+      "artworkId": "e-domovoi",
+      "artworkMode": "direct"
     },
     {
       "id": "leshy",
@@ -1549,8 +1549,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "slavic",
-      "artworkMode": "collection"
+      "artworkId": "e-leshy",
+      "artworkMode": "direct"
     },
     {
       "id": "vodyanoy",
@@ -1570,8 +1570,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "slavic",
-      "artworkMode": "collection"
+      "artworkId": "e-vodyanoy",
+      "artworkMode": "direct"
     },
     {
       "id": "kikimora",
@@ -1591,8 +1591,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "slavic",
-      "artworkMode": "collection"
+      "artworkId": "e-kikimora",
+      "artworkMode": "direct"
     },
     {
       "id": "zmey",
@@ -1612,8 +1612,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "slavic",
-      "artworkMode": "collection"
+      "artworkId": "e-zmey",
+      "artworkMode": "direct"
     },
     {
       "id": "angelic-beings",
@@ -1636,8 +1636,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/angelic.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "angels",
-      "artworkMode": "direct"
+      "artworkId": "e-angelic",
+      "artworkMode": "contextual"
     },
     {
       "id": "seraphim",
@@ -1658,7 +1658,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/angelic.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "angels",
+      "artworkId": "e-seraphim",
       "artworkMode": "direct"
     },
     {
@@ -1681,8 +1681,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/angelic.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "angels",
-      "artworkMode": "direct"
+      "artworkId": "e-cherubim",
+      "artworkMode": "contextual"
     },
     {
       "id": "netjeru",
@@ -1704,7 +1704,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/angelic.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "egypt",
+      "artworkId": "e-netjeru",
       "artworkMode": "direct"
     },
     {
@@ -1726,7 +1726,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/angelic.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "egypt",
+      "artworkId": "e-ammit",
       "artworkMode": "direct"
     },
     {
@@ -1748,7 +1748,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/angelic.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "egypt",
+      "artworkId": "e-bennu",
       "artworkMode": "direct"
     },
     {
@@ -1771,7 +1771,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/kami.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "xiwangmu",
+      "artworkId": "e-xian",
       "artworkMode": "direct"
     },
     {
@@ -1793,7 +1793,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/kami.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "xiwangmu",
+      "artworkId": "e-huli-jing",
       "artworkMode": "direct"
     },
     {
@@ -1816,7 +1816,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "padmapani",
+      "artworkId": "e-dakinis",
       "artworkMode": "direct"
     },
     {
@@ -1838,7 +1838,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/devas.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "padmapani",
+      "artworkId": "e-dharmapalas",
       "artworkMode": "direct"
     },
     {
@@ -1860,7 +1860,7 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "tzitzimime",
+      "artworkId": "e-tzitzimime",
       "artworkMode": "direct"
     },
     {
@@ -1881,8 +1881,8 @@ window.VEILARIUM_DATA = {
       ],
       "image": "assets/art/fair-folk.svg",
       "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
-      "artworkId": "tzitzimime",
-      "artworkMode": "collection"
+      "artworkId": "e-aluxoob",
+      "artworkMode": "contextual"
     }
   ],
   "planets": {
@@ -2218,229 +2218,2492 @@ window.VEILARIUM_DATA = {
     }
   ],
   "artworks": {
-    "lakshmi": {
-      "title": "Goddess Lakshmi",
-      "artist": "Raja Ravi Varma",
-      "date": "1896",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg/960px-Raja_Ravi_Varma,_Goddess_Lakshmi,_1896.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Raja%20Ravi%20Varma,%20Goddess%20Lakshmi,%201896.jpg",
+    "e-devas": {
+      "id": "e-devas",
+      "title": "Indra on Airāvata",
+      "artist": "Unknown South Indian artist",
+      "date": "c. 1820",
+      "filename": "Indra deva.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Indra_deva.jpg/960px-Indra_deva.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Indra_deva.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Indra_deva.jpg",
       "license": "Public Domain",
-      "collection": "Maharaja Fateh Singh Museum",
-      "useNote": "Collection artwork for South Asian divine and celestial entries unless the entry specifically concerns Lakshmi."
+      "collection": "British Museum / Commons",
+      "mode": "direct",
+      "note": "Historical depiction of Indra used as the gateway to the broad Deva class."
     },
-    "menaka": {
-      "title": "Vishwamitra and Menaka",
+    "e-asuras": {
+      "id": "e-asuras",
+      "title": "Durga Slaying an Asura",
+      "artist": "Unknown Indian artist",
+      "date": "18th–19th century",
+      "filename": "Unknown (Indian) - Durga Slaying an Asura - 26.392.A - Detroit Institute of Arts.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg/960px-Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg",
+      "license": "Public Domain",
+      "collection": "Detroit Institute of Arts",
+      "mode": "direct",
+      "note": "Direct depiction of an asura in a goddess battle narrative; the Asura category itself is historically complex."
+    },
+    "e-apsaras": {
+      "id": "e-apsaras",
+      "title": "Menakā and Viśvāmitra",
       "artist": "Raja Ravi Varma",
-      "date": "c. 1890",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Menaka_Vishwamitra_by_RRV.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Menaka%20Vishwamitra%20by%20RRV.jpg",
+      "date": "19th century",
+      "filename": "Menaka Vishwamitra by RRV.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Menaka_Vishwamitra_by_RRV.jpg/960px-Menaka_Vishwamitra_by_RRV.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/23/Menaka_Vishwamitra_by_RRV.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Menaka_Vishwamitra_by_RRV.jpg",
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
-      "useNote": "Direct artistic depiction of Menakā and Viśvāmitra; used for the Apsaras gateway."
+      "mode": "direct",
+      "note": "Direct artistic depiction of the apsara Menakā."
     },
-    "kaliya": {
+    "e-gandharvas": {
+      "id": "e-gandharvas",
+      "title": "Flying Gandharva",
+      "artist": "Historical Indian painting; photograph by Adbh266",
+      "date": "18th-century work",
+      "filename": "Flying Gandharva Painting.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flying_Gandharva_Painting.jpg/960px-Flying_Gandharva_Painting.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flying_Gandharva_Painting.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Flying_Gandharva_Painting.jpg",
+      "license": "CC BY-SA 4.0",
+      "collection": "Museum display, Hyderabad",
+      "mode": "direct",
+      "note": "Direct Gandharva imagery; attribution/share-alike status retained."
+    },
+    "e-yakshas": {
+      "id": "e-yakshas",
+      "title": "Hariti and Kubera after Ajanta Cave 2",
+      "artist": "Unknown copyist",
+      "date": "19th-century copy after ancient painting",
+      "filename": "19th century copy of 1st century BCE to 5th century CE Ajanta Cave 2 painting Hariti and Kubera 2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/19th_century_copy_of_1st_century_BCE_to_5th_century_CE_Ajanta_Cave_2_painting_Hariti_and_Kubera_2.jpg/960px-19th_century_copy_of_1st_century_BCE_to_5th_century_CE_Ajanta_Cave_2_painting_Hariti_and_Kubera_2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/19th_century_copy_of_1st_century_BCE_to_5th_century_CE_Ajanta_Cave_2_painting_Hariti_and_Kubera_2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:19th_century_copy_of_1st_century_BCE_to_5th_century_CE_Ajanta_Cave_2_painting_Hariti_and_Kubera_2.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Kubera-centered Yakṣa context; not a universal portrait of all Yakṣas."
+    },
+    "e-yakshinis": {
+      "id": "e-yakshinis",
+      "title": "Jain Yakshini",
+      "artist": "Unknown historical artist",
+      "date": "historical object",
+      "filename": "Jain Yakshini.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jain_Yakshini.jpg/960px-Jain_Yakshini.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jain_Yakshini.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jain_Yakshini.jpg",
+      "license": "CC0",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Yakṣiṇī imagery from a Jain context."
+    },
+    "e-nagas": {
+      "id": "e-nagas",
       "title": "Krishna Quelling the Serpent King Kaliya",
       "artist": "Unknown court artist",
       "date": "1718",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg/1280px-Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Krishna%20Quelling%20the%20Serpent%20King%20Kaliya,%20Folio%20from%20a%20Bhagavata%20Purana%20(Ancient%20Stories%20of%20the%20Lord)%20LACMA%20M.71.1.23.jpg",
+      "filename": "Krishna Quelling the Serpent King Kaliya, Folio from a Bhagavata Purana (Ancient Stories of the Lord) LACMA M.71.1.23.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg/960px-Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg",
       "license": "Public Domain",
       "collection": "Los Angeles County Museum of Art",
-      "useNote": "Historical painting directly connected with a nāga narrative."
+      "mode": "direct",
+      "note": "Directly connected with the Nāga king Kāliya narrative."
     },
-    "nymphs": {
+    "e-garudas": {
+      "id": "e-garudas",
+      "title": "Lord Garuḍa",
+      "artist": "Raja Ravi Varma",
+      "date": "19th century",
+      "filename": "Raja Ravi Varma, Lord Garuda.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Raja_Ravi_Varma,_Lord_Garuda.jpg/960px-Raja_Ravi_Varma,_Lord_Garuda.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Raja_Ravi_Varma,_Lord_Garuda.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Lord_Garuda.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct depiction of Garuḍa."
+    },
+    "e-rakshasas": {
+      "id": "e-rakshasas",
+      "title": "Kabandha the Rākṣasa",
+      "artist": "Unknown Indian artist",
+      "date": "c. 1820–1825",
+      "filename": "Kabandha rakshasa.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kabandha_rakshasa.jpg/960px-Kabandha_rakshasa.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kabandha_rakshasa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kabandha_rakshasa.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Rāmāyaṇa Rākṣasa depiction."
+    },
+    "e-vetalas": {
+      "id": "e-vetalas",
+      "title": "Vikram and the Vampire",
+      "artist": "Ernest Griset",
+      "date": "1870",
+      "filename": "RF Burton Vikram and the Vampire (1870) Illustrated by Ernest Griset frontispiece.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RF_Burton_Vikram_and_the_Vampire_(1870)_Illustrated_by_Ernest_Griset_frontispiece.png/720px-RF_Burton_Vikram_and_the_Vampire_(1870)_Illustrated_by_Ernest_Griset_frontispiece.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RF_Burton_Vikram_and_the_Vampire_(1870)_Illustrated_by_Ernest_Griset_frontispiece.png",
+      "source": "https://commons.wikimedia.org/wiki/File:RF_Burton_Vikram_and_the_Vampire_(1870)_Illustrated_by_Ernest_Griset_frontispiece.png",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Later literary reception of the Vetāla cycle, not ancient sacred art."
+    },
+    "e-bhutas": {
+      "id": "e-bhutas",
+      "title": "Shiva as an Ascetic among Spirit Attendants",
+      "artist": "Unknown bazaar artist",
+      "date": "1880s",
+      "filename": "Shiva as an ascetic.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shiva_as_an_ascetic.jpg/960px-Shiva_as_an_ascetic.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Shiva_as_an_ascetic.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shiva_as_an_ascetic.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Evocative context for bhūta/gaṇa spirit worlds; bhūta is a broad, language-dependent category."
+    },
+    "e-pretas": {
+      "id": "e-pretas",
+      "title": "Hungry Ghosts Scroll",
+      "artist": "Unknown Japanese Buddhist artist",
+      "date": "12th century",
+      "filename": "Gaki-Zoushi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gaki-Zoushi.jpg/960px-Gaki-Zoushi.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gaki-Zoushi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gaki-Zoushi.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Buddhist Japanese hungry-ghost imagery used cross-traditionally for the preta concept; clearly not presented as Hindu iconography."
+    },
+    "e-pisacas": {
+      "id": "e-pisacas",
+      "title": "Folio from the Kathāsaritsāgara",
+      "artist": "Unknown Indian artist",
+      "date": "early 17th century",
+      "filename": "Folio from Kathasaritsagara.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Folio_from_Kathasaritsagara.JPG/960px-Folio_from_Kathasaritsagara.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Folio_from_Kathasaritsagara.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Folio_from_Kathasaritsagara.JPG",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Literary context for Sanskrit uncanny-being traditions; not a literal Piśāca portrait."
+    },
+    "e-kinnaras": {
+      "id": "e-kinnaras",
+      "title": "Kinnara with Kachchapa Vīṇā, Ajanta",
+      "artist": "Unknown ancient painter",
+      "date": "c. 450–490 CE",
+      "filename": "Kinnara with kachchapa veena, part of the Bodhisattva Padmapani, Cave 1, Ajanta, India.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kinnara_with_kachchapa_veena,_part_of_the_Bodhisattva_Padmapani,_Cave_1,_Ajanta,_India.jpg/960px-Kinnara_with_kachchapa_veena,_part_of_the_Bodhisattva_Padmapani,_Cave_1,_Ajanta,_India.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kinnara_with_kachchapa_veena,_part_of_the_Bodhisattva_Padmapani,_Cave_1,_Ajanta,_India.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kinnara_with_kachchapa_veena,_part_of_the_Bodhisattva_Padmapani,_Cave_1,_Ajanta,_India.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct ancient painted depiction of a Kinnara musician."
+    },
+    "e-vidyadharas": {
+      "id": "e-vidyadharas",
+      "title": "Vidyādhara",
+      "artist": "Historical Indian sculptor; photo by Kathie Brobeck",
+      "date": "historical object",
+      "filename": "Vidyadhara.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Vidyadhara.jpg/960px-Vidyadhara.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Vidyadhara.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vidyadhara.jpg",
+      "license": "CC BY 3.0",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Directly identified Vidyādhara image; sculpture used where strong painting evidence is scarce."
+    },
+    "e-siddhas": {
+      "id": "e-siddhas",
+      "title": "Indian Adept (Siddha)",
+      "artist": "Unknown Indian artist",
+      "date": "18th century",
+      "filename": "Indian Adept (siddha) - (multiple figures)18th century Boston MFA.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Indian_Adept_(siddha)_-_(multiple_figures)18th_century_Boston_MFA.jpg/960px-Indian_Adept_(siddha)_-_(multiple_figures)18th_century_Boston_MFA.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Indian_Adept_(siddha)_-_(multiple_figures)18th_century_Boston_MFA.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_Adept_(siddha)_-_(multiple_figures)18th_century_Boston_MFA.jpg",
+      "license": "Public Domain",
+      "collection": "Museum of Fine Arts, Boston",
+      "mode": "direct",
+      "note": "Historical depiction of Indian adepts / siddhas."
+    },
+    "e-maruts": {
+      "id": "e-maruts",
+      "title": "Indra on Airāvata and a Sage at Sacrifice",
+      "artist": "Unknown Indian artist",
+      "date": "historical painting",
+      "filename": "Indra on airavata & sage yagna.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Indra_on_airavata_&_sage_yagna.jpg/960px-Indra_on_airavata_&_sage_yagna.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Indra_on_airavata_&_sage_yagna.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Indra_on_airavata_&_sage_yagna.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Vedic storm-and-sacrifice context for the Maruts; not a direct group portrait."
+    },
+    "e-adityas": {
+      "id": "e-adityas",
+      "title": "Sūrya",
+      "artist": "Raja Ravi Varma workshop / historical print tradition",
+      "date": "19th century",
+      "filename": "Surya poster.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Surya_poster.jpg/960px-Surya_poster.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Surya_poster.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Surya_poster.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Solar deity gateway to the Ādityas; member lists vary across textual periods."
+    },
+    "e-nymphs": {
+      "id": "e-nymphs",
       "title": "Hylas and the Nymphs",
       "artist": "John William Waterhouse",
       "date": "1896",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg/1280px-Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Waterhouse%20Hylas%20and%20the%20Nymphs%20Manchester%20Art%20Gallery%201896.15%20n2.jpg",
+      "filename": "Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15 n2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg/960px-Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15_n2.jpg",
       "license": "Public Domain",
       "collection": "Manchester Art Gallery",
-      "useNote": "Direct literary/mythological depiction used for the Greek nature-spirit chapter."
+      "mode": "direct",
+      "note": "Direct mythological depiction of nymphs."
     },
-    "fairies": {
-      "title": "The Fairy Banquet",
-      "artist": "John Anster Fitzgerald",
-      "date": "19th century",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fairies_in_a_birds_nest.jpg/1280px-Fairies_in_a_birds_nest.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:FitzgeraldFairyBanquet.jpg",
+    "e-dryads": {
+      "id": "e-dryads",
+      "title": "The Dryad",
+      "artist": "Evelyn De Morgan",
+      "date": "1884–1885",
+      "filename": "Dryad11.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dryad11.jpg/960px-Dryad11.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Dryad11.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dryad11.jpg",
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
-      "useNote": "Victorian fairy painting used as collection artwork for the Celtic/British fairy chapter."
+      "mode": "direct",
+      "note": "Direct Victorian mythological depiction of a dryad."
     },
-    "thor": {
-      "title": "Thor's Battle Against the Jötnar",
+    "e-naiads": {
+      "id": "e-naiads",
+      "title": "A Naiad",
+      "artist": "John William Waterhouse",
+      "date": "1893",
+      "filename": "Naiad1.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Naiad1.jpg/960px-Naiad1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Naiad1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Naiad1.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct mythological depiction of a naiad."
+    },
+    "e-nereids": {
+      "id": "e-nereids",
+      "title": "Nereid on a Hippocampus",
+      "artist": "Ancient Roman painter",
+      "date": "1st century CE",
+      "filename": "Painting of a Nereid on a hippocampus from antechamber to room 3 of the Villa Arianna in Stabiae found in 1760 now in MANN 8859.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg/960px-Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Painting_of_a_Nereid_on_a_hippocampus_from_antechamber_to_room_3_of_the_Villa_Arianna_in_Stabiae_found_in_1760_now_in_MANN_8859.jpg",
+      "license": "Public Domain",
+      "collection": "National Archaeological Museum, Naples",
+      "mode": "direct",
+      "note": "Ancient direct Nereid imagery."
+    },
+    "e-oceanids": {
+      "id": "e-oceanids",
+      "title": "The Oceanids",
+      "artist": "Gustave Doré",
+      "date": "19th century",
+      "filename": "Oceanides.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oceanides.jpg/960px-Oceanides.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Oceanides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Oceanides.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct literary-artistic depiction of the Oceanids."
+    },
+    "e-satyrs": {
+      "id": "e-satyrs",
+      "title": "Nymphs and Satyr",
+      "artist": "William-Adolphe Bouguereau",
+      "date": "1873",
+      "filename": "William-Adolphe Bouguereau (1825-1905) - Nymphs and Satyr (1873) HQ.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg/960px-William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct academic mythological depiction of a satyr."
+    },
+    "e-centaurs": {
+      "id": "e-centaurs",
+      "title": "Centaur",
+      "artist": "Odilon Redon",
+      "date": "c. 1895–1900",
+      "filename": "Redon - Centaur, 1895–1900.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Redon_-_Centaur,_1895%E2%80%931900.jpg/960px-Redon_-_Centaur,_1895%E2%80%931900.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/Redon_-_Centaur,_1895%E2%80%931900.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Redon_-_Centaur,_1895%E2%80%931900.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Symbolist depiction of a centaur."
+    },
+    "e-cyclopes": {
+      "id": "e-cyclopes",
+      "title": "Odysseus and Polyphemus",
+      "artist": "Arnold Böcklin",
+      "date": "1896",
+      "filename": "Arnold Böcklin - Odysseus and Polyphemus.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arnold_B%C3%B6cklin_-_Odysseus_and_Polyphemus.jpg/960px-Arnold_B%C3%B6cklin_-_Odysseus_and_Polyphemus.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Arnold_B%C3%B6cklin_-_Odysseus_and_Polyphemus.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_-_Odysseus_and_Polyphemus.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct depiction of the Cyclops Polyphemus."
+    },
+    "e-moirai": {
+      "id": "e-moirai",
+      "title": "The Three Fates",
+      "artist": "Historical engraving",
+      "date": "1797",
+      "filename": "Hufeland 1797 Moriae.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hufeland_1797_Moriae.jpg/960px-Hufeland_1797_Moriae.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Hufeland_1797_Moriae.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hufeland_1797_Moriae.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct depiction of the Moirai / Fates."
+    },
+    "e-erinyes": {
+      "id": "e-erinyes",
+      "title": "Orestes Pursued by the Furies",
+      "artist": "Ancient Greek vase painter",
+      "date": "4th century BCE",
+      "filename": "56- Oreste perseguitato dalle Furie e difeso da Apollo, IV sec. aC -FG04.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/56-_Oreste_perseguitato_dalle_Furie_e_difeso_da_Apollo,_IV_sec._aC_-FG04.jpg/960px-56-_Oreste_perseguitato_dalle_Furie_e_difeso_da_Apollo,_IV_sec._aC_-FG04.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/56-_Oreste_perseguitato_dalle_Furie_e_difeso_da_Apollo,_IV_sec._aC_-FG04.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:56-_Oreste_perseguitato_dalle_Furie_e_difeso_da_Apollo,_IV_sec._aC_-FG04.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Ancient visual tradition of the Erinyes/Furies."
+    },
+    "e-harpies": {
+      "id": "e-harpies",
+      "title": "Landscape with the Expulsion of the Harpies",
+      "artist": "Pauwels Franck",
+      "date": "16th century",
+      "filename": "Pauwels Franck - Landscape with the Expulsion of the Harpies.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pauwels_Franck_-_Landscape_with_the_Expulsion_of_the_Harpies.jpg/960px-Pauwels_Franck_-_Landscape_with_the_Expulsion_of_the_Harpies.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pauwels_Franck_-_Landscape_with_the_Expulsion_of_the_Harpies.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pauwels_Franck_-_Landscape_with_the_Expulsion_of_the_Harpies.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct mythological depiction of Harpies."
+    },
+    "e-sirens": {
+      "id": "e-sirens",
+      "title": "The Siren",
+      "artist": "John William Waterhouse",
+      "date": "1900",
+      "filename": "John William Waterhouse - The Siren, 1900.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_William_Waterhouse_-_The_Siren,_1900.jpg/960px-John_William_Waterhouse_-_The_Siren,_1900.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/John_William_Waterhouse_-_The_Siren,_1900.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_The_Siren,_1900.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Later painterly interpretation of the Siren tradition."
+    },
+    "e-gorgons": {
+      "id": "e-gorgons",
+      "title": "Medusa",
+      "artist": "Caravaggio",
+      "date": "c. 1597",
+      "filename": "Medusa by Carvaggio.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Medusa_by_Carvaggio.jpg/960px-Medusa_by_Carvaggio.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Medusa_by_Carvaggio.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Medusa_by_Carvaggio.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct artistic depiction of Medusa, the best-known Gorgon."
+    },
+    "e-lamia": {
+      "id": "e-lamia",
+      "title": "Lamia",
+      "artist": "John William Waterhouse",
+      "date": "1909",
+      "filename": "John William Waterhouse - Lamia.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/John_William_Waterhouse_-_Lamia.jpg/960px-John_William_Waterhouse_-_Lamia.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/23/John_William_Waterhouse_-_Lamia.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Lamia.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Later literary/mythological depiction of Lamia."
+    },
+    "e-aos-si": {
+      "id": "e-aos-si",
+      "title": "Fairies in a Bird’s Nest",
+      "artist": "John Anster Fitzgerald",
+      "date": "c. 1860",
+      "filename": "Fairies in a birds nest.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fairies_in_a_birds_nest.jpg/960px-Fairies_in_a_birds_nest.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Fairies_in_a_birds_nest.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fairies_in_a_birds_nest.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Victorian fairy painting used as a visual gateway; Aos Sí traditions are specifically Irish and broader than Victorian fairy art."
+    },
+    "e-bean-si": {
+      "id": "e-bean-si",
+      "title": "The Banshee",
+      "artist": "Henry Meynell Rheam",
+      "date": "1897",
+      "filename": "The Banshee.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Banshee.jpg/960px-The_Banshee.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Banshee.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Banshee.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct later artistic depiction of the banshee / bean sí."
+    },
+    "e-selkies": {
+      "id": "e-selkies",
+      "title": "The Great Silkie of Sule Skerry",
+      "artist": "Vernon Hill",
+      "date": "1912",
+      "filename": "Vernon Hill. The Great Silkie of Sule Skerry. 1912.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Vernon_Hill._The_Great_Silkie_of_Sule_Skerry._1912.png/960px-Vernon_Hill._The_Great_Silkie_of_Sule_Skerry._1912.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Vernon_Hill._The_Great_Silkie_of_Sule_Skerry._1912.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Vernon_Hill._The_Great_Silkie_of_Sule_Skerry._1912.png",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Illustration of a famous selkie ballad tradition."
+    },
+    "e-kelpies": {
+      "id": "e-kelpies",
+      "title": "The Kelpie",
+      "artist": "Thomas Millie Dow",
+      "date": "1895",
+      "filename": "Thomas Millie Dow - The Kelpie 1895.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Thomas_Millie_Dow_-_The_Kelpie_1895.jpg/960px-Thomas_Millie_Dow_-_The_Kelpie_1895.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Thomas_Millie_Dow_-_The_Kelpie_1895.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Millie_Dow_-_The_Kelpie_1895.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct painting of the Scottish water-horse being."
+    },
+    "e-brownies": {
+      "id": "e-brownies",
+      "title": "The Original Brownies",
+      "artist": "Palmer Cox",
+      "date": "early 20th century",
+      "filename": "The Original Brownies.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/The_Original_Brownies.jpg/960px-The_Original_Brownies.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6a/The_Original_Brownies.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Original_Brownies.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Later literary/illustrated reception of brownie folklore."
+    },
+    "e-puca": {
+      "id": "e-puca",
+      "title": "The Pooka and the Horse",
+      "artist": "Willy Pogany",
+      "date": "1916",
+      "filename": "Colum-KOIS(Holt1916)-Pogany-illustr-p283-the-pooka-and-horse.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Colum-KOIS(Holt1916)-Pogany-illustr-p283-the-pooka-and-horse.jpg/960px-Colum-KOIS(Holt1916)-Pogany-illustr-p283-the-pooka-and-horse.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Colum-KOIS(Holt1916)-Pogany-illustr-p283-the-pooka-and-horse.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Colum-KOIS(Holt1916)-Pogany-illustr-p283-the-pooka-and-horse.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Illustrated literary reception of the Púca."
+    },
+    "e-dullahan": {
+      "id": "e-dullahan",
+      "title": "The Dullahan",
+      "artist": "Historical book illustration",
+      "date": "1834",
+      "filename": "Croker(1834)Fairy Legends p0239-dullahan.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Croker(1834)Fairy_Legends_p0239-dullahan.jpg/960px-Croker(1834)Fairy_Legends_p0239-dullahan.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Croker(1834)Fairy_Legends_p0239-dullahan.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Croker(1834)Fairy_Legends_p0239-dullahan.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Early published folklore illustration of the headless rider tradition."
+    },
+    "e-leannan-si": {
+      "id": "e-leannan-si",
+      "title": "The Fairy Lovers",
+      "artist": "Theodor von Holst",
+      "date": "19th century",
+      "filename": "The Fairy Lovers.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Fairy_Lovers.jpg/960px-The_Fairy_Lovers.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Fairy_Lovers.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Fairy_Lovers.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Evocative fairy-lover painting for the Leannán Sí tradition."
+    },
+    "e-glaistig": {
+      "id": "e-glaistig",
+      "title": "The Fairy’s Lake",
+      "artist": "John Anster Fitzgerald",
+      "date": "19th century",
+      "filename": "John Anster Fitzgerald (1819-1906) - The Fairy's Lake - T01083 - Tate.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/John_Anster_Fitzgerald_(1819-1906)_-_The_Fairy's_Lake_-_T01083_-_Tate.jpg/960px-John_Anster_Fitzgerald_(1819-1906)_-_The_Fairy's_Lake_-_T01083_-_Tate.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/John_Anster_Fitzgerald_(1819-1906)_-_The_Fairy's_Lake_-_T01083_-_Tate.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:John_Anster_Fitzgerald_(1819-1906)_-_The_Fairy's_Lake_-_T01083_-_Tate.jpg",
+      "license": "Public Domain",
+      "collection": "Tate",
+      "mode": "contextual",
+      "note": "Evocative Highland/otherworld atmosphere; not a literal Glaistig portrait."
+    },
+    "e-bean-nighe": {
+      "id": "e-bean-nighe",
+      "title": "The Brown Fairy Book — color plate",
+      "artist": "H. J. Ford",
+      "date": "1904",
+      "filename": "Brown fairy book - color plate facing page 020.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Brown_fairy_book_-_color_plate_facing_page_020.jpg/960px-Brown_fairy_book_-_color_plate_facing_page_020.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Brown_fairy_book_-_color_plate_facing_page_020.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brown_fairy_book_-_color_plate_facing_page_020.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Evocative fairy-book visual for the washer-at-the-ford tradition; not a canonical depiction."
+    },
+    "e-alfar": {
+      "id": "e-alfar",
+      "title": "Fairy Ring",
+      "artist": "Arthur Rackham",
+      "date": "1908",
+      "filename": "Rackham fairy ring.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rackham_fairy_ring.jpg/960px-Rackham_fairy_ring.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rackham_fairy_ring.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rackham_fairy_ring.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Later northern European fairy imagery used evocatively; Old Norse Álfar are not simply identical to Victorian fairies."
+    },
+    "e-dvergar": {
+      "id": "e-dvergar",
+      "title": "Rhinegold and the Valkyries — underground forge scene",
+      "artist": "Arthur Rackham",
+      "date": "1910",
+      "filename": "Rhinegold and the Valkyries p 004.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rhinegold_and_the_Valkyries_p_004.jpg/960px-Rhinegold_and_the_Valkyries_p_004.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rhinegold_and_the_Valkyries_p_004.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rhinegold_and_the_Valkyries_p_004.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Germanic/Nibelung visual context for supernatural smiths; not a strict Old Norse Dvergar portrait."
+    },
+    "e-jotnar": {
+      "id": "e-jotnar",
+      "title": "Thor’s Battle Against the Jötnar",
       "artist": "Mårten Eskil Winge",
       "date": "1872",
+      "filename": "Thor's Battle Against the Jötnar (1872) by Mårten Eskil Winge.jpg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg/960px-Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Thor's%20Battle%20Against%20the%20J%C3%B6tnar%20(1872)%20by%20M%C3%A5rten%20Eskil%20Winge.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg",
       "license": "Public Domain",
-      "collection": "Nationalmuseum, Sweden",
-      "useNote": "Mythological painting used as collection artwork for the Norse chapter; directly relevant to Jötnar."
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct mythological depiction of Jötnar."
     },
-    "peri": {
+    "e-valkyries": {
+      "id": "e-valkyries",
+      "title": "The Valkyrie",
+      "artist": "Peter Nicolai Arbo",
+      "date": "1869",
+      "filename": "Valkyrie by Arbo.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Valkyrie_by_Arbo.jpg/960px-Valkyrie_by_Arbo.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Valkyrie_by_Arbo.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Valkyrie_by_Arbo.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Romantic depiction of a Valkyrie."
+    },
+    "e-norns": {
+      "id": "e-norns",
+      "title": "The Norns",
+      "artist": "J. L. Lund",
+      "date": "19th century",
+      "filename": "Nornir by Lund.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Nornir_by_Lund.jpg/960px-Nornir_by_Lund.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nornir_by_Lund.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nornir_by_Lund.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct depiction of the Norns."
+    },
+    "e-draugr": {
+      "id": "e-draugr",
+      "title": "Norse Draugr",
+      "artist": "Kim Diaz Holm",
+      "date": "modern",
+      "filename": "Norse draugr by Kim Diaz Holm.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Norse_draugr_by_Kim_Diaz_Holm.jpg/960px-Norse_draugr_by_Kim_Diaz_Holm.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Norse_draugr_by_Kim_Diaz_Holm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Norse_draugr_by_Kim_Diaz_Holm.jpg",
+      "license": "CC BY 4.0",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Modern direct illustration, used under its open license and clearly labeled as modern."
+    },
+    "e-landvaettir": {
+      "id": "e-landvaettir",
+      "title": "Landvættir",
+      "artist": "Modern open illustration",
+      "date": "modern",
+      "filename": "Landvaettir.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Landvaettir.png/960px-Landvaettir.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Landvaettir.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Landvaettir.png",
+      "license": "CC BY-SA 4.0",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Modern direct illustration of Icelandic land spirits, preserved under ShareAlike licensing."
+    },
+    "e-fylgjur": {
+      "id": "e-fylgjur",
+      "title": "Icelandic Mythic Manuscript Figure",
+      "artist": "Unknown Icelandic manuscript artist",
+      "date": "17th century",
+      "filename": "Treated NKS gylfi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treated_NKS_gylfi.jpg/960px-Treated_NKS_gylfi.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Treated_NKS_gylfi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Treated_NKS_gylfi.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Old Icelandic manuscript atmosphere for fylgja traditions; not a direct attested fylgja portrait."
+    },
+    "e-jinn": {
+      "id": "e-jinn",
+      "title": "And there in its midst stood a mighty Genie",
+      "artist": "Edmund Dulac",
+      "date": "1907",
+      "filename": "'And there in its midst stood a mighty Genie.' (18410490744).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/'And_there_in_its_midst_stood_a_mighty_Genie.'_(18410490744).jpg/960px-'And_there_in_its_midst_stood_a_mighty_Genie.'_(18410490744).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/'And_there_in_its_midst_stood_a_mighty_Genie.'_(18410490744).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:'And_there_in_its_midst_stood_a_mighty_Genie.'_(18410490744).jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Arabian Nights literary depiction of a genie/jinni, not an Islamic theological portrait of jinn."
+    },
+    "e-ifrit": {
+      "id": "e-ifrit",
+      "title": "Aladdin and the Genie",
+      "artist": "Albert Letchford",
+      "date": "1890s",
+      "filename": "Albert-Letchford-Aladdin-Genie.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Albert-Letchford-Aladdin-Genie.jpg/960px-Albert-Letchford-Aladdin-Genie.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Albert-Letchford-Aladdin-Genie.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Albert-Letchford-Aladdin-Genie.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Later Arabian Nights genie imagery used for the formidable ʿifrīt tradition."
+    },
+    "e-marid": {
+      "id": "e-marid",
+      "title": "Arabian Nights — sea and enchantment plate",
+      "artist": "Edmund Dulac",
+      "date": "1907",
+      "filename": "Stories from the Arabian nights - London 1907 - plate 12.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stories_from_the_Arabian_nights_-_London_1907_-_plate_12.jpg/960px-Stories_from_the_Arabian_nights_-_London_1907_-_plate_12.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Stories_from_the_Arabian_nights_-_London_1907_-_plate_12.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stories_from_the_Arabian_nights_-_London_1907_-_plate_12.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Evocative Arabian Nights illustration for later Mārid traditions."
+    },
+    "e-ghul": {
+      "id": "e-ghul",
+      "title": "Aminah and the Ghoul",
+      "artist": "Albert Letchford",
+      "date": "1890s",
+      "filename": "Albert-Letchford-Aminah-Ghul.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Albert-Letchford-Aminah-Ghul.jpg/960px-Albert-Letchford-Aminah-Ghul.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Albert-Letchford-Aminah-Ghul.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Albert-Letchford-Aminah-Ghul.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "literary",
+      "note": "Direct literary depiction of a ghoul from an Arabian Nights illustration tradition."
+    },
+    "e-peri": {
+      "id": "e-peri",
       "title": "The Sacred Elephant (Péri)",
       "artist": "Gustave Moreau",
       "date": "1882",
+      "filename": "Gustave Moreau - The Sacred Elephant (Péri) - Google Art Project.jpg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gustave_Moreau_-_The_Sacred_Elephant_(P%C3%A9ri)_-_Google_Art_Project.jpg/960px-Gustave_Moreau_-_The_Sacred_Elephant_(P%C3%A9ri)_-_Google_Art_Project.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Gustave%20Moreau%20-%20The%20Sacred%20Elephant%20(P%C3%A9ri)%20-%20Google%20Art%20Project.jpg",
-      "license": "Public Domain",
-      "collection": "National Museum of Western Art, Tokyo",
-      "useNote": "A 19th-century Symbolist interpretation of a Péri; used as Persianate collection artwork, not as documentary religious evidence."
-    },
-    "amaterasu": {
-      "title": "The Origin of Iwato Kagura (Amaterasu)",
-      "artist": "Utagawa Kunisada",
-      "date": "c. 1844",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png/1280px-The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
-      "source": "https://commons.wikimedia.org/wiki/File:The%20Origin%20of%20Iwato%20Kagura%20Triptych%20(Amaterasu)%20by%20Utagawa%20Kunisada%20c1844.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gustave_Moreau_-_The_Sacred_Elephant_(P%C3%A9ri)_-_Google_Art_Project.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_The_Sacred_Elephant_(P%C3%A9ri)_-_Google_Art_Project.jpg",
       "license": "Public Domain",
       "collection": "Wikimedia Commons",
-      "useNote": "Historical ukiyo-e depiction of the Amaterasu cave narrative; used for the Kami/Shinto chapter."
+      "mode": "direct",
+      "note": "Symbolist interpretation of a Péri; beautiful but later than the Persianate literary tradition."
     },
-    "yokai": {
+    "e-div": {
+      "id": "e-div",
+      "title": "Rostam and the White Div",
+      "artist": "Unknown Persian manuscript painter",
+      "date": "1430",
+      "filename": "Rostam and the White Div from Baysanghar Shahnameh.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rostam_and_the_White_Div_from_Baysanghar_Shahnameh.jpg/960px-Rostam_and_the_White_Div_from_Baysanghar_Shahnameh.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rostam_and_the_White_Div_from_Baysanghar_Shahnameh.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rostam_and_the_White_Div_from_Baysanghar_Shahnameh.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Shāhnāma depiction of the White Div."
+    },
+    "e-fravashis": {
+      "id": "e-fravashis",
+      "title": "Faravahar",
+      "artist": "Historical-symbolic image / modern photograph",
+      "date": "ancient motif",
+      "filename": "Faravahar.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faravahar.JPG/960px-Faravahar.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Faravahar.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Faravahar.JPG",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "symbolic",
+      "note": "Symbolic visual context only. Faravahar iconography should not be simplistically treated as a literal portrait of a fravashi."
+    },
+    "e-yazatas": {
+      "id": "e-yazatas",
+      "title": "Temple of Anahita",
+      "artist": "Eugène Flandin",
+      "date": "19th century",
+      "filename": "Temple of Anahita by Eugène Flandin.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Temple_of_Anahita_by_Eug%C3%A8ne_Flandin.jpg/960px-Temple_of_Anahita_by_Eug%C3%A8ne_Flandin.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Temple_of_Anahita_by_Eug%C3%A8ne_Flandin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Anahita_by_Eug%C3%A8ne_Flandin.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Historical architectural/artistic context for Anāhitā, a yazata; not a generic portrait of all Yazatas."
+    },
+    "e-kami": {
+      "id": "e-kami",
+      "title": "The Origin of Iwato Kagura — Amaterasu",
+      "artist": "Utagawa Kunisada",
+      "date": "c. 1844",
+      "filename": "The Origin of Iwato Kagura Triptych (Amaterasu) by Utagawa Kunisada c1844.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png/960px-The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct ukiyo-e depiction of the Amaterasu cave narrative; Kami is a broader category."
+    },
+    "e-yokai": {
+      "id": "e-yokai",
       "title": "Takiyasha the Witch and the Skeleton Spectre",
       "artist": "Utagawa Kuniyoshi",
       "date": "c. 1844",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Takiyasha_the_Witch_and_the_Skeleton_Spectre.jpg/1280px-Takiyasha_the_Witch_and_the_Skeleton_Spectre.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Takiyasha%20the%20Witch%20and%20the%20Skeleton%20Spectre.jpg",
+      "filename": "Takiyasha the Witch and the Skeleton Spectre.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Takiyasha_the_Witch_and_the_Skeleton_Spectre.jpg/960px-Takiyasha_the_Witch_and_the_Skeleton_Spectre.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Takiyasha_the_Witch_and_the_Skeleton_Spectre.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Takiyasha_the_Witch_and_the_Skeleton_Spectre.jpg",
       "license": "Public Domain",
-      "collection": "Victoria and Albert Museum tradition / Wikimedia Commons scan",
-      "useNote": "Edo-period supernatural print used for the yōkai and Japanese supernatural visual chapter."
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Edo supernatural print used for the broad Yōkai gateway."
     },
-    "angels": {
+    "e-oni": {
+      "id": "e-oni",
+      "title": "Oni",
+      "artist": "Toriyama Sekien",
+      "date": "1779",
+      "filename": "SekienOni.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SekienOni.jpg/960px-SekienOni.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/SekienOni.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:SekienOni.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Edo-period yōkai compendium depiction of an Oni."
+    },
+    "e-tengu": {
+      "id": "e-tengu",
+      "title": "Tengu Scroll — Tōji section",
+      "artist": "Unknown Japanese artist",
+      "date": "medieval",
+      "filename": "天狗草紙・東寺巻部分.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%E5%A4%A9%E7%8B%97%E8%8D%89%E7%B4%99%E3%83%BB%E6%9D%B1%E5%AF%BA%E5%B7%BB%E9%83%A8%E5%88%86.jpg/960px-%E5%A4%A9%E7%8B%97%E8%8D%89%E7%B4%99%E3%83%BB%E6%9D%B1%E5%AF%BA%E5%B7%BB%E9%83%A8%E5%88%86.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%E5%A4%A9%E7%8B%97%E8%8D%89%E7%B4%99%E3%83%BB%E6%9D%B1%E5%AF%BA%E5%B7%BB%E9%83%A8%E5%88%86.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E7%8B%97%E8%8D%89%E7%B4%99%E3%83%BB%E6%9D%B1%E5%AF%BA%E5%B7%BB%E9%83%A8%E5%88%86.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Historical Tengu scroll imagery."
+    },
+    "e-kitsune": {
+      "id": "e-kitsune",
+      "title": "Kitsune",
+      "artist": "Katayama Bokuyō",
+      "date": "1927",
+      "filename": "Kitsune by Katayama Bokuyo.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kitsune_by_Katayama_Bokuyo.png/960px-Kitsune_by_Katayama_Bokuyo.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kitsune_by_Katayama_Bokuyo.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Kitsune_by_Katayama_Bokuyo.png",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Japanese fox-spirit imagery."
+    },
+    "e-yurei": {
+      "id": "e-yurei",
+      "title": "Yūrei",
+      "artist": "Toriyama Sekien",
+      "date": "18th century",
+      "filename": "SekienYurei.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SekienYurei.jpg/960px-SekienYurei.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/SekienYurei.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:SekienYurei.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Edo-period ghost imagery."
+    },
+    "e-kappa": {
+      "id": "e-kappa",
+      "title": "Illustrated Guide to 12 Types of Kappa",
+      "artist": "Unknown Japanese artist",
+      "date": "mid-19th century",
+      "filename": "Illustrated Guide to 12 Types of Kappa.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Illustrated_Guide_to_12_Types_of_Kappa.jpg/960px-Illustrated_Guide_to_12_Types_of_Kappa.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Illustrated_Guide_to_12_Types_of_Kappa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Illustrated_Guide_to_12_Types_of_Kappa.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Historical illustrated Kappa types."
+    },
+    "e-tsukumogami": {
+      "id": "e-tsukumogami",
+      "title": "Tsukumogami from a Night Parade Scroll",
+      "artist": "Unknown Japanese artist",
+      "date": "Muromachi period",
+      "filename": "Hyakki-Yagyo-Emaki Tsukumogami 1.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hyakki-Yagyo-Emaki_Tsukumogami_1.jpg/960px-Hyakki-Yagyo-Emaki_Tsukumogami_1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hyakki-Yagyo-Emaki_Tsukumogami_1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyakki-Yagyo-Emaki_Tsukumogami_1.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Historical animated-object imagery from the Night Parade tradition."
+    },
+    "e-rusalka": {
+      "id": "e-rusalka",
+      "title": "Rusalka",
+      "artist": "Ivan Bilibin",
+      "date": "early 20th century",
+      "filename": "Rusalka Bilibin.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rusalka_Bilibin.jpg/960px-Rusalka_Bilibin.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rusalka_Bilibin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rusalka_Bilibin.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct literary/folkloric depiction of a Rusalka."
+    },
+    "e-domovoi": {
+      "id": "e-domovoi",
+      "title": "Domovoi",
+      "artist": "Ivan Bilibin tradition",
+      "date": "early 20th century",
+      "filename": "Domovoi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Domovoi.jpg/960px-Domovoi.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Domovoi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Domovoi.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct folklore illustration of a Domovoi."
+    },
+    "e-leshy": {
+      "id": "e-leshy",
+      "title": "Leshy",
+      "artist": "Historical Slavic illustration",
+      "date": "1906",
+      "filename": "Leshy (1906).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Leshy_(1906).jpg/960px-Leshy_(1906).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Leshy_(1906).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leshy_(1906).jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct folklore illustration of a Leshy."
+    },
+    "e-vodyanoy": {
+      "id": "e-vodyanoy",
+      "title": "Vodyanoy",
+      "artist": "Ivan Bilibin tradition",
+      "date": "early 20th century",
+      "filename": "Vodyanoy.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vodyanoy.jpg/960px-Vodyanoy.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vodyanoy.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vodyanoy.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct folklore illustration of a Vodyanoy."
+    },
+    "e-kikimora": {
+      "id": "e-kikimora",
+      "title": "Kikimora",
+      "artist": "Ivan Bilibin tradition",
+      "date": "early 20th century",
+      "filename": "Kikimora.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kikimora.jpg/960px-Kikimora.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kikimora.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kikimora.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct folklore illustration of a Kikimora."
+    },
+    "e-zmey": {
+      "id": "e-zmey",
+      "title": "Zmey Gorynych — sketch",
+      "artist": "Viktor Vasnetsov",
+      "date": "1901",
+      "filename": "Zmey Gorynich (sketch) by V.Vasnetsov (1901).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zmey_Gorynich_(sketch)_by_V.Vasnetsov_(1901).jpg/960px-Zmey_Gorynich_(sketch)_by_V.Vasnetsov_(1901).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zmey_Gorynich_(sketch)_by_V.Vasnetsov_(1901).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Zmey_Gorynich_(sketch)_by_V.Vasnetsov_(1901).jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct dragon/zmey artistic depiction."
+    },
+    "e-angelic": {
+      "id": "e-angelic",
       "title": "Song of the Angels",
       "artist": "William-Adolphe Bouguereau",
       "date": "1881",
+      "filename": "William-Adolphe Bouguereau (1825-1905) - Song of the Angels (1881).jpg",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/William-Adolphe_Bouguereau_(1825-1905)_-_Song_of_the_Angels_(1881).jpg/960px-William-Adolphe_Bouguereau_(1825-1905)_-_Song_of_the_Angels_(1881).jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:William-Adolphe%20Bouguereau%20(1825-1905)%20-%20Song%20of%20the%20Angels%20(1881).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/William-Adolphe_Bouguereau_(1825-1905)_-_Song_of_the_Angels_(1881).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Song_of_the_Angels_(1881).jpg",
       "license": "Public Domain",
-      "collection": "19th-century academic painting",
-      "useNote": "Christian artistic interpretation used as chapter artwork; not presented as a universal depiction of angelic beings."
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Christian academic painting used only as Christian visual reception; not a universal depiction of Jewish, Christian and Islamic angelic traditions."
     },
-    "slavic": {
-      "title": "Sirin and Alkonost — Birds of Joy and Sorrow",
-      "artist": "Viktor Vasnetsov",
-      "date": "1896",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Vasnetsov_Sirin_Alkonost.jpg/1280px-Vasnetsov_Sirin_Alkonost.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Vasnetsov%20Sirin%20Alkonost.jpg",
+    "e-seraphim": {
+      "id": "e-seraphim",
+      "title": "Tracing of a Cherubim or Seraphim",
+      "artist": "Ernest Geldart / Metropolitan Museum of Art",
+      "date": "19th century",
+      "filename": "Tracing of an Cherubim or Seraphim MET DP820971.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tracing_of_an_Cherubim_or_Seraphim_MET_DP820971.jpg/960px-Tracing_of_an_Cherubim_or_Seraphim_MET_DP820971.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Tracing_of_an_Cherubim_or_Seraphim_MET_DP820971.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tracing_of_an_Cherubim_or_Seraphim_MET_DP820971.jpg",
+      "license": "CC0",
+      "collection": "Metropolitan Museum of Art",
+      "mode": "direct",
+      "note": "Later Christian visual reception of seraphic/cherubic imagery."
+    },
+    "e-cherubim": {
+      "id": "e-cherubim",
+      "title": "Vision of Ezekiel",
+      "artist": "Historical Christian artist",
+      "date": "1565",
+      "filename": "Vision Ezechiel.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vision_Ezechiel.jpg/960px-Vision_Ezechiel.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vision_Ezechiel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vision_Ezechiel.jpg",
       "license": "Public Domain",
-      "collection": "Tretyakov Gallery tradition / Commons scan",
-      "useNote": "Direct depiction of Sirin and Alkonost; used as the Slavic chapter artwork."
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Christian artistic reception of Ezekiel’s throne vision and cherubic imagery."
     },
-    "egypt": {
-      "title": "The Weighing of the Heart, Papyrus of Ani",
-      "artist": "Unknown ancient Egyptian artist(s)",
-      "date": "c. 1250 BCE",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BD_Weighing_of_the_Heart.jpg/1280px-BD_Weighing_of_the_Heart.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:BD%20Weighing%20of%20the%20Heart.jpg",
+    "e-netjeru": {
+      "id": "e-netjeru",
+      "title": "Deities in a Boat — Papyrus Fragment",
+      "artist": "Ancient Egyptian artist",
+      "date": "Ptolemaic / Roman-period funerary tradition",
+      "filename": "Papyrus Fragment of Deities in a Boat MET 31.3.130 EGDP017860.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg/960px-Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg",
+      "license": "CC0",
+      "collection": "Metropolitan Museum of Art",
+      "mode": "direct",
+      "note": "Ancient Egyptian divine/funerary imagery."
+    },
+    "e-ammit": {
+      "id": "e-ammit",
+      "title": "Ammit",
+      "artist": "Ancient Egyptian artist / historic reproduction",
+      "date": "ancient",
+      "filename": "Early Ammit.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Early_Ammit.jpg/960px-Early_Ammit.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Early_Ammit.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Early_Ammit.jpg",
       "license": "Public Domain",
-      "collection": "British Museum",
-      "useNote": "Ancient funerary image used for Egyptian afterlife and divine-being entries."
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct visual tradition of Ammit."
     },
-    "xiwangmu": {
-      "title": "Xi Wangmu with Peaches",
-      "artist": "Xie Wenli",
-      "date": "c. 1751–1800",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Xie_Wenli's_painting_of_Xi_Wangmu.jpg/960px-Xie_Wenli's_painting_of_Xi_Wangmu.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Xie%20Wenli's%20painting%20of%20Xi%20Wangmu.jpg",
+    "e-bennu": {
+      "id": "e-bennu",
+      "title": "Bennu",
+      "artist": "Historical Egyptological reproduction",
+      "date": "1895",
+      "filename": "Bennu.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bennu.jpg/960px-Bennu.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bennu.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bennu.jpg",
       "license": "Public Domain",
-      "collection": "British Museum",
-      "useNote": "Chinese religious/mythological painting used for the Chinese transcendents chapter."
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Historical reproduction of Bennu iconography."
     },
-    "padmapani": {
-      "title": "Bodhisattva Padmapani, Ajanta Cave 1",
-      "artist": "Unknown",
-      "date": "c. 450–490 CE",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ajanta_Padmapani.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Bodhisattva%20Padmapani,%20cave%201,%20Ajanta,%20India.jpg",
+    "e-xian": {
+      "id": "e-xian",
+      "title": "The Eight Immortals Crossing the Ocean",
+      "artist": "Qian Hui’an",
+      "date": "19th century",
+      "filename": "The 8 Immortals Crossing the Ocean by Qian Hui'an, Honolulu Museum of Art.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/The_8_Immortals_Crossing_the_Ocean_by_Qian_Hui'an,_Honolulu_Museum_of_Art.JPG/960px-The_8_Immortals_Crossing_the_Ocean_by_Qian_Hui'an,_Honolulu_Museum_of_Art.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_8_Immortals_Crossing_the_Ocean_by_Qian_Hui'an,_Honolulu_Museum_of_Art.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:The_8_Immortals_Crossing_the_Ocean_by_Qian_Hui'an,_Honolulu_Museum_of_Art.JPG",
       "license": "Public Domain",
-      "collection": "Ajanta Caves",
-      "useNote": "Historic sacred painting used for the Buddhist/Himalayan chapter."
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct depiction of famous Daoist immortals / transcendent beings."
     },
-    "tzitzimime": {
+    "e-huli-jing": {
+      "id": "e-huli-jing",
+      "title": "Nine-Tailed Fox from the Shanhaijing",
+      "artist": "Historical Chinese woodblock illustrator",
+      "date": "Ming period",
+      "filename": "Shahaijing-chongzhen(1628–1644)-nanshanjing1-fol5b-ninetailfox.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol5b-ninetailfox.jpg/960px-Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol5b-ninetailfox.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol5b-ninetailfox.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shahaijing-chongzhen(1628%E2%80%931644)-nanshanjing1-fol5b-ninetailfox.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Historical fox-spirit / nine-tailed fox imagery."
+    },
+    "e-dakinis": {
+      "id": "e-dakinis",
+      "title": "Sarvabuddha-Ḍākinī Thangka",
+      "artist": "Unknown Tibetan painter",
+      "date": "18th century",
+      "filename": "Thangka der Sarvabuddha-Dakini Tibet 18Jh.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Thangka_der_Sarvabuddha-Dakini_Tibet_18Jh.jpg/960px-Thangka_der_Sarvabuddha-Dakini_Tibet_18Jh.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Thangka_der_Sarvabuddha-Dakini_Tibet_18Jh.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Thangka_der_Sarvabuddha-Dakini_Tibet_18Jh.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Tibetan Buddhist Ḍākinī imagery."
+    },
+    "e-dharmapalas": {
+      "id": "e-dharmapalas",
+      "title": "Dharmapāla Thangka",
+      "artist": "Unknown Himalayan painter; photograph released CC0",
+      "date": "historical thangka",
+      "filename": "Dharmapala, 1644-1911 AD, thangka - Sichuan University Museum - Chengdu, China - DSC06204.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dharmapala,_1644-1911_AD,_thangka_-_Sichuan_University_Museum_-_Chengdu,_China_-_DSC06204.jpg/960px-Dharmapala,_1644-1911_AD,_thangka_-_Sichuan_University_Museum_-_Chengdu,_China_-_DSC06204.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dharmapala,_1644-1911_AD,_thangka_-_Sichuan_University_Museum_-_Chengdu,_China_-_DSC06204.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dharmapala,_1644-1911_AD,_thangka_-_Sichuan_University_Museum_-_Chengdu,_China_-_DSC06204.jpg",
+      "license": "CC0",
+      "collection": "Sichuan University Museum",
+      "mode": "direct",
+      "note": "Direct protector-deity imagery."
+    },
+    "e-tzitzimime": {
+      "id": "e-tzitzimime",
       "title": "Tzitzimime of the West",
-      "artist": "Unknown",
-      "date": "Pre-Columbian / codex tradition",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tzitzimime_of_the_West.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Tzitzimime%20of%20the%20West.jpg",
+      "artist": "Codex artist",
+      "date": "pre-Columbian / early manuscript tradition",
+      "filename": "Tzitzimime of the West.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tzitzimime_of_the_West.jpg/960px-Tzitzimime_of_the_West.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tzitzimime_of_the_West.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tzitzimime_of_the_West.jpg",
       "license": "Public Domain",
-      "collection": "Codex Borgia tradition",
-      "useNote": "Codex-derived image used for the Tzitzimime and Mesoamerican celestial chapter."
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct codex-derived celestial-being imagery."
+    },
+    "e-aluxoob": {
+      "id": "e-aluxoob",
+      "title": "Maya Dwarf Figurine",
+      "artist": "Anonymous Maya artist",
+      "date": "AD 550–850",
+      "filename": "Mayan - Dwarf Figurine - Walters 20092036 - View A.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mayan_-_Dwarf_Figurine_-_Walters_20092036_-_View_A.jpg/960px-Mayan_-_Dwarf_Figurine_-_Walters_20092036_-_View_A.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mayan_-_Dwarf_Figurine_-_Walters_20092036_-_View_A.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mayan_-_Dwarf_Figurine_-_Walters_20092036_-_View_A.jpg",
+      "license": "CC BY-SA 3.0",
+      "collection": "Walters Art Museum",
+      "mode": "contextual",
+      "note": "Contextual Maya creation/earth-dweller imagery. It is not presented as a canonical portrait of an Alux; the modern Alux tradition is distinct and living."
+    },
+    "r-satya": {
+      "id": "r-satya",
+      "title": "Brahmā and Sarasvatī on Haṃsa",
+      "artist": "Unknown South Indian painter",
+      "date": "1825",
+      "filename": "1825 CE Brahma and Saraswati on Hamsa, South Indian Painting.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/1825_CE_Brahma_and_Saraswati_on_Hamsa,_South_Indian_Painting.jpg/960px-1825_CE_Brahma_and_Saraswati_on_Hamsa,_South_Indian_Painting.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1825_CE_Brahma_and_Saraswati_on_Hamsa,_South_Indian_Painting.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1825_CE_Brahma_and_Saraswati_on_Hamsa,_South_Indian_Painting.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Brahmā-centered evocative image for Satyaloka/Brahmaloka; not a canonical map of the realm."
+    },
+    "r-tapo": {
+      "id": "r-tapo",
+      "title": "Shiva as an Ascetic with a Disciple",
+      "artist": "Unknown Indian artist",
+      "date": "19th century",
+      "filename": "Shiva as an ascetic, with a disciple.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Shiva_as_an_ascetic,_with_a_disciple.jpg/960px-Shiva_as_an_ascetic,_with_a_disciple.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Shiva_as_an_ascetic,_with_a_disciple.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shiva_as_an_ascetic,_with_a_disciple.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Ascetic imagery for Tapoloka."
+    },
+    "r-jana": {
+      "id": "r-jana",
+      "title": "Brahmā, Viṣṇu and Shiva within OM",
+      "artist": "Historical Indian devotional art",
+      "date": "19th century",
+      "filename": "Brahma, Vishnu, and Shiva within an OM.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Brahma,_Vishnu,_and_Shiva_within_an_OM.jpg/960px-Brahma,_Vishnu,_and_Shiva_within_an_OM.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Brahma,_Vishnu,_and_Shiva_within_an_OM.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brahma,_Vishnu,_and_Shiva_within_an_OM.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Sage/divine cosmology atmosphere for Janaloka; not a direct realm portrait."
+    },
+    "r-mahar": {
+      "id": "r-mahar",
+      "title": "Indra Prevents Triśaṅku from Ascending to Heaven",
+      "artist": "Ghulam ‘Ali",
+      "date": "1597–1605",
+      "filename": "Indra prevents Trisanku from ascending to Heaven in physical form.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Indra_prevents_Trisanku_from_ascending_to_Heaven_in_physical_form.jpg/960px-Indra_prevents_Trisanku_from_ascending_to_Heaven_in_physical_form.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Indra_prevents_Trisanku_from_ascending_to_Heaven_in_physical_form.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Indra_prevents_Trisanku_from_ascending_to_Heaven_in_physical_form.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Heaven-ascent narrative used evocatively for Maharloka."
+    },
+    "r-svarga": {
+      "id": "r-svarga",
+      "title": "The Heavenly Court of Indra",
+      "artist": "Unknown Gujarati manuscript painter",
+      "date": "c. 1475",
+      "filename": "The Heavenly Court of Indra (6124496535).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Heavenly_Court_of_Indra_(6124496535).jpg/960px-The_Heavenly_Court_of_Indra_(6124496535).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Heavenly_Court_of_Indra_(6124496535).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Heavenly_Court_of_Indra_(6124496535).jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Historical depiction of Indra’s heavenly court; an unusually direct visual for Svarga."
+    },
+    "r-bhuvar": {
+      "id": "r-bhuvar",
+      "title": "Arjuna among Celestials",
+      "artist": "Kangra school",
+      "date": "c. 1820s",
+      "filename": "Arjuna-celestials.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Arjuna-celestials.jpg/960px-Arjuna-celestials.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Arjuna-celestials.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arjuna-celestials.jpg",
+      "license": "Public Domain",
+      "collection": "Los Angeles County Museum of Art",
+      "mode": "evocative",
+      "note": "Celestial intermediary atmosphere used for Bhuvarloka."
+    },
+    "r-bhu": {
+      "id": "r-bhu",
+      "title": "Indic Deities and a Devotee in Mandi",
+      "artist": "Unknown Mandi painter",
+      "date": "c. 1830",
+      "filename": "Painting of Indic deities (Krishna, Vishnu, Lakshmi, Shesha, Shiva, Parvati, Nandi, Lakshmi, Garuda, Hanuman, Rama, Sita) and a devotee (possibly Diwan Dina Nath), Mandi, ca.1830.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Painting_of_Indic_deities_(Krishna,_Vishnu,_Lakshmi,_Shesha,_Shiva,_Parvati,_Nandi,_Lakshmi,_Garuda,_Hanuman,_Rama,_Sita)_and_a_devotee_(possibly_Diwan_Dina_Nath),_Mandi,_ca.1830.jpg/960px-Painting_of_Indic_deities_(Krishna,_Vishnu,_Lakshmi,_Shesha,_Shiva,_Parvati,_Nandi,_Lakshmi,_Garuda,_Hanuman,_Rama,_Sita)_and_a_devotee_(possibly_Diwan_Dina_Nath),_Mandi,_ca.1830.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Painting_of_Indic_deities_(Krishna,_Vishnu,_Lakshmi,_Shesha,_Shiva,_Parvati,_Nandi,_Lakshmi,_Garuda,_Hanuman,_Rama,_Sita)_and_a_devotee_(possibly_Diwan_Dina_Nath),_Mandi,_ca.1830.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Painting_of_Indic_deities_(Krishna,_Vishnu,_Lakshmi,_Shesha,_Shiva,_Parvati,_Nandi,_Lakshmi,_Garuda,_Hanuman,_Rama,_Sita)_and_a_devotee_(possibly_Diwan_Dina_Nath),_Mandi,_ca.1830.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Terrestrial sacred-world image for Bhūloka."
+    },
+    "r-atala": {
+      "id": "r-atala",
+      "title": "Kṛṣṇa and Aghāsura",
+      "artist": "Unknown Indian painter",
+      "date": "1675–1700",
+      "filename": "Krishna kills Aghasura.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Krishna_kills_Aghasura.jpg/960px-Krishna_kills_Aghasura.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Krishna_kills_Aghasura.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Krishna_kills_Aghasura.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Lower-world/danger imagery only; not a direct depiction of Atala."
+    },
+    "r-vitala": {
+      "id": "r-vitala",
+      "title": "Kālī",
+      "artist": "Historical Indian artist / museum photograph",
+      "date": "historical",
+      "filename": "Kali - National Museum, New Delhi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kali_-_National_Museum,_New_Delhi.jpg/960px-Kali_-_National_Museum,_New_Delhi.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kali_-_National_Museum,_New_Delhi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kali_-_National_Museum,_New_Delhi.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Chthonic/power imagery used evocatively for Vitala; not a canonical realm portrait."
+    },
+    "r-sutala": {
+      "id": "r-sutala",
+      "title": "Vāmana",
+      "artist": "Raja Ravi Varma",
+      "date": "19th century",
+      "filename": "Vamana — Raja Ravi Varma.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vamana_%E2%80%94_Raja_Ravi_Varma.jpg/960px-Vamana_%E2%80%94_Raja_Ravi_Varma.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vamana_%E2%80%94_Raja_Ravi_Varma.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vamana_%E2%80%94_Raja_Ravi_Varma.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Story association with Bali/Vāmana makes this especially relevant to Sutala, though it is not a realm map."
+    },
+    "r-talatala": {
+      "id": "r-talatala",
+      "title": "Durga and the Asura",
+      "artist": "Unknown Indian artist",
+      "date": "historical",
+      "filename": "Unknown (Indian) - Durga Slaying an Asura - 26.392.A - Detroit Institute of Arts.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg/960px-Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Unknown_(Indian)_-_Durga_Slaying_an_Asura_-_26.392.A_-_Detroit_Institute_of_Arts.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Asura/power imagery used evocatively for Talātala."
+    },
+    "r-mahatala": {
+      "id": "r-mahatala",
+      "title": "Kāliya and the Nāgas",
+      "artist": "Unknown court artist",
+      "date": "1718",
+      "filename": "Krishna Quelling the Serpent King Kaliya, Folio from a Bhagavata Purana (Ancient Stories of the Lord) LACMA M.71.1.23.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg/960px-Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Krishna_Quelling_the_Serpent_King_Kaliya,_Folio_from_a_Bhagavata_Purana_(Ancient_Stories_of_the_Lord)_LACMA_M.71.1.23.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Nāga imagery used for Mahātala associations; not a direct map."
+    },
+    "r-rasatala": {
+      "id": "r-rasatala",
+      "title": "Creation of the Cosmic Ocean and Elements",
+      "artist": "Unknown Indian painter",
+      "date": "c. 1828",
+      "filename": "The Creation of the Cosmic Ocean and the Elements (detail), folio 3 from the Shiva Purana, c. 1828.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Creation_of_the_Cosmic_Ocean_and_the_Elements_(detail),_folio_3_from_the_Shiva_Purana,_c._1828.jpg/960px-The_Creation_of_the_Cosmic_Ocean_and_the_Elements_(detail),_folio_3_from_the_Shiva_Purana,_c._1828.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/The_Creation_of_the_Cosmic_Ocean_and_the_Elements_(detail),_folio_3_from_the_Shiva_Purana,_c._1828.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Creation_of_the_Cosmic_Ocean_and_the_Elements_(detail),_folio_3_from_the_Shiva_Purana,_c._1828.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Cosmic-ocean imagery used evocatively for Rasātala."
+    },
+    "r-patala": {
+      "id": "r-patala",
+      "title": "Viṣṇu and Lakṣmī on Śeṣa Nāga",
+      "artist": "Unknown Indian painter",
+      "date": "c. 1870",
+      "filename": "Vishnu and Lakshmi on Shesha Naga, ca 1870.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg/960px-Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Subterranean/cosmic-serpent atmosphere for Pātāla. Pātāla is not automatically equivalent to “hell.”"
+    },
+    "r-olympus": {
+      "id": "r-olympus",
+      "title": "The Gods on Mount Olympus",
+      "artist": "Antonio Verrio",
+      "date": "17th century",
+      "filename": "Antonio Verrio (c.1636-1639-1707) - The Gods on Mount Olympus (sketch for the ceiling of the Heaven Room, Burghley House) - 1958.59.18 - Northampton Museum and Art Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Antonio_Verrio_(c.1636-1639-1707)_-_The_Gods_on_Mount_Olympus_(sketch_for_the_ceiling_of_the_Heaven_Room,_Burghley_House)_-_1958.59.18_-_Northampton_Museum_and_Art_Gallery.jpg/960px-Antonio_Verrio_(c.1636-1639-1707)_-_The_Gods_on_Mount_Olympus_(sketch_for_the_ceiling_of_the_Heaven_Room,_Burghley_House)_-_1958.59.18_-_Northampton_Museum_and_Art_Gallery.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Antonio_Verrio_(c.1636-1639-1707)_-_The_Gods_on_Mount_Olympus_(sketch_for_the_ceiling_of_the_Heaven_Room,_Burghley_House)_-_1958.59.18_-_Northampton_Museum_and_Art_Gallery.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Antonio_Verrio_(c.1636-1639-1707)_-_The_Gods_on_Mount_Olympus_(sketch_for_the_ceiling_of_the_Heaven_Room,_Burghley_House)_-_1958.59.18_-_Northampton_Museum_and_Art_Gallery.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct later artistic visualization of Olympus."
+    },
+    "r-hades": {
+      "id": "r-hades",
+      "title": "Aeneas and the Sibyl at the Entrance to the Elysian Fields",
+      "artist": "Unknown artist",
+      "date": "4th century CE",
+      "filename": "Vergilius Vaticanus (Vat. lat. 3225), fol 52r - Aeneas and the Sibyl at the entrance to the Elysian Fields.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vergilius_Vaticanus_(Vat._lat._3225),_fol_52r_-_Aeneas_and_the_Sibyl_at_the_entrance_to_the_Elysian_Fields.jpg/960px-Vergilius_Vaticanus_(Vat._lat._3225),_fol_52r_-_Aeneas_and_the_Sibyl_at_the_entrance_to_the_Elysian_Fields.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vergilius_Vaticanus_(Vat._lat._3225),_fol_52r_-_Aeneas_and_the_Sibyl_at_the_entrance_to_the_Elysian_Fields.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vergilius_Vaticanus_(Vat._lat._3225),_fol_52r_-_Aeneas_and_the_Sibyl_at_the_entrance_to_the_Elysian_Fields.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Ancient manuscript underworld-journey context; Hades is broader than this one scene."
+    },
+    "r-elysium": {
+      "id": "r-elysium",
+      "title": "Elysian Fields",
+      "artist": "Carlos Schwabe",
+      "date": "1903",
+      "filename": "Schwabe Carlos Elysian Fields.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwabe_Carlos_Elysian_Fields.jpg/960px-Schwabe_Carlos_Elysian_Fields.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Schwabe_Carlos_Elysian_Fields.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Schwabe_Carlos_Elysian_Fields.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Later direct artistic visualization of Elysium."
+    },
+    "r-oceanus": {
+      "id": "r-oceanus",
+      "title": "The Oceanids",
+      "artist": "Gustave Doré",
+      "date": "19th century",
+      "filename": "Oceanides.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oceanides.jpg/960px-Oceanides.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Oceanides.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Oceanides.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Oceanic divine landscape used for Okeanos/Oceanus."
+    },
+    "r-blessed": {
+      "id": "r-blessed",
+      "title": "The Waters of Lethe by the Plains of Elysium",
+      "artist": "John Roddam Spencer Stanhope",
+      "date": "1880",
+      "filename": "The-waters-of-lethe-by-the-plains-of-elysium-1880.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The-waters-of-lethe-by-the-plains-of-elysium-1880.jpg/960px-The-waters-of-lethe-by-the-plains-of-elysium-1880.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The-waters-of-lethe-by-the-plains-of-elysium-1880.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The-waters-of-lethe-by-the-plains-of-elysium-1880.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Paradisal/underworld landscape used evocatively for the Isles of the Blessed."
+    },
+    "r-asgard": {
+      "id": "r-asgard",
+      "title": "The Vision of Valhalla",
+      "artist": "Historical illustration",
+      "date": "1899",
+      "filename": "The Vision of Valhalla.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Vision_of_Valhalla.png/960px-The_Vision_of_Valhalla.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Vision_of_Valhalla.png",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Vision_of_Valhalla.png",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Later northern mythological vision used for the divine realm of Ásgarðr."
+    },
+    "r-valhalla": {
+      "id": "r-valhalla",
+      "title": "Valhalla",
+      "artist": "Hoffmann",
+      "date": "published 1895",
+      "filename": "Valhalla by Hoffmann.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Valhalla_by_Hoffmann.jpg/960px-Valhalla_by_Hoffmann.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Valhalla_by_Hoffmann.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Valhalla_by_Hoffmann.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct later illustration captioned “Valhalla.”"
+    },
+    "r-alfheim": {
+      "id": "r-alfheim",
+      "title": "Fairy Ring",
+      "artist": "Arthur Rackham",
+      "date": "1908",
+      "filename": "Rackham fairy ring.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rackham_fairy_ring.jpg/960px-Rackham_fairy_ring.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rackham_fairy_ring.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rackham_fairy_ring.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Evocative later fairy imagery for Álfheimr, not direct Old Norse evidence."
+    },
+    "r-jotunheim": {
+      "id": "r-jotunheim",
+      "title": "Thor’s Battle Against the Jötnar",
+      "artist": "Mårten Eskil Winge",
+      "date": "1872",
+      "filename": "Thor's Battle Against the Jötnar (1872) by Mårten Eskil Winge.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg/960px-Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Thor's_Battle_Against_the_J%C3%B6tnar_(1872)_by_M%C3%A5rten_Eskil_Winge.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Jötunn imagery used for Jötunheimr."
+    },
+    "r-midgard": {
+      "id": "r-midgard",
+      "title": "Norsemen Landing in Iceland",
+      "artist": "Oscar Wergeland / historical illustration",
+      "date": "1909 publication",
+      "filename": "Norsemen Landing in Iceland.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Norsemen_Landing_in_Iceland.jpg/960px-Norsemen_Landing_in_Iceland.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Norsemen_Landing_in_Iceland.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Norsemen_Landing_in_Iceland.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Human-world northern landscape used for Miðgarðr."
+    },
+    "r-hel": {
+      "id": "r-hel",
+      "title": "Hermod before Hela",
+      "artist": "John Charles Dollman",
+      "date": "1909",
+      "filename": "Hermod before Hela.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hermod_before_Hela.jpg/960px-Hermod_before_Hela.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hermod_before_Hela.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hermod_before_Hela.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Later direct depiction of Hermóðr before Hel, strongly tied to the underworld location."
+    },
+    "r-niflheim": {
+      "id": "r-niflheim",
+      "title": "Odin Rides to Hel",
+      "artist": "W. G. Collingwood",
+      "date": "1908",
+      "filename": "Odin rides to Hel.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Odin_rides_to_Hel.jpg/960px-Odin_rides_to_Hel.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Odin_rides_to_Hel.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Odin_rides_to_Hel.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Dark underworld journey imagery used evocatively for Niflheimr."
+    },
+    "r-muspelheim": {
+      "id": "r-muspelheim",
+      "title": "Ragnarök / fire giant context",
+      "artist": "Emil Doepler",
+      "date": "1905",
+      "filename": "Wägner, Wilhelm. Nordisch-germanische Götter und Helden. Otto Spamer. 1905. Seite 66.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/W%C3%A4gner,_Wilhelm._Nordisch-germanische_G%C3%B6tter_und_Helden._Otto_Spamer._1905._Seite_66.jpg/960px-W%C3%A4gner,_Wilhelm._Nordisch-germanische_G%C3%B6tter_und_Helden._Otto_Spamer._1905._Seite_66.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/W%C3%A4gner,_Wilhelm._Nordisch-germanische_G%C3%B6tter_und_Helden._Otto_Spamer._1905._Seite_66.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:W%C3%A4gner,_Wilhelm._Nordisch-germanische_G%C3%B6tter_und_Helden._Otto_Spamer._1905._Seite_66.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Fire/chaos mythic imagery for Muspelheim; realm lists vary by source and synthesis."
+    },
+    "r-duat": {
+      "id": "r-duat",
+      "title": "Scene from the Book of the Dead",
+      "artist": "Ancient Egyptian artist",
+      "date": "ancient",
+      "filename": "Scene from the Book of the Dead.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Scene_from_the_Book_of_the_Dead.jpg/960px-Scene_from_the_Book_of_the_Dead.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Scene_from_the_Book_of_the_Dead.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Scene_from_the_Book_of_the_Dead.jpg",
+      "license": "CC0",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Ancient funerary imagery for the Duat journey."
+    },
+    "r-two-truths": {
+      "id": "r-two-truths",
+      "title": "Weighing of the Heart, Papyrus of Ani",
+      "artist": "Ancient Egyptian artist",
+      "date": "c. 1250 BCE",
+      "filename": "BD Weighing of the Heart.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BD_Weighing_of_the_Heart.jpg/960px-BD_Weighing_of_the_Heart.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/BD_Weighing_of_the_Heart.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:BD_Weighing_of_the_Heart.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct judgment scene associated with the Hall of Two Truths."
+    },
+    "r-aaru": {
+      "id": "r-aaru",
+      "title": "Papyrus of Ani — Afterlife Scene",
+      "artist": "Ancient Egyptian artist",
+      "date": "c. 1250 BCE",
+      "filename": "Egyptian papyrus.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Egyptian_papyrus.jpg/960px-Egyptian_papyrus.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Egyptian_papyrus.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Egyptian_papyrus.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Afterlife papyrus imagery used for Aaru / Field of Reeds context."
+    },
+    "r-solar-barque": {
+      "id": "r-solar-barque",
+      "title": "Deities in a Boat — Papyrus Fragment",
+      "artist": "Ancient Egyptian artist",
+      "date": "ancient",
+      "filename": "Papyrus Fragment of Deities in a Boat MET 31.3.130 EGDP017860.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg/960px-Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Papyrus_Fragment_of_Deities_in_a_Boat_MET_31.3.130_EGDP017860.jpg",
+      "license": "CC0",
+      "collection": "Metropolitan Museum of Art",
+      "mode": "direct",
+      "note": "Direct divine-barque funerary imagery."
+    },
+    "r-tomb-night": {
+      "id": "r-tomb-night",
+      "title": "Book of the Dead of Imhotep",
+      "artist": "Ancient Egyptian artist",
+      "date": "ancient",
+      "filename": "Book of the Dead of the Priest of Horus, Imhotep (Imuthes) MET 35.9.20a w Section4.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Book_of_the_Dead_of_the_Priest_of_Horus,_Imhotep_(Imuthes)_MET_35.9.20a_w_Section4.jpg/960px-Book_of_the_Dead_of_the_Priest_of_Horus,_Imhotep_(Imuthes)_MET_35.9.20a_w_Section4.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Book_of_the_Dead_of_the_Priest_of_Horus,_Imhotep_(Imuthes)_MET_35.9.20a_w_Section4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Book_of_the_Dead_of_the_Priest_of_Horus,_Imhotep_(Imuthes)_MET_35.9.20a_w_Section4.jpg",
+      "license": "CC0",
+      "collection": "Metropolitan Museum of Art",
+      "mode": "contextual",
+      "note": "Funerary cosmology imagery for night passage; corpora vary by period."
+    },
+    "r-trayastrimsa": {
+      "id": "r-trayastrimsa",
+      "title": "Descent from Trāyastriṃśa Heaven",
+      "artist": "Unknown Buddhist manuscript painter",
+      "date": "c. 700–1100 CE",
+      "filename": "Astasahasrika Prajnaparamita Descending Trayastrimsa Heaven.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Astasahasrika_Prajnaparamita_Descending_Trayastrimsa_Heaven.jpg/960px-Astasahasrika_Prajnaparamita_Descending_Trayastrimsa_Heaven.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Astasahasrika_Prajnaparamita_Descending_Trayastrimsa_Heaven.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Astasahasrika_Prajnaparamita_Descending_Trayastrimsa_Heaven.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct manuscript scene naming Trāyastriṃśa Heaven."
+    },
+    "r-tushita": {
+      "id": "r-tushita",
+      "title": "Bodhisattva in Tuṣita Heaven, Ajanta Cave 2",
+      "artist": "Ancient Ajanta painter",
+      "date": "5th century CE",
+      "filename": "Bodhisattva in Tushita Heaven, Ajanta cave 2, 5th century CE. This wall painting depicts Bodhisattva in Tushita heaven, prior to his rebirth as Buddha.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bodhisattva_in_Tushita_Heaven,_Ajanta_cave_2,_5th_century_CE._This_wall_painting_depicts_Bodhisattva_in_Tushita_heaven,_prior_to_his_rebirth_as_Buddha.jpg/960px-Bodhisattva_in_Tushita_Heaven,_Ajanta_cave_2,_5th_century_CE._This_wall_painting_depicts_Bodhisattva_in_Tushita_heaven,_prior_to_his_rebirth_as_Buddha.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bodhisattva_in_Tushita_Heaven,_Ajanta_cave_2,_5th_century_CE._This_wall_painting_depicts_Bodhisattva_in_Tushita_heaven,_prior_to_his_rebirth_as_Buddha.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bodhisattva_in_Tushita_Heaven,_Ajanta_cave_2,_5th_century_CE._This_wall_painting_depicts_Bodhisattva_in_Tushita_heaven,_prior_to_his_rebirth_as_Buddha.jpg",
+      "license": "CC BY-SA 4.0",
+      "collection": "Ajanta Caves",
+      "mode": "direct",
+      "note": "Directly identified Tuṣita-heaven imagery; the modern photo is CC BY-SA."
+    },
+    "r-preta": {
+      "id": "r-preta",
+      "title": "Hungry Ghosts Scroll",
+      "artist": "Unknown Japanese Buddhist artist",
+      "date": "12th century",
+      "filename": "Gaki-Zoushi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gaki-Zoushi.jpg/960px-Gaki-Zoushi.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gaki-Zoushi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gaki-Zoushi.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct hungry-ghost / preta-realm imagery in Japanese Buddhist art."
+    },
+    "r-naraka": {
+      "id": "r-naraka",
+      "title": "Buddhist Hell",
+      "artist": "Historical Buddhist painter",
+      "date": "historical",
+      "filename": "Buddhist hell.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Buddhist_hell.jpg/960px-Buddhist_hell.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Buddhist_hell.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Buddhist_hell.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Naraka imagery; hell systems vary by school and region."
+    },
+    "r-sukhavati": {
+      "id": "r-sukhavati",
+      "title": "Amida Welcomes Chūjōhime to the Western Paradise",
+      "artist": "Unknown Japanese painter",
+      "date": "16th century",
+      "filename": "Artist Unknown, Japan - Taima Temple Mandala- Amida Welcomes Chûjôhime to the Western Paradise - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Artist_Unknown,_Japan_-_Taima_Temple_Mandala-_Amida_Welcomes_Ch%C3%BBj%C3%B4hime_to_the_Western_Paradise_-_Google_Art_Project.jpg/960px-Artist_Unknown,_Japan_-_Taima_Temple_Mandala-_Amida_Welcomes_Ch%C3%BBj%C3%B4hime_to_the_Western_Paradise_-_Google_Art_Project.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Artist_Unknown,_Japan_-_Taima_Temple_Mandala-_Amida_Welcomes_Ch%C3%BBj%C3%B4hime_to_the_Western_Paradise_-_Google_Art_Project.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Artist_Unknown,_Japan_-_Taima_Temple_Mandala-_Amida_Welcomes_Ch%C3%BBj%C3%B4hime_to_the_Western_Paradise_-_Google_Art_Project.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Direct Pure Land / Sukhāvatī visual tradition. Pure Land should not be forced into one universal six-realm ladder."
+    },
+    "r-human-buddhist": {
+      "id": "r-human-buddhist",
+      "title": "Bodhisattva Padmapani, Ajanta",
+      "artist": "Unknown ancient painter",
+      "date": "5th century CE",
+      "filename": "Ajanta Padmapani.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ajanta_Padmapani.jpg/960px-Ajanta_Padmapani.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ajanta_Padmapani.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ajanta_Padmapani.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Human sacred-world imagery used for the human realm and path of practice."
+    },
+    "r-takamagahara": {
+      "id": "r-takamagahara",
+      "title": "Amaterasu Emerging from the Cave",
+      "artist": "Utagawa Kunisada",
+      "date": "c. 1844",
+      "filename": "The Origin of Iwato Kagura Triptych (Amaterasu) by Utagawa Kunisada c1844.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png/960px-The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Amaterasu myth imagery used for Takamagahara; not a cartographic depiction."
+    },
+    "r-ashihara": {
+      "id": "r-ashihara",
+      "title": "Izanami and Izanagi Create the First Japanese Islands",
+      "artist": "Kobayashi Eitaku",
+      "date": "1880s",
+      "filename": "Izanami and Izanagi create the 1st Japanese isles, Kobayashi Eitaku MFA 1880s.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Izanami_and_Izanagi_create_the_1st_Japanese_isles,_Kobayashi_Eitaku_MFA_1880s.jpg/960px-Izanami_and_Izanagi_create_the_1st_Japanese_isles,_Kobayashi_Eitaku_MFA_1880s.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Izanami_and_Izanagi_create_the_1st_Japanese_isles,_Kobayashi_Eitaku_MFA_1880s.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Izanami_and_Izanagi_create_the_1st_Japanese_isles,_Kobayashi_Eitaku_MFA_1880s.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Creation-of-the-land imagery for Ashihara-no-Nakatsukuni / the central land."
+    },
+    "r-yomi": {
+      "id": "r-yomi",
+      "title": "Izanagi and Izanami Standing on the Bridge of Heaven",
+      "artist": "Ogata Gekkō",
+      "date": "1887",
+      "filename": "Gekko Zuihitsu No 36 - Izanagi and Izanami.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gekko_Zuihitsu_No_36_-_Izanagi_and_Izanami.jpg/1000px-Gekko_Zuihitsu_No_36_-_Izanagi_and_Izanami.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gekko_Zuihitsu_No_36_-_Izanagi_and_Izanami.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gekko_Zuihitsu_No_36_-_Izanagi_and_Izanami.jpg",
+      "license": "Public Domain",
+      "collection": "Japanese print tradition / Wikimedia Commons",
+      "mode": "contextual",
+      "note": "Izanagi and Izanami mythic context for Yomi. This print depicts the creator deities on the heavenly bridge, not Yomi itself."
+    },
+    "r-shrine-threshold": {
+      "id": "r-shrine-threshold",
+      "title": "Amaterasu Cave Ritual / Kagura",
+      "artist": "Utagawa Kunisada",
+      "date": "c. 1844",
+      "filename": "The Origin of Iwato Kagura Triptych (Amaterasu) by Utagawa Kunisada c1844.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png/960px-The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Origin_of_Iwato_Kagura_Triptych_(Amaterasu)_by_Utagawa_Kunisada_c1844.png",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "evocative",
+      "note": "Sacred-threshold / ritual imagery; this is not treated as a separate universal “realm.”"
+    },
+    "p-sun": {
+      "id": "p-sun",
+      "title": "Sūrya",
+      "artist": "Historical Indian artist",
+      "date": "19th century",
+      "filename": "Surya poster.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Surya_poster.jpg/960px-Surya_poster.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Surya_poster.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Surya_poster.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Solar visual for the Sun hub."
+    },
+    "p-moon": {
+      "id": "p-moon",
+      "title": "Selene and Endymion",
+      "artist": "Albert Aublet",
+      "date": "1880s",
+      "filename": "Selene and Endymion.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Selene_and_Endymion.jpg/960px-Selene_and_Endymion.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/42/Selene_and_Endymion.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Selene_and_Endymion.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Greek lunar visual for the Moon hub; other lunar traditions remain distinct."
+    },
+    "p-mercury": {
+      "id": "p-mercury",
+      "title": "Mercury and Argus",
+      "artist": "Diego Velázquez",
+      "date": "c. 1659",
+      "filename": "Diego Velázquez - Mercury and Argus - WGA24471.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg/960px-Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Mercury_and_Argus_-_WGA24471.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Greco-Roman Mercury visual for the planetary comparison hub."
+    },
+    "p-venus": {
+      "id": "p-venus",
+      "title": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "date": "c. 1484–1486",
+      "filename": "Birth of Venus Botticelli.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Birth_of_Venus_Botticelli.jpg/960px-Birth_of_Venus_Botticelli.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/Birth_of_Venus_Botticelli.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Birth_of_Venus_Botticelli.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Greco-Roman Venus/Aphrodite visual for the Venus hub."
+    },
+    "p-mars": {
+      "id": "p-mars",
+      "title": "Mars, God of War",
+      "artist": "Diego Velázquez",
+      "date": "c. 1640",
+      "filename": "Diego Velázquez - Mars, God of War - WGA24429.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg/960px-Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Mars,_God_of_War_-_WGA24429.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Greco-Roman Mars visual for the Mars hub."
+    },
+    "p-jupiter": {
+      "id": "p-jupiter",
+      "title": "Jupiter and Thetis",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "date": "1811",
+      "filename": "IngresJupiterAndThetis.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/IngresJupiterAndThetis.jpg/960px-IngresJupiterAndThetis.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/IngresJupiterAndThetis.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:IngresJupiterAndThetis.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Greco-Roman Jupiter visual for the Jupiter hub."
+    },
+    "p-saturn": {
+      "id": "p-saturn",
+      "title": "Saturn Devouring His Son",
+      "artist": "Francisco de Goya",
+      "date": "1819–1823",
+      "filename": "Francisco de Goya, Saturno devorando a su hijo (1819-1823).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg/960px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "direct",
+      "note": "Greco-Roman Saturn/Kronos reception for the Saturn hub; not a universal planetary meaning."
+    },
+    "p-eclipses": {
+      "id": "p-eclipses",
+      "title": "Churning of the Ocean",
+      "artist": "Unknown Indian painter",
+      "date": "c. 1820",
+      "filename": "Sagar manthan (painting) circa 1820.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sagar_manthan_(painting)_circa_1820.jpg/960px-Sagar_manthan_(painting)_circa_1820.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sagar_manthan_(painting)_circa_1820.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sagar_manthan_(painting)_circa_1820.jpg",
+      "license": "Public Domain",
+      "collection": "Wikimedia Commons",
+      "mode": "contextual",
+      "note": "South Asian celestial/mythic context for the eclipse/node hub. Rāhu and Ketu are treated in the text as specific Jyotiṣa nodes."
     }
   },
   "traditions": [
     {
       "id": "south-asia",
       "name": "South Asian Sacred Worlds",
-      "subtitle": "Devas · Apsaras · Nāgas · Yakṣas · Gandharvas",
-      "artworkId": "lakshmi"
+      "subtitle": "Devas · Nāgas · Apsaras · Yakṣas · Rākṣasas",
+      "artworkId": "e-devas",
+      "note": "Living religious and literary traditions are separated by source type; “Hindu” is not treated as one frozen myth system."
     },
     {
       "id": "mediterranean",
       "name": "Greek & Roman Worlds",
-      "subtitle": "Nymphs · Sirens · Moirai · Gorgons · Centaurs",
-      "artworkId": "nymphs"
+      "subtitle": "Nymphs · Sirens · Fates · Centaurs · Gorgons",
+      "artworkId": "e-nymphs",
+      "note": "Poetic, cultic, artistic and later mythographic layers can differ sharply by period."
     },
     {
       "id": "celtic",
       "name": "Fair Folk of the Isles",
       "subtitle": "Aos Sí · Selkies · Púca · Kelpies · Banshee",
-      "artworkId": "fairies"
+      "artworkId": "e-aos-si",
+      "note": "Irish, Scottish and Northern Isles traditions are not collapsed into one generic fairy category."
     },
     {
       "id": "norse",
       "name": "Norse Worlds",
       "subtitle": "Álfar · Jötnar · Valkyries · Norns · Landvættir",
-      "artworkId": "thor"
+      "artworkId": "e-jotnar",
+      "note": "Old Norse textual evidence is kept distinct from later Scandinavian folklore and Romantic art."
     },
     {
       "id": "west-asia",
-      "name": "Persian & Arabic Unseen",
-      "subtitle": "Peri · Div · Jinn · Ghūl · Fravašis",
-      "artworkId": "peri"
+      "name": "Persian, Iranian & Arabic Unseen",
+      "subtitle": "Jinn · Peri · Div · Fravashis · Yazatas",
+      "artworkId": "e-peri",
+      "note": "Islamic scripture, Arabic tale traditions, Persian epic and Zoroastrian material are labeled separately."
     },
     {
       "id": "japan",
-      "name": "Japan's Hidden Presences",
+      "name": "Japan’s Hidden Presences",
       "subtitle": "Kami · Yōkai · Tengu · Kitsune · Yūrei",
-      "artworkId": "amaterasu"
+      "artworkId": "e-kami",
+      "note": "Shrine traditions, Buddhist visual culture, folklore and Edo-period yōkai art retain their own contexts."
     },
     {
       "id": "slavic",
-      "name": "Slavic Night & Forest",
+      "name": "Slavic Night, House & Forest",
       "subtitle": "Rusalka · Leshy · Domovoi · Zmey · Kikimora",
-      "artworkId": "slavic"
+      "artworkId": "e-rusalka",
+      "note": "Regional Slavic folklore varies substantially; visual art is identified as later reception where appropriate."
     },
     {
       "id": "abrahamic",
       "name": "Angelic Worlds",
       "subtitle": "Angelic beings · Seraphim · Cherubim",
-      "artworkId": "angels"
+      "artworkId": "e-angelic",
+      "note": "Jewish, Christian and Islamic angelic traditions are not treated as a single universal hierarchy."
     },
     {
       "id": "egypt",
       "name": "Egyptian Divine & Afterlife",
       "subtitle": "Netjeru · Ammit · Bennu · Duat",
-      "artworkId": "egypt"
+      "artworkId": "e-netjeru",
+      "note": "Funerary corpora and temple theology vary by period and location."
     },
     {
       "id": "china",
-      "name": "Chinese Transcendents",
+      "name": "Chinese Transcendents & Spirits",
       "subtitle": "Xiān · Fox spirits · celestial traditions",
-      "artworkId": "xiwangmu"
+      "artworkId": "e-xian",
+      "note": "Daoist, literary and folkloric traditions are kept distinct."
     },
     {
       "id": "buddhist",
       "name": "Buddhist & Himalayan Worlds",
-      "subtitle": "Ḍākinīs · Dharmapālas · sacred guardians",
-      "artworkId": "padmapani"
+      "subtitle": "Ḍākinīs · Dharmapālas · heavens · hungry ghosts",
+      "artworkId": "e-dakinis",
+      "note": "Cosmological and esoteric schemas vary by school, text and region."
     },
     {
       "id": "americas",
-      "name": "Mesoamerican Celestial Beings",
-      "subtitle": "Tzitzimime · land-associated beings",
-      "artworkId": "tzitzimime"
+      "name": "Mesoamerican Sacred & Unseen",
+      "subtitle": "Tzitzimime · Maya land beings",
+      "artworkId": "e-tzitzimime",
+      "note": "Living Indigenous traditions are not retrofitted into a single pre-Columbian pantheon."
     }
-  ]
+  ],
+  "traditionGroups": {
+    "south-asia": [
+      {
+        "title": "Celestial Courts",
+        "ids": [
+          "devas",
+          "adityas",
+          "maruts",
+          "apsaras",
+          "gandharvas"
+        ]
+      },
+      {
+        "title": "Landscape & Liminal",
+        "ids": [
+          "yakshas",
+          "yakshinis",
+          "nagas",
+          "garudas",
+          "kinnaras",
+          "vidyadharas"
+        ]
+      },
+      {
+        "title": "Shadow & Chthonic",
+        "ids": [
+          "asuras",
+          "rakshasas",
+          "vetalas",
+          "bhutas",
+          "pretas",
+          "pisacas"
+        ]
+      },
+      {
+        "title": "Accomplished",
+        "ids": [
+          "siddhas"
+        ]
+      }
+    ],
+    "mediterranean": [
+      {
+        "title": "Waters & Groves",
+        "ids": [
+          "nymphs",
+          "dryads",
+          "naiads",
+          "nereids",
+          "oceanids"
+        ]
+      },
+      {
+        "title": "Wild Companions",
+        "ids": [
+          "satyrs",
+          "centaurs",
+          "cyclopes"
+        ]
+      },
+      {
+        "title": "Fate & Retribution",
+        "ids": [
+          "moirai",
+          "erinyes"
+        ]
+      },
+      {
+        "title": "Monsters & Voices",
+        "ids": [
+          "harpies",
+          "sirens",
+          "gorgons",
+          "lamia"
+        ]
+      }
+    ],
+    "celtic": [
+      {
+        "title": "Mounds & Household",
+        "ids": [
+          "aos-si",
+          "brownies",
+          "glaistig"
+        ]
+      },
+      {
+        "title": "Water & Shore",
+        "ids": [
+          "selkies",
+          "kelpies",
+          "bean-nighe"
+        ]
+      },
+      {
+        "title": "Night Messengers",
+        "ids": [
+          "bean-si",
+          "dullahan"
+        ]
+      },
+      {
+        "title": "Lovers & Tricksters",
+        "ids": [
+          "leannan-si",
+          "puca"
+        ]
+      }
+    ],
+    "norse": [
+      {
+        "title": "Hidden Folk & Land",
+        "ids": [
+          "alfar",
+          "dvergar",
+          "landvaettir",
+          "fylgjur"
+        ]
+      },
+      {
+        "title": "Battle & Fate",
+        "ids": [
+          "valkyries",
+          "norns"
+        ]
+      },
+      {
+        "title": "Giants & Restless Dead",
+        "ids": [
+          "jotnar",
+          "draugr"
+        ]
+      }
+    ],
+    "west-asia": [
+      {
+        "title": "Jinn & Tale Worlds",
+        "ids": [
+          "jinn",
+          "ifrit",
+          "marid",
+          "ghul"
+        ]
+      },
+      {
+        "title": "Persianate Otherworld",
+        "ids": [
+          "peri",
+          "div"
+        ]
+      },
+      {
+        "title": "Iranian Sacred Powers",
+        "ids": [
+          "fravashis",
+          "yazatas"
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "title": "Kami & Sacred Narrative",
+        "ids": [
+          "kami"
+        ]
+      },
+      {
+        "title": "Transforming Folk",
+        "ids": [
+          "tengu",
+          "kitsune",
+          "kappa"
+        ]
+      },
+      {
+        "title": "Night Parade",
+        "ids": [
+          "yokai",
+          "oni",
+          "yurei",
+          "tsukumogami"
+        ]
+      }
+    ],
+    "slavic": [
+      {
+        "title": "House & Forest",
+        "ids": [
+          "domovoi",
+          "leshy",
+          "kikimora"
+        ]
+      },
+      {
+        "title": "Water & Night",
+        "ids": [
+          "rusalka",
+          "vodyanoy"
+        ]
+      },
+      {
+        "title": "Dragon Threshold",
+        "ids": [
+          "zmey"
+        ]
+      }
+    ],
+    "abrahamic": [
+      {
+        "title": "Angelic Orders & Visions",
+        "ids": [
+          "angelic-beings",
+          "seraphim",
+          "cherubim"
+        ]
+      }
+    ],
+    "egypt": [
+      {
+        "title": "Divine & Funerary Beings",
+        "ids": [
+          "netjeru",
+          "ammit",
+          "bennu"
+        ]
+      }
+    ],
+    "china": [
+      {
+        "title": "Immortals & Transformations",
+        "ids": [
+          "xian",
+          "huli-jing"
+        ]
+      }
+    ],
+    "buddhist": [
+      {
+        "title": "Esoteric & Protective",
+        "ids": [
+          "dakinis",
+          "dharmapalas"
+        ]
+      }
+    ],
+    "americas": [
+      {
+        "title": "Celestial & Land",
+        "ids": [
+          "tzitzimime",
+          "aluxoob"
+        ]
+      }
+    ]
+  },
+  "realmSystems": [
+    {
+      "id": "hindu",
+      "name": "Hindu Loka Paths",
+      "subtitle": "One common Purāṇic-style 14-loka schema — never the only Hindu cosmology.",
+      "note": "Loka arrangements, inhabitants and descriptions vary across Purāṇas, schools and commentators. Lower lokas are not automatically “hells.”",
+      "realms": [
+        {
+          "name": "Satyaloka / Brahmaloka",
+          "artworkId": "r-satya",
+          "text": "An extremely elevated Brahmā-associated realm in several later cosmological presentations."
+        },
+        {
+          "name": "Tapoloka",
+          "artworkId": "r-tapo",
+          "text": "An elevated realm associated in some Purāṇic schemas with powerful ascetic beings."
+        },
+        {
+          "name": "Janaloka",
+          "artworkId": "r-jana",
+          "text": "An elevated loka associated in several texts with spiritually advanced sages or beings."
+        },
+        {
+          "name": "Maharloka",
+          "artworkId": "r-mahar",
+          "text": "A “great world” above Svarga in several later cosmographic arrangements."
+        },
+        {
+          "name": "Svargaloka",
+          "artworkId": "r-svarga",
+          "text": "A celestial/heavenly realm associated with devas and Indra in many later Hindu traditions."
+        },
+        {
+          "name": "Bhuvarloka",
+          "artworkId": "r-bhuvar",
+          "text": "An intermediary sphere whose precise meaning shifts across textual and ritual contexts."
+        },
+        {
+          "name": "Bhūloka",
+          "artworkId": "r-bhu",
+          "text": "The terrestrial sphere of embodied human life in common cosmographic usage."
+        },
+        {
+          "name": "Atala",
+          "artworkId": "r-atala",
+          "text": "One of seven lower regions in several Purāṇic cosmographies."
+        },
+        {
+          "name": "Vitala",
+          "artworkId": "r-vitala",
+          "text": "One of the seven lower regions; descriptions vary by source."
+        },
+        {
+          "name": "Sutala",
+          "artworkId": "r-sutala",
+          "text": "A lower realm prominently associated with Bali in Purāṇic Vāmana narratives."
+        },
+        {
+          "name": "Talātala",
+          "artworkId": "r-talatala",
+          "text": "One of the seven lower regions in several Purāṇic presentations."
+        },
+        {
+          "name": "Mahātala",
+          "artworkId": "r-mahatala",
+          "text": "A lower region often connected with serpent beings in later cosmographic accounts."
+        },
+        {
+          "name": "Rasātala",
+          "artworkId": "r-rasatala",
+          "text": "A lower region described differently across Purāṇic cosmographies."
+        },
+        {
+          "name": "Pātāla",
+          "artworkId": "r-patala",
+          "text": "A subterranean/lower region often associated with Nāgas and splendor; not simply equivalent to “hell.”"
+        }
+      ]
+    },
+    {
+      "id": "greek",
+      "name": "Greek & Roman Otherworlds",
+      "subtitle": "Olympus, Hades and blessed landscapes across changing poetic traditions.",
+      "note": "Greek and Roman authors do not provide one perfectly uniform map; terms and afterlife geographies shift by period and genre.",
+      "realms": [
+        {
+          "name": "Mount Olympus",
+          "artworkId": "r-olympus",
+          "text": "Seat of the Olympian gods in Greek poetic and later visual imagination."
+        },
+        {
+          "name": "Hades / Underworld",
+          "artworkId": "r-hades",
+          "text": "The realm of the dead, represented differently across epic, mystery, philosophical and later literary traditions."
+        },
+        {
+          "name": "Elysium",
+          "artworkId": "r-elysium",
+          "text": "A blessed afterlife landscape whose meaning develops across Greek and Roman literature."
+        },
+        {
+          "name": "Okeanos / Oceanus",
+          "artworkId": "r-oceanus",
+          "text": "The encircling cosmic river and divine watery boundary in archaic cosmological imagination."
+        },
+        {
+          "name": "Isles of the Blessed",
+          "artworkId": "r-blessed",
+          "text": "A paradisal destination in several Greek poetic traditions, often compared with Elysium but not always identical."
+        }
+      ]
+    },
+    {
+      "id": "norse",
+      "name": "Norse Worlds",
+      "subtitle": "A source-aware path through divine, human, giant and underworld spaces.",
+      "note": "The popular fixed “nine worlds” list is a later synthesis; surviving Old Norse sources do not present one simple standardized chart.",
+      "realms": [
+        {
+          "name": "Ásgarðr",
+          "artworkId": "r-asgard",
+          "text": "Realm/home of the Æsir in Old Norse cosmological language."
+        },
+        {
+          "name": "Valhöll / Valhalla",
+          "artworkId": "r-valhalla",
+          "text": "Odin’s hall for selected slain warriors; not synonymous with all of Ásgarðr."
+        },
+        {
+          "name": "Álfheimr",
+          "artworkId": "r-alfheim",
+          "text": "A realm/place connected with Álfar in Old Norse sources, especially through Freyr."
+        },
+        {
+          "name": "Jötunheimr",
+          "artworkId": "r-jotunheim",
+          "text": "A region associated with Jötnar and the outer wild beyond divine/human centers."
+        },
+        {
+          "name": "Miðgarðr",
+          "artworkId": "r-midgard",
+          "text": "The human world or enclosure, situated within a larger mythic cosmos."
+        },
+        {
+          "name": "Hel",
+          "artworkId": "r-hel",
+          "text": "A realm of the dead associated with the being Hel; not equivalent to later Christian hell."
+        },
+        {
+          "name": "Niflheimr",
+          "artworkId": "r-niflheim",
+          "text": "A misty/cold primordial region whose relationship to Hel varies in later synthesis."
+        },
+        {
+          "name": "Muspelheim",
+          "artworkId": "r-muspelheim",
+          "text": "A fiery primordial region associated with destructive forces and Surtr in later presentations."
+        }
+      ]
+    },
+    {
+      "id": "egypt",
+      "name": "Egyptian Afterlife Paths",
+      "subtitle": "Duat, judgment, solar passage and paradisal fields.",
+      "note": "Egyptian funerary cosmology changes over millennia and across the Pyramid Texts, Coffin Texts, Books of the Dead and underworld books.",
+      "realms": [
+        {
+          "name": "Duat",
+          "artworkId": "r-duat",
+          "text": "A complex otherworld traversed by the dead and by the solar god in funerary texts."
+        },
+        {
+          "name": "Hall of Two Truths",
+          "artworkId": "r-two-truths",
+          "text": "The judgment setting famous for the weighing of the heart in Book of the Dead imagery."
+        },
+        {
+          "name": "Aaru / Field of Reeds",
+          "artworkId": "r-aaru",
+          "text": "A blessed afterlife field represented in funerary traditions and often idealized as perfected Egypt."
+        },
+        {
+          "name": "Solar Barque Passage",
+          "artworkId": "r-solar-barque",
+          "text": "The divine boat journey through cosmic/night spaces, central to several Egyptian theological images."
+        },
+        {
+          "name": "Night Books & Tomb Cosmos",
+          "artworkId": "r-tomb-night",
+          "text": "Royal and funerary texts map night, gates and regeneration in different ways."
+        }
+      ]
+    },
+    {
+      "id": "buddhist",
+      "name": "Buddhist Cosmological Paths",
+      "subtitle": "Heavens, hungry ghosts, Narakas and Pure Land imagery.",
+      "note": "Buddhist cosmologies differ by textual corpus, school and region. Pure Lands should not be treated as simply another rung in one universal six-realm diagram.",
+      "realms": [
+        {
+          "name": "Trāyastriṃśa",
+          "artworkId": "r-trayastrimsa",
+          "text": "A deva heaven associated with Śakra/Indra and major narrative episodes in Buddhist literature."
+        },
+        {
+          "name": "Tuṣita",
+          "artworkId": "r-tushita",
+          "text": "A deva heaven particularly associated with bodhisattvas and Maitreya in Buddhist traditions."
+        },
+        {
+          "name": "Preta Realm",
+          "artworkId": "r-preta",
+          "text": "A realm/state of hungry ghosts marked by craving and deprivation in several Buddhist cosmologies."
+        },
+        {
+          "name": "Naraka",
+          "artworkId": "r-naraka",
+          "text": "Hell realms of intense suffering; enumerations and iconography vary by text and region."
+        },
+        {
+          "name": "Sukhāvatī / Western Pure Land",
+          "artworkId": "r-sukhavati",
+          "text": "Amitābha’s Pure Land in Pure Land Buddhist traditions, with its own doctrinal and devotional context."
+        },
+        {
+          "name": "Human Realm",
+          "artworkId": "r-human-buddhist",
+          "text": "The human condition, often treated as especially precious for practice because suffering and opportunity coexist."
+        }
+      ]
+    },
+    {
+      "id": "shinto",
+      "name": "Japanese Mythic Landscapes",
+      "subtitle": "Heavenly plain, central land, Yomi and sacred thresholds.",
+      "note": "Shinto does not reduce neatly to a Western “heaven/hell” map. These are mythic and sacred landscape concepts from specific texts and traditions.",
+      "realms": [
+        {
+          "name": "Takamagahara",
+          "artworkId": "r-takamagahara",
+          "text": "The High Plain of Heaven in early Japanese mythic narratives, associated with heavenly kami."
+        },
+        {
+          "name": "Ashihara-no-Nakatsukuni",
+          "artworkId": "r-ashihara",
+          "text": "The central land / human world in early Japanese cosmogonic narratives."
+        },
+        {
+          "name": "Yomi",
+          "artworkId": "r-yomi",
+          "text": "A land of the dead in Kojiki/Nihon Shoki mythic narrative; not a simple doctrinal hell."
+        },
+        {
+          "name": "Shrine & Sacred Threshold",
+          "artworkId": "r-shrine-threshold",
+          "text": "Not one separate realm, but a reminder that sacred presence is often localized through places, boundaries, ritual and landscape."
+        }
+      ]
+    }
+  ],
+  "planetArtwork": {
+    "sun": "p-sun",
+    "moon": "p-moon",
+    "mercury": "p-mercury",
+    "venus": "p-venus",
+    "mars": "p-mars",
+    "jupiter": "p-jupiter",
+    "saturn": "p-saturn",
+    "eclipses": "p-eclipses"
+  }
 };

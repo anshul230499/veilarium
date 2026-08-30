@@ -1,6 +1,7 @@
-VEILARIUM PAINTERLY BUILD 2.1
-84 records
-Portal-based homepage
-Direct upload.wikimedia.org image URLs
-Visible artwork credits and source/rights section
-Generated to fix the blank-image / wrong-deployment issue.
+VEILARIUM — PAINTERLY BUILD 4.0
+84 illustrated entity records with distinct artwork assignments
+6 multi-cosmology realm systems
+42 illustrated realm stops
+8 illustrated celestial hubs
+Artwork provenance modes: direct / contextual / evocative / literary / symbolic
+Full visible source & rights ledger

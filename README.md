@@ -1,29 +1,20 @@
-# Veilarium — Enchanted Atlas build
+# Veilarium — Illustrated Atlas 4.0
 
-This version reorganizes Veilarium around discovery rather than a wall of cards.
+A source-aware, painterly atlas of sacred and unseen worlds.
 
 ## What changed
 
-- Painterly historical artworks replace the placeholder SVG imagery in the experience
-- A portal-based homepage: Tradition / Realm / Celestial / Random
-- Illuminated featured gallery
-- Tradition chapters that reveal a small curated set first
-- Full 84-entry catalog moved into a collapsible Grand Index
-- Random discovery from multiple points in the site
-- Artwork credit visible on gallery, chapter and entity views
-- Full Art, Source & Rights section
-- Every artwork record stores title, artist, date, collection, rights status and source link
-- Collection artwork is explicitly labeled when it is not a literal depiction of the selected entity
-- Celestial-parallel and loka sections remain interactive
-
-## Art rights
-
-The included remote images are sourced from Wikimedia Commons records selected for Public Domain / CC0 status. The website links each image back to its Commons source record.
-
-Important: always preserve `source`, `license`, artist, title and date fields when replacing artwork.
+- All 84 entity records now have **distinct artwork assignments** rather than one image repeated across an entire tradition.
+- Tradition chapters are organized into thematic constellations (Celestial Courts, Waters & Groves, Night Parade, etc.).
+- The Realms section is now a **multi-cosmology illustrated atlas**: Hindu, Greek/Roman, Norse, Egyptian, Buddhist and Japanese/Shinto mythic landscapes.
+- Hindu 14-loka path includes a different visual for every stop, with explicit caveats about textual variation.
+- Celestial Lens has one artwork for every Sun/Moon/planet/node hub.
+- Every visual is tagged as Direct Depiction, Contextual Artwork, Evocative Artwork, Later Literary Reception, or Symbolic/Contextual.
+- Credits, artist, date, license status and Wikimedia Commons source stay attached to the art.
+- Images use direct Wikimedia upload URLs with fallback to the original file URL; broken remote files fail gracefully rather than leaving blank white space.
 
 ## Deployment
 
-Upload the **contents** of this folder to the root of the GitHub `veilarium` repository, not the ZIP itself. Vercel should then deploy `main` automatically.
+Extract the ZIP and upload **all extracted contents together** to the root of the GitHub `veilarium` repository in one commit. Do not delete the repo files one-by-one first.
 
-No build step is required.
+No build command is required. Vercel Framework Preset: Other.
