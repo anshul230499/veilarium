@@ -1,23 +1,25 @@
-# Veilarium — Illustrated Atlas 4.1
+# Veilarium — Illustrated Atlas 4.4
 
-This build focuses on three refinements:
+**Use this release instead of 4.3 if 4.3 has not been uploaded.**
 
-1. **Full artwork display**
-   - All major artwork surfaces now use `object-fit: contain`.
-   - Paintings are framed against dark luminous backgrounds rather than cropped.
-   - Hover zoom has been removed from entity artwork.
+4.4 is a consolidated build containing all previous corrections plus expanded descriptions for all 84 beings.
 
-2. **SFW-first art direction**
-   - Nude-heavy or sensual Western mythological images were replaced with modest, landscape, symbolic, or traditional alternatives.
-   - The celestial hubs now lean on traditional graha imagery for Mercury, Moon, Venus, Mars, Jupiter and Saturn.
-   - Credits and direct source links remain attached to each record.
+## Being records
+Each being now has two levels of writing:
+- a concise `summary` for elegant browsing
+- an expanded `description` in the opened encyclopedia record
 
-3. **Realms ascend from lowest to highest**
-   - Hindu: Pātāla → … → Bhūloka → Svarga → … → Satyaloka.
-   - Greek/Roman, Norse, Egyptian, Buddhist and Japanese paths are also arranged as low-to-high navigational journeys.
-   - Where a tradition is not truly a single vertical ladder, Veilarium says so explicitly.
+The descriptions preserve distinctions between living religion, scripture, folklore, literary reception and later popular interpretation. Similar-looking beings from different traditions are not declared equivalent.
+
+## Included from previous releases
+- SFW-first artwork
+- full-image `contain` framing rather than cropping
+- Yomi correction
+- Pātāla correction
+- six illustrated cosmology systems / 42 realm stops
+- realm descriptions
+- lowest-to-highest realm navigation with caveats where the source tradition is non-linear
 
 ## Deployment
-
-Extract this ZIP and upload **all contents together** over the current GitHub repository in one commit.
-Do not delete the existing repository files individually first.
+Extract the ZIP and upload **all files together** over the current GitHub repository in one commit.
+Do not delete existing repo files individually first.

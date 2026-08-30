@@ -19,9 +19,10 @@ window.VEILARIUM_DATA = {
         "Purāṇic literature"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-devas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Devas are a broad class of divine or luminous beings rather than one uniform species. Vedic hymns address individual devas such as Agni, Indra, Varuṇa and Sūrya, while epic and Purāṇic traditions develop changing genealogies, heavens and divine offices. The Sanskrit word deva carries the sense of a shining or divine being, but its theological meaning depends strongly on period, text and school. Veilarium therefore treats “Devas” as an umbrella category and keeps named gods, cosmic functions and sectarian theology distinct."
     },
     {
       "id": "asuras",
@@ -42,9 +43,10 @@ window.VEILARIUM_DATA = {
         "Purāṇic literature"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-asuras",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Asuras have one of the most historically fluid identities in South Asian religious literature. In portions of the early Vedic corpus, asura can function as a title of sovereign or mysterious power and is not yet a simple label for evil beings. Epic and Purāṇic narratives increasingly portray Deva–Asura rivalry as a major structure of cosmic conflict, while individual Asuras may be heroic, learned, devout, generous or destructive. They should not be flattened into a Western category of “demons,” and their portrayal changes substantially across texts."
     },
     {
       "id": "apsaras",
@@ -65,9 +67,10 @@ window.VEILARIUM_DATA = {
         "Buddhist narrative traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-apsaras",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Apsaras are celestial female beings renowned for dance, music, beauty and their presence in divine courts. They appear in Vedic, epic, Purāṇic and Buddhist narrative worlds, where they may entertain the gods, accompany Gandharvas, inhabit heavenly regions or enter stories involving kings and ascetics. Famous named Apsaras include Menakā, Urvaśī and Rambhā, but the category is broader than those figures. Their association with beauty should not obscure their literary agency, ritual setting or the differences between Hindu and Buddhist uses of the term."
     },
     {
       "id": "gandharvas",
@@ -88,9 +91,10 @@ window.VEILARIUM_DATA = {
         "Buddhist texts"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-gandharvas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Gandharvas are celestial or liminal beings strongly associated with music, fragrance, sacred knowledge and the courts of gods. Early Vedic material gives them mysterious connections with Soma and heavenly knowledge; later epic and Purāṇic literature often presents them as accomplished musicians paired socially or artistically with Apsaras. Buddhist traditions also know gandharvas in their own cosmological and narrative settings. Veilarium treats these strands separately rather than assuming every Gandharva story belongs to a single fixed mythology."
     },
     {
       "id": "yakshas",
@@ -111,9 +115,10 @@ window.VEILARIUM_DATA = {
         "Jain traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-yakshas",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Yakṣas are powerful beings associated with fertility, vegetation, water, treasure, local landscape and guardianship. They occupy major roles in Hindu, Buddhist and Jain art and literature, ranging from benign protectors and wealth-bearing figures to dangerous local presences. Kubera is famously connected with yakṣa traditions, but the class is much broader than his retinue. Monumental yakṣa sculpture also played an important role in early South Asian sacred art, making them as much a part of religious visual history as of narrative folklore."
     },
     {
       "id": "yakshinis",
@@ -134,9 +139,10 @@ window.VEILARIUM_DATA = {
         "Later ritual literature"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-yakshinis",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Yakṣiṇīs are female yakṣa beings whose roles range from fertility and abundance to guardianship, seduction, danger and esoteric power. They are prominent in early South Asian sculpture, Buddhist and Jain sacred settings, and later Hindu and tantric literature. Some are protectors attached to sacred places or religious figures, while later ritual texts may describe individually named Yakṣiṇīs in specialized practices. Because these traditions differ greatly, Veilarium does not treat every Yakṣiṇī as the same type of spirit or ritual entity."
     },
     {
       "id": "nagas",
@@ -158,9 +164,10 @@ window.VEILARIUM_DATA = {
         "Buddhist narrative traditions"
       ],
       "image": "assets/art/naga.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-nagas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Nāgas are serpent-associated sacred beings found across Hindu, Buddhist and Jain traditions. They are commonly linked with rivers, lakes, rain, treasure, fertility, subterranean regions and the protection of sacred knowledge or places. Individual Nāgas such as Śeṣa, Vāsuki and Takṣaka have very different narrative roles, and Buddhist traditions develop their own important nāga stories. Their imagery can range from fully serpentine to human figures with cobra hoods, so no single artwork should be taken as a universal physical description."
     },
     {
       "id": "garudas",
@@ -181,9 +188,10 @@ window.VEILARIUM_DATA = {
         "Buddhist traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-garudas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Garuḍa is best known in Hindu tradition as the mighty bird-being and vehicle of Viṣṇu, while garuḍa-like beings also appear more broadly in South and Southeast Asian Buddhist cultures. Narratives frequently emphasize extraordinary speed, solar or sky imagery, and conflict with Nāgas. The relationship is not simply “good bird versus evil serpent”; both categories contain sacred, protective and ambivalent figures. Regional traditions transformed Garuḍa into important royal, religious and protective imagery far beyond the Sanskrit epics."
     },
     {
       "id": "rakshasas",
@@ -204,9 +212,10 @@ window.VEILARIUM_DATA = {
         "Buddhist narrative traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-rakshasas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Rākṣasas are a diverse class of powerful beings in South Asian epic, literary and religious traditions. They are often associated with night, wilderness, shape-changing, extraordinary appetite or warfare, yet the category includes rulers, devotees, allies and morally complex figures as well as antagonists. The Rāmāyaṇa’s Laṅkā narratives made Rākṣasas especially famous, but they appear in many other contexts. Translating them simply as “demons” erases both their social worlds in the epics and the variation of the term across Hindu and Buddhist literature."
     },
     {
       "id": "vetalas",
@@ -227,9 +236,10 @@ window.VEILARIUM_DATA = {
         "Regional folklore"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-vetalas",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "Vetālas are uncanny beings especially famous from Sanskrit story literature for inhabiting or animating corpses and haunting cremation-ground settings. The Vetālapañcaviṃśati cycle turns the Vetāla into a brilliant riddler whose stories repeatedly test a king’s judgment, making the figure intellectual as well as macabre. Later vernacular traditions broadened the category considerably. Veilarium therefore distinguishes the literary Vetāla of framed tale collections from modern horror interpretations and from other South Asian ghost categories."
     },
     {
       "id": "bhutas",
@@ -250,9 +260,10 @@ window.VEILARIUM_DATA = {
         "Ritual traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-bhutas",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Bhūta is an unusually broad Sanskrit and vernacular term. Depending on context it can mean a being, element, creature, spirit, ghost or the dead, and regional religious traditions use related words in very different ways. In many modern South Asian contexts bhūta can refer to a restless or uncanny spirit, while elsewhere bhūta traditions involve local deities and ritual possession. Because of this semantic range, the category should never be treated as a single pan-Indian species of ghost."
     },
     {
       "id": "pretas",
@@ -273,9 +284,10 @@ window.VEILARIUM_DATA = {
         "Jain cosmology"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-pretas",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Pretas are post-mortem beings associated with hunger, thirst, attachment or an unsettled condition in several South Asian religious traditions. Buddhist cosmology famously develops the “hungry ghost” realm, while Hindu ritual literature also uses preta for a transitional or problematic state of the dead connected with funerary rites. Jain cosmologies classify related beings according to their own systems. The shared vocabulary does not mean the doctrines are identical, so Veilarium keeps karmic, funerary and ritual contexts visible."
     },
     {
       "id": "pisacas",
@@ -296,9 +308,10 @@ window.VEILARIUM_DATA = {
         "Classical Sanskrit sources"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-pisacas",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Piśācas are fearsome beings of Sanskrit literary and religious tradition, frequently associated with darkness, liminal places, impurity, flesh and unsettling forms of speech or behavior. Their exact status varies across texts, and later folklore often expands them into a generic category of malevolent night spirit. Ancient Indian authors also used the word Piśāca in linguistic and ethnographic classifications that should not be confused with supernatural narrative. Veilarium focuses here on the supernatural literary category and avoids treating it as a label for real human communities."
     },
     {
       "id": "kinnaras",
@@ -319,9 +332,10 @@ window.VEILARIUM_DATA = {
         "Southeast Asian art"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-kinnaras",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Kinnaras are celestial hybrid beings celebrated especially for music, beauty and devotion. Indian and Himalayan artistic traditions depict them in several forms, including human-animal combinations whose iconography changes by region and period. They occur in Hindu and Buddhist narrative worlds, and Buddhist art spread kinnara imagery widely across Asia. Their identity should not be reduced to a single “half-bird” or “half-horse” formula, because textual and visual traditions are notably varied."
     },
     {
       "id": "vidyadharas",
@@ -342,9 +356,10 @@ window.VEILARIUM_DATA = {
         "Jain traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-vidyadharas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Vidyādharas are literally “holders of knowledge” or magical lore, a class of aerial or semi-divine beings found in Hindu, Buddhist and Jain literature. Sanskrit romances and story collections often place them in spectacular mountain or sky realms and associate them with supernatural skills, flight and specialized knowledge. Buddhist and Jain traditions adapt the category into their own cosmologies. Their prominence in narrative literature means they are often closer to a cultured otherworldly people than to a simple category of nature spirit."
     },
     {
       "id": "siddhas",
@@ -365,9 +380,10 @@ window.VEILARIUM_DATA = {
         "Jain cosmology"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-siddhas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Siddha means an accomplished or perfected being and is used in several distinct Hindu, Buddhist and Jain contexts. Some cosmological texts describe Siddhas as a class of exalted beings, while yoga and tantric traditions use siddha for spiritually accomplished masters associated with extraordinary attainments. Jainism gives Siddha a highly specific doctrinal meaning for liberated souls. These meanings overlap linguistically but are not interchangeable, so the atlas treats the term as a family of tradition-specific concepts."
     },
     {
       "id": "maruts",
@@ -387,9 +403,10 @@ window.VEILARIUM_DATA = {
         "Vedic literature"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-maruts",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "The Maruts are a vigorous company of storm deities celebrated prominently in the Ṛgveda. They are associated with thunder, wind, brilliant weapons, roaring movement and the dramatic arrival of storms, and they often accompany Indra in Vedic hymns. Later literature reshapes their genealogy and cosmological placement. Their early Vedic identity is therefore more specific than the generic modern label “storm spirits”: they are a named divine host with a rich hymnic personality."
     },
     {
       "id": "adityas",
@@ -410,9 +427,10 @@ window.VEILARIUM_DATA = {
         "Purāṇic literature"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-adityas",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "The Ādityas are an important Vedic group of deities associated with Aditi and with principles such as sovereignty, social order and cosmic law. The membership and number of the group change across the Vedic and later Hindu textual record. Varuṇa, Mitra and Aryaman are among the figures strongly associated with the early group, while later traditions develop familiar sets of twelve solar Ādityas. Veilarium preserves that chronological development instead of projecting the later twelvefold system backward into every Vedic source."
     },
     {
       "id": "nymphs",
@@ -433,9 +451,10 @@ window.VEILARIUM_DATA = {
         "Later Greek and Roman literature"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-nymphs",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Nymphs are minor female divinities of Greek and Roman religious and literary tradition associated with features of the natural world. They may belong to springs, trees, mountains, meadows, seas or particular local landscapes, and many are individually named in myth and cult. “Nymph” is therefore a broad divine category rather than a single species. Later European painting often eroticized nymph imagery, so Veilarium uses SFW works and distinguishes ancient religious roles from later artistic fantasy."
     },
     {
       "id": "dryads",
@@ -456,9 +475,10 @@ window.VEILARIUM_DATA = {
         "Roman reception"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-dryads",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Dryads are tree-associated nymphs in Greek tradition. Ancient authors use related terms with different degrees of specificity, and some tree nymphs—especially Hamadryads—are imagined as especially bound to the life of a particular tree. Their stories express the sacredness and vulnerability of wooded landscapes as much as personal mythology. Modern fantasy often treats “dryad” as a universal forest species, but the ancient category belongs to a more specific Greek vocabulary of nymphs and sacred nature."
     },
     {
       "id": "naiads",
@@ -478,9 +498,10 @@ window.VEILARIUM_DATA = {
         "Mythographic literature"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-naiads",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Naiads are Greek nymphs associated with fresh water: springs, fountains, streams, rivers and other inland waters. Individual waterways could have their own divine personalities and local cultic significance, so Naiads are best understood within the sacred geography of Greek communities. Mythic narratives may portray them as ancestors, companions, helpers or dangerous presences. Their connection to water is direct, but later decorative art should not be mistaken for evidence of a single canonical appearance."
     },
     {
       "id": "nereids",
@@ -501,9 +522,10 @@ window.VEILARIUM_DATA = {
         "Greek art"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-nereids",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Nereids are the sea-nymph daughters of Nereus and Doris in Greek tradition, often imagined as a company of divine maidens inhabiting the Mediterranean sea. Thetis and Amphitrite are among the most prominent figures connected with this family, though their individual myths go well beyond the collective category. Nereids appear in poetry, vase painting and later marine art as helpers, mourners or attendants. They should be distinguished from Oceanids and from the broader category of nymphs."
     },
     {
       "id": "oceanids",
@@ -523,9 +545,10 @@ window.VEILARIUM_DATA = {
         "Greek mythographic literature"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-oceanids",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Oceanids are daughters of Oceanus and Tethys in Greek genealogy, representing a vast divine family associated with waters, places and natural or abstract powers. Hesiod famously imagines them in enormous number, and individually named Oceanids can have very different functions. They are not simply interchangeable “sea nymphs”: ancient cosmology distinguishes Oceanus, rivers, springs and the Mediterranean sea in ways modern terminology can blur. Veilarium keeps Oceanids separate from Nereids and Naiads for that reason."
     },
     {
       "id": "satyrs",
@@ -546,9 +569,10 @@ window.VEILARIUM_DATA = {
         "Roman literature"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-satyrs",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Satyrs are rustic male beings of Greek myth and Dionysian imagery, associated with wilderness, music, wine, dancing and unruly desire. In classical art they often accompany Dionysus and can embody the instability between civilized restraint and animal impulse. Greek satyrs and Roman fauns became increasingly blended in later European reception, but they began as distinct cultural figures. Because ancient and later art can be sexually explicit, Veilarium uses SFW imagery while retaining the category’s Dionysian context."
     },
     {
       "id": "centaurs",
@@ -569,9 +593,10 @@ window.VEILARIUM_DATA = {
         "Classical art"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-centaurs",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Centaurs are human-horse hybrid beings best known from Greek myth. Many stories portray groups of centaurs as dangerous embodiments of uncontrolled appetite and violence, especially in the famous Centauromachy, yet figures such as Chiron represent wisdom, healing and heroic education. The contrast is important: “centaur” does not carry one fixed moral character. Their imagery became enormously influential in later European art and fantasy, but Veilarium anchors the entry in Greek narrative tradition."
     },
     {
       "id": "cyclopes",
@@ -592,9 +617,10 @@ window.VEILARIUM_DATA = {
         "Later mythography"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-cyclopes",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Cyclopes are one-eyed giant beings whose identity differs sharply between Greek sources. Hesiod describes primordial Cyclopes such as Brontes, Steropes and Arges, associated with thunderbolt-making, while Homer’s Odyssey presents the pastoral Cyclopes and the famous Polyphemus in a very different social world. Later tradition also connects Cyclopes with divine craftsmanship. These strands should not be collapsed into one biography; the shared one-eyed form masks multiple literary traditions."
     },
     {
       "id": "moirai",
@@ -615,9 +641,10 @@ window.VEILARIUM_DATA = {
         "Later literature"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-moirai",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Moirai are the Greek powers of fate, commonly known in later tradition as Clotho, Lachesis and Atropos. They are imagined through the metaphor of spinning, measuring and cutting the thread of life, though early Greek sources present fate and divine agency in complex ways that resist a simple hierarchy. Roman tradition identified them with the Parcae. Their later image as three old women is influential but not the only ancient way of conceiving them."
     },
     {
       "id": "erinyes",
@@ -638,9 +665,10 @@ window.VEILARIUM_DATA = {
         "Greek religion"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-erinyes",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Erinyes are chthonic goddesses of vengeance and moral consequence, especially concerned with grave offenses such as kin-murder and violated oaths. Aeschylus’ Oresteia gives them one of their most influential literary roles, culminating in their transformation into the Eumenides within an Athenian civic-religious framework. Roman authors commonly called them Furiae or Furies. They are not generic monsters: their terrifying character is tied to justice, pollution, kinship and the power of the underworld."
     },
     {
       "id": "harpies",
@@ -661,9 +689,10 @@ window.VEILARIUM_DATA = {
         "Virgil"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-harpies",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Harpies are winged female beings of Greek myth whose name is connected with snatching or carrying away. Early poetry can treat them as swift storm-like powers, while later art and literature increasingly give them composite bird-woman forms and emphasize punishment or pollution. Their best-known narrative role comes from the story of Phineus and the Argonauts. The grotesque medieval and Renaissance Harpy image is therefore only one stage in a long history of representation."
     },
     {
       "id": "sirens",
@@ -684,9 +713,10 @@ window.VEILARIUM_DATA = {
         "Later mythography"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-sirens",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Sirens are dangerous singers of Greek myth whose irresistible voices lure sailors toward destruction. In the Odyssey, their threat lies in knowledge and song rather than in a mermaid body, and ancient Greek art commonly depicts Sirens as bird-women. The fish-tailed mermaid-like Siren became prominent much later through medieval and early modern visual blending. Veilarium therefore avoids treating “Siren” and “mermaid” as historical synonyms."
     },
     {
       "id": "gorgons",
@@ -707,9 +737,10 @@ window.VEILARIUM_DATA = {
         "Classical art"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-gorgons",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Gorgons are fearsome female beings of Greek myth, most famously the mortal Medusa and her immortal sisters Stheno and Euryale. Archaic art often presents the Gorgoneion as a frontal protective or apotropaic face, showing that Gorgon imagery was not merely decorative horror. Medusa’s later biography, including her encounter with Perseus, became the dominant literary strand. Modern retellings vary widely, so Veilarium distinguishes ancient attestations from contemporary reinterpretation."
     },
     {
       "id": "lamia",
@@ -729,9 +760,10 @@ window.VEILARIUM_DATA = {
         "Later folklore"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-lamia",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Lamia begins in Greek tradition as an individually named female figure whose tragic and monstrous story becomes associated with the killing or threatening of children. Over time, “lamia” develops into a broader category in Greek and later European folklore and literature, sometimes acquiring serpentine, seductive or vampiric features. Those later traits should not all be projected back onto the earliest narratives. Veilarium treats Lamia as a layered reception history rather than one fixed monster template."
     },
     {
       "id": "aos-si",
@@ -751,9 +783,10 @@ window.VEILARIUM_DATA = {
         "Irish folklore collections"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-aos-si",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Aos Sí is a modern Irish-language term commonly used for the otherworldly people associated with sí places, mounds and landscapes. Irish tradition contains many overlapping names and categories for these beings, and English “fairy” can obscure important differences in tone, locality and belief. They may be beautiful, dangerous, generous, exacting or morally opaque. Veilarium treats them as part of Irish vernacular and literary tradition rather than equating them automatically with Victorian miniature winged fairies."
     },
     {
       "id": "bean-si",
@@ -773,9 +806,10 @@ window.VEILARIUM_DATA = {
         "Oral tradition"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-bean-si",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Bean Sí—anglicized banshee—is an Irish otherworldly female figure whose lament or keening is associated with an approaching death in certain families and traditions. Descriptions vary from a beautiful woman to an aged or uncanny mourner, and regional names and narratives differ. The figure is better understood as a death-messenger or supernatural keener than as a creature that causes death. Later Gothic fiction amplified her into a screaming monster, which is not the whole folkloric tradition."
     },
     {
       "id": "selkies",
@@ -795,9 +829,10 @@ window.VEILARIUM_DATA = {
         "Orkney and Shetland traditions"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-selkies",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "Selkies are seal-shapeshifting beings of Scottish and Northern Isles folklore. Stories commonly imagine them shedding seal skins to take human form, with the hidden or stolen skin becoming central to narratives of marriage, captivity, longing and return to the sea. The emotional register is often tragic rather than monstrous. Similar seal-person traditions occur around the North Atlantic, but Veilarium keeps local story traditions distinct instead of treating every seal-shifter as one universal folklore species."
     },
     {
       "id": "kelpies",
@@ -816,9 +851,10 @@ window.VEILARIUM_DATA = {
         "Scottish folklore collections"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-kelpies",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Kelpies are dangerous water-horse beings of Scottish folklore, especially associated with rivers and lochs. Stories frequently describe an attractive or apparently tame horse that entices riders before carrying them into the water, though the details and names of Scottish water-horse traditions vary by region. Later art and tourism softened the kelpie into a general magical horse. Veilarium preserves the older cautionary connection with hazardous water and deceptive appearance."
     },
     {
       "id": "brownies",
@@ -838,9 +874,10 @@ window.VEILARIUM_DATA = {
         "English folklore"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-brownies",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "Brownies are household beings of Scottish and northern English folklore, typically imagined as secretive helpers who perform domestic or farm work at night. Traditions often stress rules of reciprocity: food may be left for them, but direct payment, insult or inappropriate gifts can cause them to leave or become hostile. Their stories overlap with other British household-spirit traditions without being identical to them. The modern cute “little fairy helper” image captures only part of the older folklore."
     },
     {
       "id": "puca",
@@ -859,9 +896,10 @@ window.VEILARIUM_DATA = {
         "Irish folklore collections"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-puca",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "The Púca is a shapeshifting being of Irish folklore, famous for unpredictability rather than a single stable form. Accounts may describe a horse, goat, dog, hare, human-like figure or other shape, and encounters range from frightening rides and tricks to warnings or useful information. The Púca’s character varies substantially by locality and storyteller. It is therefore misleading to reduce it to either a malicious goblin or a benevolent nature spirit."
     },
     {
       "id": "dullahan",
@@ -880,9 +918,10 @@ window.VEILARIUM_DATA = {
         "Irish folklore collections"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-dullahan",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "The Dullahan is a headless supernatural rider associated with Irish folkloric and literary tradition. Modern popular culture presents a highly standardized image—a black horse, carried head, whip and death omen—but nineteenth-century literary collections played a large role in shaping that familiar form. Earlier oral traditions are less uniform. Veilarium labels the Dullahan as folklore with a strong literary reception history rather than pretending every modern detail is ancient."
     },
     {
       "id": "leannan-si",
@@ -902,9 +941,10 @@ window.VEILARIUM_DATA = {
         "Literary fairy tradition"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-leannan-si",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Leannán Sí literally suggests a fairy or otherworldly lover, but the familiar modern idea of the Leannán Sí as a supernatural muse who grants artistic inspiration while draining a lover’s life owes much to literary development, especially around the Irish Revival. Vernacular folklore contains more varied stories of dangerous or intimate relationships with the sí. Veilarium therefore marks the “fatal muse” image as a powerful literary interpretation, not a universal rule of Irish tradition."
     },
     {
       "id": "glaistig",
@@ -923,9 +963,10 @@ window.VEILARIUM_DATA = {
         "Scottish Highland folklore"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-glaistig",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "The Glaistig is a Scottish Highland supernatural female figure with markedly different local personalities. Folklore collections describe green-clad or grey-faced women connected with particular houses, farms, cattle or landscapes; some act as tutelary guardians and receive offerings such as milk, while other stories make them dangerous. Later retellings sometimes standardize the Glaistig into a goat-legged fairy woman, but the archival tradition is broader. Locality matters greatly to this figure."
     },
     {
       "id": "bean-nighe",
@@ -944,9 +985,10 @@ window.VEILARIUM_DATA = {
         "Scottish Gaelic folklore"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-bean-nighe",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "The Bean Nighe, “washerwoman,” is a Scottish Gaelic supernatural figure encountered washing bloodied clothes at a stream or ford and associated with impending death. She belongs to a wider Gaelic complex of washer-at-the-ford traditions found in Scotland and Ireland. Narratives sometimes describe ways an encounter might yield knowledge, but details vary considerably. She is an omen-bearing figure, not simply a water monster, and her identity should remain rooted in Gaelic death-lore."
     },
     {
       "id": "alfar",
@@ -967,9 +1009,10 @@ window.VEILARIUM_DATA = {
         "Scandinavian folklore"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-alfar",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Álfar are elusive beings of Old Norse tradition usually translated as “elves,” though the modern fantasy category is much more concrete than the medieval evidence. Eddic poetry links álfar closely with the gods in formulaic phrases, while other sources suggest associations with fertility, ancestry, landscape or cult. Later Scandinavian folklore develops different elf traditions. Veilarium therefore avoids assigning Old Norse álfar a single standardized appearance, society or moral alignment."
     },
     {
       "id": "dvergar",
@@ -989,9 +1032,10 @@ window.VEILARIUM_DATA = {
         "Prose Edda"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-dvergar",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Dvergar, usually translated as dwarfs, are beings of Old Norse myth renowned for craft, hidden knowledge and the making of extraordinary objects. They forge treasures used by gods and heroes, and texts associate them with stone, earth or subterranean spaces. Their physical description is less standardized in medieval sources than modern fantasy implies. The familiar short, bearded fantasy dwarf is largely a later visual convention rather than a complete guide to Old Norse dvergar."
     },
     {
       "id": "jotnar",
@@ -1011,9 +1055,10 @@ window.VEILARIUM_DATA = {
         "Prose Edda"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-jotnar",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Jötnar are primordial and often formidable beings who stand in complex relationship with the Norse gods. They are commonly translated as “giants,” but medieval texts do not consistently portray them as physically gigantic. Gods and jötnar fight, intermarry, exchange knowledge and share ancestry, making the boundary relational rather than a simple good-versus-evil divide. Many jötnar embody wilderness, ancient cosmic forces or dangerous wisdom, while individual figures vary enormously."
     },
     {
       "id": "valkyries",
@@ -1034,9 +1079,10 @@ window.VEILARIUM_DATA = {
         "Prose Edda"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-valkyries",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Valkyries are female beings associated with battle, the selection of the slain and Óðinn’s warrior afterlife. Old Norse poetry ranges from terrifying battlefield imagery to named Valkyries who interact with heroes and sometimes resemble supernatural warrior women. Later romantic art transformed them into armored celestial maidens, an image now heavily shaped by Wagnerian reception. Veilarium keeps the medieval poetic evidence separate from nineteenth-century visual mythology."
     },
     {
       "id": "norns",
@@ -1056,9 +1102,10 @@ window.VEILARIUM_DATA = {
         "Prose Edda"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-norns",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Norns are female powers associated with fate in Old Norse tradition. Völuspá famously names Urðr, Verðandi and Skuld at the well beneath the world tree, but other texts speak more broadly of norns connected with individual lives, birth and destiny. The three named figures became the dominant modern image, sometimes compared with Greek Fates, yet the traditions are not equivalent. Veilarium presents the comparison as a structural parallel rather than an identity."
     },
     {
       "id": "draugr",
@@ -1078,9 +1125,10 @@ window.VEILARIUM_DATA = {
         "Old Norse literature"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-draugr",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "A draugr is a corporeal revenant in Old Norse and Icelandic saga tradition: a dead person who remains physically active, dangerous and attached to grave goods, land or unresolved conflict. Saga draugar may possess immense strength, swell in size, guard burial mounds or attack the living. They differ from airy modern ghosts and from later vampire categories. Their narratives often dramatize contested inheritance, social memory and the difficulty of properly containing the dead."
     },
     {
       "id": "landvaettir",
@@ -1101,9 +1149,10 @@ window.VEILARIUM_DATA = {
         "Icelandic tradition"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-landvaettir",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Landvættir are land-associated beings or powers in Old Norse and Icelandic tradition. Medieval sources connect them with the well-being of particular territories and preserve stories about respecting or frightening the spirits of a land. They are best understood as a plural, place-based category rather than a single species with a standard appearance. Later Icelandic national symbolism and modern religious practice have given the concept new cultural lives that should be distinguished from medieval evidence."
     },
     {
       "id": "fylgjur",
@@ -1123,9 +1172,10 @@ window.VEILARIUM_DATA = {
         "Old Norse literature"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-fylgjur",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "A fylgja, literally a “follower,” is an Old Norse supernatural companion connected with a person, family, fate or fortune. Saga and poetic material can present fylgjur in animal form or as female figures, often appearing in dreams or ominous visions. Seeing a fylgja may foreshadow danger or death, but modern “spirit animal” language can oversimplify the concept. Different textual uses may reflect more than one related idea, so Veilarium keeps the category deliberately open."
     },
     {
       "id": "jinn",
@@ -1146,9 +1196,10 @@ window.VEILARIUM_DATA = {
         "Arabic and Persian literature"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "Veilarium separates Qurʾānic / theological material from later literary and folkloric jinn traditions.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-jinn",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "Jinn are created unseen beings recognized within Islamic scripture and also embedded in a much wider Arabic and Islamicate folklore. The Qurʾān presents jinn as morally responsible beings capable of belief or unbelief, which makes “demon” an inaccurate universal translation. Later literature, local storytelling and occult traditions greatly expand their characteristics, habitats and classifications. Veilarium distinguishes Qurʾānic jinn from folkloric and literary developments instead of merging every later tale into scripture."
     },
     {
       "id": "ifrit",
@@ -1169,9 +1220,10 @@ window.VEILARIUM_DATA = {
         "Folklore"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-ifrit",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "ʿIfrīt is a term associated with formidable supernatural power in Arabic and Islamic-era literature. The Qurʾān uses the expression ʿifrīt min al-jinn for a powerful being among the jinn in the story of Solomon, while later storytelling turns ifrits into a more developed category of mighty or dangerous jinn-like beings. Modern fantasy often treats “Ifrit” as a fixed elemental fire species, but that systematization is much later than the foundational sources."
     },
     {
       "id": "marid",
@@ -1191,9 +1243,10 @@ window.VEILARIUM_DATA = {
         "Folklore and tale cycles"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-marid",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "Mārid in Arabic carries senses of rebelliousness or defiance and becomes associated in later literature and folklore with exceptionally powerful jinn-like beings. Its familiar modern portrayal as a named rank of water-associated genie is heavily shaped by later popular classification rather than a single authoritative Islamic cosmology. Veilarium therefore treats Mārid primarily as a literary and folkloric category and does not present modern fantasy hierarchies as scripture."
     },
     {
       "id": "ghul",
@@ -1213,9 +1266,10 @@ window.VEILARIUM_DATA = {
         "Classical and medieval Arabic literature"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-ghul",
-      "artworkMode": "literary"
+      "artworkMode": "literary",
+      "description": "The ghūl is a dangerous being of Arabic folklore associated especially with wilderness, ruins, graveyards and deceptive shape-changing. Stories often emphasize the ghūl’s ability to mislead travelers or assume attractive human forms before revealing predatory intent. The figure entered European literature through translations and adaptations of Arabic tales, producing the English word “ghoul.” Islamic-era folklore, literary tales and modern horror should be distinguished rather than treated as one unchanged tradition."
     },
     {
       "id": "peri",
@@ -1235,9 +1289,10 @@ window.VEILARIUM_DATA = {
         "Later Persianate literature"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-peri",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Peris are beautiful otherworldly beings of Persianate literary tradition whose character developed over centuries. Earlier Iranian demonological vocabulary is not identical to the graceful peri of later Persian poetry and romance, where the figure can symbolize beauty, remoteness and the enchanted world. Through Persianate cultural influence, peri traditions spread into South and Central Asian literature. Veilarium treats the luminous fairy-like peri primarily as a literary-historical development rather than a timeless pan-Iranian category."
     },
     {
       "id": "div",
@@ -1258,9 +1313,10 @@ window.VEILARIUM_DATA = {
         "Persian folklore"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-div",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Dīv or Div is an Iranian term with a long religious and literary history. Zoroastrian traditions reject the daēvas as hostile or false divinities, while later Persian epic and romance transform divs into powerful monstrous beings, famously encountered in the Shāhnāma. Those theological and literary uses are related but not identical. Veilarium distinguishes Avestan religious concepts from the vividly embodied divs of medieval Persian storytelling."
     },
     {
       "id": "fravashis",
@@ -1280,9 +1336,10 @@ window.VEILARIUM_DATA = {
         "Zoroastrian tradition"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-fravashis",
-      "artworkMode": "symbolic"
+      "artworkMode": "symbolic",
+      "description": "Fravašis are powerful protective spiritual beings in Zoroastrian tradition, especially celebrated in the Fravardīn Yašt. Their interpretation is complex: scholarship has connected them with protective, ancestral and heroic dimensions, while living Zoroastrian tradition associates them closely with the righteous dead and continuing protection. They should not simply be called “guardian angels,” and the familiar winged Achaemenid symbol is not securely proven to be a literal ancient portrait of a fravaši."
     },
     {
       "id": "yazatas",
@@ -1302,9 +1359,10 @@ window.VEILARIUM_DATA = {
         "Middle Persian religious literature"
       ],
       "image": "assets/art/jinn.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-yazatas",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Yazatas are Zoroastrian divine beings “worthy of worship” or veneration. The category includes major figures such as Mithra, Anāhitā, Tištrya, Sraoša and other divinities connected with cosmic order, natural phenomena and religious virtues. Avestan hymns known as Yašts praise many of them individually. Comparing Yazatas with “angels” or polytheistic gods can be suggestive but also misleading; Veilarium preserves Zoroastrian terminology and theological context."
     },
     {
       "id": "kami",
@@ -1325,9 +1383,10 @@ window.VEILARIUM_DATA = {
         "Shrine traditions"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-kami",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Kami are sacred presences, deities and powers within Shinto traditions, but the term resists a single English equivalent. Kami may be connected with mythic deities, ancestors, remarkable natural features, communities, shrines or extraordinary forces. They are approached through ritual relationships of reverence, purification and offering rather than through one universal doctrine of what a kami “is.” Translating every kami simply as “god” or “spirit” captures only part of the concept."
     },
     {
       "id": "yokai",
@@ -1347,9 +1406,10 @@ window.VEILARIUM_DATA = {
         "Regional folklore collections"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-yokai",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Yōkai is a broad Japanese category for strange, uncanny or supernatural phenomena and beings. The term can encompass creatures, apparitions, transformations and personified oddities that come from many periods and local traditions. Edo-period artists and encyclopedic picture books played a major role in giving yōkai memorable visual forms, while modern manga and media transformed the category again. Veilarium treats yōkai as a cultural umbrella, not a biological taxonomy of monsters."
     },
     {
       "id": "oni",
@@ -1370,9 +1430,10 @@ window.VEILARIUM_DATA = {
         "Folklore"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-oni",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Oni are powerful ogre- or demon-like beings of Japanese religious, literary and folkloric tradition. Their familiar horns, fangs, clubs and colored bodies became especially prominent through visual culture, but oni roles vary from punishers in Buddhist hell imagery to mountain-dwelling threats, transformed humans or figures expelled during Setsubun rites. They are not equivalent to Christian demons. The category sits at the intersection of religion, folklore, performance and popular art."
     },
     {
       "id": "tengu",
@@ -1393,9 +1454,10 @@ window.VEILARIUM_DATA = {
         "Visual culture"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-tengu",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Tengu are Japanese mountain beings whose imagery and moral character changed significantly over time. Medieval Buddhist sources can portray tengu as disruptive or prideful beings hostile to religious practice, while later traditions increasingly connect them with mountain asceticism, martial skill and protective roles. Long-nosed human-like tengu and bird-like forms belong to different visual developments. The popular wise mountain master is therefore only one phase of a complicated history."
     },
     {
       "id": "kitsune",
@@ -1416,9 +1478,10 @@ window.VEILARIUM_DATA = {
         "Literature"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-kitsune",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Kitsune are foxes and fox-associated supernatural beings in Japanese folklore and religious culture. Stories credit foxes with shape-changing, deception, possession, longevity and extraordinary intelligence, while fox imagery is also deeply connected with Inari worship as divine messengers or attendants. Those shrine foxes should not automatically be called the same thing as every folkloric fox spirit. Kitsune stories range from dangerous encounters to marriages, gratitude tales and comic transformations."
     },
     {
       "id": "yurei",
@@ -1439,9 +1502,10 @@ window.VEILARIUM_DATA = {
         "Folklore"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-yurei",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Yūrei are ghosts of the dead in Japanese tradition, especially those who remain because of powerful emotion, improper death, unresolved obligation or insufficient funerary settlement. Edo-period theater and print culture standardized a famous visual language of white burial clothing, loose hair and sometimes absent feet. That image is culturally influential but not a universal rule for all Japanese ghosts. Different categories of the dead, vengeful spirits and ancestral presences have their own histories."
     },
     {
       "id": "kappa",
@@ -1461,9 +1525,10 @@ window.VEILARIUM_DATA = {
         "Regional traditions"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-kappa",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Kappa are Japanese river and water beings widely represented in folklore and visual culture. Common features include a small humanoid body, turtle- or reptile-like traits and a water-filled depression on the head whose loss weakens the creature, though local descriptions vary. Stories portray kappa as dangerous, mischievous, rule-bound or even helpful. Their fondness for cucumbers and sumō belongs to later folkloric characterization, showing how a threatening water being became a complex popular figure."
     },
     {
       "id": "tsukumogami",
@@ -1484,9 +1549,10 @@ window.VEILARIUM_DATA = {
         "Folklore"
       ],
       "image": "assets/art/yokai.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-tsukumogami",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Tsukumogami are animated old objects in Japanese literary and visual traditions, especially associated with the idea that long-lived implements can acquire agency or spirit-like character. Medieval and early modern picture scrolls and later yōkai art turn discarded tools, instruments and household objects into lively processions of supernatural beings. The modern claim that every object automatically becomes a yōkai after exactly one hundred years is an oversimplification of a more varied tradition."
     },
     {
       "id": "rusalka",
@@ -1506,9 +1572,10 @@ window.VEILARIUM_DATA = {
         "Regional song and tale traditions"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-rusalka",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Rusalka is a female water-associated supernatural figure found in several Slavic traditions, but descriptions differ sharply by region and period. East Slavic folklore often connects rusalki with the untimely dead, seasonal ritual, fields, forests or waterways, while nineteenth-century literature and opera helped create the romantic image of a tragic aquatic maiden. “Slavic mermaid” is therefore too narrow. Veilarium keeps folkloric, ritual and literary versions visibly distinct."
     },
     {
       "id": "domovoi",
@@ -1527,9 +1594,10 @@ window.VEILARIUM_DATA = {
         "East Slavic folklore collections"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-domovoi",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Domovoi is an East Slavic household spirit connected with the home, family and domestic order. Folklore depicts him as protective when properly respected but capable of noises, disturbances or warnings when displeased or when danger approaches. Customs surrounding household spirits vary regionally and historically. The Domovoi is not simply a Slavic brownie, although the comparison can illuminate a broader pattern of household beings across cultures."
     },
     {
       "id": "leshy",
@@ -1548,9 +1616,10 @@ window.VEILARIUM_DATA = {
         "East Slavic folklore collections"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-leshy",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Leshy is an East Slavic forest master or forest spirit associated with the unpredictability of wild woodland. Folklore credits him with misleading travelers, altering apparent size, imitating voices and governing animals or forest spaces. Local traditions vary between dangerous, trickster-like and negotiated relationships with hunters or herders. Modern fantasy often turns the Leshy into a fixed tree monster, but older folklore emphasizes mastery of the forest and unstable appearance."
     },
     {
       "id": "vodyanoy",
@@ -1569,9 +1638,10 @@ window.VEILARIUM_DATA = {
         "East Slavic folklore"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-vodyanoy",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Vodyanoy is a male water spirit of East Slavic folklore associated with rivers, ponds, mills and dangerous bodies of water. Descriptions range from an old man with aquatic traits to far stranger forms, and stories often connect him with drowning, fish, millers or the control of local waters. Like many water beings, he expresses both environmental danger and imagined ownership of a place. He should not be conflated with the female Rusalka."
     },
     {
       "id": "kikimora",
@@ -1590,9 +1660,10 @@ window.VEILARIUM_DATA = {
         "Russian and Slavic folklore collections"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-kikimora",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Kikimora is a Slavic supernatural figure whose identity varies dramatically across regional and literary traditions. Some accounts place her in the household, where she may be associated with domestic disturbance, spinning or nighttime noises; others develop swamp or woodland forms. Modern illustration often fuses these strands into one creature. Veilarium treats “Kikimora” as a shifting folklore complex and avoids presenting the swamp hag image as the only authentic version."
     },
     {
       "id": "zmey",
@@ -1611,9 +1682,10 @@ window.VEILARIUM_DATA = {
         "Slavic epic and folklore traditions"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-zmey",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Zmey, Zmaj and related Slavic dragon terms cover a wide family of serpentine or draconic beings rather than one uniform creature. South Slavic traditions can portray zmaj figures as powerful, weather-connected, heroic or sexually charged beings, while East Slavic epic dragons may function as major antagonists. Linguistic and regional differences matter. The category overlaps with European dragon imagery but should not be reduced to the standard Western fire-breathing dragon template."
     },
     {
       "id": "angelic-beings",
@@ -1635,9 +1707,10 @@ window.VEILARIUM_DATA = {
         "Later theological traditions"
       ],
       "image": "assets/art/angelic.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-angelic",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Angelic beings occupy distinct theological worlds within Judaism, Christianity and Islam. The English word “angel” derives through Greek angelos, “messenger,” but scriptural and later traditions contain many kinds of heavenly servants, messengers, throne beings and named figures. Jewish, Christian and Islamic angelologies developed differently, so Veilarium does not merge them into one universal hierarchy. A Christian painting may illustrate Christian reception without claiming to depict every Abrahamic angelic tradition."
     },
     {
       "id": "seraphim",
@@ -1657,9 +1730,10 @@ window.VEILARIUM_DATA = {
         "Later Christian angelology"
       ],
       "image": "assets/art/angelic.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-seraphim",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Seraphim appear most famously in Isaiah’s temple vision as six-winged beings attending the divine throne and proclaiming holiness. Later Jewish and Christian angelologies develop their place in celestial hierarchies, with Christian art often visualizing them as fiery or winged beings surrounding God. The biblical passage itself is brief, so many familiar details belong to later interpretation. Veilarium distinguishes Isaiah’s vision from medieval and early modern angelic systems."
     },
     {
       "id": "cherubim",
@@ -1680,9 +1754,10 @@ window.VEILARIUM_DATA = {
         "Later Jewish and Christian traditions"
       ],
       "image": "assets/art/angelic.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-cherubim",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Cherubim are powerful throne- and sanctuary-associated beings in the Hebrew Bible, appearing in Eden, in descriptions of the Ark and in visionary throne imagery. Ezekiel’s living-creature visions profoundly shaped later interpretation. The plump winged “cherub” child of Renaissance and Baroque art actually derives from putto imagery and is not a faithful representation of biblical cherubim. Jewish and Christian theological traditions also classify them differently."
     },
     {
       "id": "netjeru",
@@ -1703,9 +1778,10 @@ window.VEILARIUM_DATA = {
         "Temple inscriptions"
       ],
       "image": "assets/art/angelic.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-netjeru",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Netjeru is a modern transliteration-based plural used for the divine beings of ancient Egyptian religion. Egyptian gods and goddesses were embedded in temple cult, kingship, local geography, cosmic processes and changing theological combinations across more than three millennia. Animal-headed iconography is symbolic and highly structured, not evidence that Egyptians imagined the gods as ordinary hybrid animals. Veilarium treats named deities and regional cults individually rather than presenting one frozen “Egyptian pantheon.”"
     },
     {
       "id": "ammit",
@@ -1725,9 +1801,10 @@ window.VEILARIUM_DATA = {
         "Funerary papyri"
       ],
       "image": "assets/art/angelic.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-ammit",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Ammit is the composite being associated with the judgment of the dead in Egyptian funerary imagery, combining dangerous animal features commonly described as crocodile, lion and hippopotamus. In scenes of the weighing of the heart, she waits near the balance as the threatening consequence of failed judgment. She is not simply a roaming Egyptian demon or a ruler of hell. Her role makes sense specifically within the moral and funerary drama of the judgment scene."
     },
     {
       "id": "bennu",
@@ -1747,9 +1824,10 @@ window.VEILARIUM_DATA = {
         "Temple and funerary traditions"
       ],
       "image": "assets/art/angelic.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-bennu",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "The Bennu is a sacred Egyptian bird associated with creation, solar renewal and the city of Heliopolis. Egyptian sources connect it with divine self-generation and with gods such as Ra and Osiris in different periods. Classical authors’ phoenix traditions were later compared with the Bennu, but “Bennu equals phoenix” can conceal important differences. Ancient images usually present a heron-like sacred bird rather than the flaming medieval phoenix familiar today."
     },
     {
       "id": "xian",
@@ -1770,9 +1848,10 @@ window.VEILARIUM_DATA = {
         "Religious art"
       ],
       "image": "assets/art/kami.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-xian",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Xiān are transcendent or immortal beings in Chinese religious, literary and Daoist traditions. The concept has a long history and can refer to perfected adepts, immortals dwelling in remote mountains or paradises, or humans transformed through cultivation and divine encounter. Texts disagree about the nature and means of transcendence, and later art creates a rich visual culture of named immortals. “Wizard” or “fairy” is therefore an inadequate translation for the full category."
     },
     {
       "id": "huli-jing",
@@ -1792,9 +1871,10 @@ window.VEILARIUM_DATA = {
         "Folklore"
       ],
       "image": "assets/art/kami.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-huli-jing",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Húli Jīng are fox spirits in Chinese folklore and literature, often associated with transformation, longevity, sexuality, deception, cultivation or extraordinary intelligence. Their moral character is not fixed: stories include dangerous seducers, devoted spouses, tricksters and spiritually cultivated foxes. Chinese fox traditions also changed substantially across dynasties and literary genres. They should not be treated as identical to Japanese kitsune, despite real regional parallels and historical cultural exchange."
     },
     {
       "id": "dakinis",
@@ -1815,9 +1895,10 @@ window.VEILARIUM_DATA = {
         "Tibetan traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-dakinis",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Ḍākinī is a complex term in South Asian and Himalayan tantric traditions. In Buddhist tantra, ḍākinīs may function as enlightened figures, wisdom embodiments, protectors, lineage transmitters or fierce female presences within ritual and visionary systems. Hindu tantric texts use the term in related but distinct ways. Popular translation as “sky dancer” captures one evocative etymological strand but can romanticize a category whose meanings are highly technical and tradition-specific."
     },
     {
       "id": "dharmapalas",
@@ -1837,9 +1918,10 @@ window.VEILARIUM_DATA = {
         "Tibetan and East Asian traditions"
       ],
       "image": "assets/art/devas.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-dharmapalas",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Dharmapālas are protectors of the Buddhist Dharma, especially prominent in Mahāyāna and Vajrayāna traditions. They may be enlightened protectors or worldly deities bound to defend Buddhist teaching, and their fierce iconography expresses protective power rather than ordinary evil. Tibetan and Himalayan traditions developed particularly elaborate visual and ritual systems around named protectors. A wrathful appearance should therefore not be interpreted as evidence that a Dharmapāla is demonic."
     },
     {
       "id": "tzitzimime",
@@ -1859,9 +1941,10 @@ window.VEILARIUM_DATA = {
         "Central Mexican religious tradition"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-tzitzimime",
-      "artworkMode": "direct"
+      "artworkMode": "direct",
+      "description": "Tzitzimimeh are formidable celestial beings in Mexica religious tradition, strongly associated with stars and dangerous moments of cosmic instability such as eclipses and the completion of the fifty-two-year calendar cycle. Colonial-era images often depict them as skeletal female figures, and later descriptions sometimes call them “demons,” a translation that can distort their more complex divine status. They also have associations with female divinities, fertility and childbirth. Veilarium therefore uses “fearsome star-associated beings,” not a Christian demon category."
     },
     {
       "id": "aluxoob",
@@ -1880,9 +1963,10 @@ window.VEILARIUM_DATA = {
         "Yucatec Maya oral and folkloric traditions"
       ],
       "image": "assets/art/fair-folk.svg",
-      "note": "This entry is a concise prototype record; the published version will add record-level citations, historical variants and artwork provenance.",
+      "note": "Overview entry. The tradition, period and source labels above matter: regional and textual variants should not be treated as one universal description.",
       "artworkId": "e-aluxoob",
-      "artworkMode": "contextual"
+      "artworkMode": "contextual",
+      "description": "Aluxo'ob are small supernatural beings in Yucatec Maya oral tradition, especially connected with milpas, forest spaces, cenotes and the guardianship of cultivated land. Contemporary ethnographic accounts describe ritual specialists creating or activating alux figures and agricultural communities negotiating their protection through offerings and observance. Stories also portray them as dangerous when boundaries or obligations are ignored. Veilarium treats this as a living Maya tradition, not merely as an ancient “mythological creature” or a generic Latin American goblin."
     }
   ],
   "planets": {
@@ -2123,72 +2207,72 @@ window.VEILARIUM_DATA = {
     {
       "name": "Pātāla",
       "band": "lower",
-      "detail": "A subterranean or lower region often associated with nāgas in later Hindu cosmography; it should not automatically be translated as 'hell'."
+      "detail": "The lowest of the seven subterranean regions in a common Purāṇic ordering. Pātāla is often described as a realm of Nāgas, subterranean waters, jewels and extraordinary splendor; it is distinct from Naraka, the punitive hell-realms."
     },
     {
       "name": "Rasātala",
       "band": "lower",
-      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+      "detail": "A deep subterranean realm placed above Pātāla in several Purāṇic cosmographies. Texts associate it with powerful non-human beings and chthonic populations; details vary considerably between sources."
     },
     {
       "name": "Mahātala",
       "band": "lower",
-      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+      "detail": "A lower world frequently linked with great serpentine beings and Nāga clans. It belongs to a layered subterranean cosmology rather than a simple moral geography of reward and punishment."
     },
     {
       "name": "Talātala",
       "band": "lower",
-      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+      "detail": "One of the seven lower regions, commonly associated with Maya Dānava in Purāṇic literature. Its placement is cosmographic, and descriptions differ by text."
     },
     {
       "name": "Sutala",
       "band": "lower",
-      "detail": "A lower realm prominently connected with Bali in Purāṇic narratives."
+      "detail": "A celebrated subterranean realm strongly associated with the righteous Asura king Bali. In Vaiṣṇava narratives, Bali receives Sutala as a splendid domain under divine protection."
     },
     {
       "name": "Vitala",
       "band": "lower",
-      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+      "detail": "A lower region in Purāṇic cosmology, often described through unusual subterranean substances, powers and divine associations. Its imagery varies across texts and later retellings."
     },
     {
       "name": "Atala",
       "band": "lower",
-      "detail": "One of the seven lower regions in several Purāṇic cosmographies."
+      "detail": "The uppermost of the seven lower regions in a common Purāṇic sequence. It is associated with subterranean wonder and beings outside the human world, but should not be reduced to a generic 'hell.'"
     },
     {
       "name": "Bhūloka",
       "band": "earth",
-      "detail": "The terrestrial realm of embodied human life in common cosmographic usage."
+      "detail": "The terrestrial human world: the realm of embodied life, ordinary geography and ritual action. In layered Hindu cosmology, it occupies the middle ground between lower and higher regions."
     },
     {
       "name": "Bhuvarloka",
       "band": "middle",
-      "detail": "An intermediary sphere in several cosmological enumerations; exact meanings differ by source."
+      "detail": "An intermediate region between the earthly and higher celestial worlds. It is variously associated with the atmosphere, ancestral presences, semi-divine beings and subtle space depending on the textual tradition."
     },
     {
       "name": "Svargaloka",
       "band": "celestial",
-      "detail": "A celestial/heavenly realm associated with devas in many later Hindu textual traditions; terminology varies."
+      "detail": "A heavenly realm of the devas, commonly associated with Indra and celestial pleasures. Svarga is exalted but generally not final liberation; beings may return from it when merit is exhausted."
     },
     {
       "name": "Maharloka",
       "band": "higher",
-      "detail": "A great world placed above Svarga in several later cosmographic schemes."
+      "detail": "A high realm associated with great sages and beings of exceptional spiritual attainment. In Purāṇic cosmography it stands above Svarga and below still subtler worlds."
     },
     {
       "name": "Janaloka",
       "band": "higher",
-      "detail": "An elevated loka associated in Purāṇic descriptions with spiritually advanced beings or sages."
+      "detail": "A lofty realm linked with advanced sages and mind-born beings. It belongs to the upper cosmological worlds and is described as increasingly subtle and remote from ordinary embodied existence."
     },
     {
       "name": "Tapoloka",
       "band": "higher",
-      "detail": "An elevated realm associated in some Purāṇic cosmographies with powerful ascetic beings."
+      "detail": "A very high realm associated with ascetic power, austerity and spiritually accomplished beings. Its name evokes tapas—heat, discipline and concentrated spiritual force."
     },
     {
       "name": "Satyaloka / Brahmaloka",
       "band": "higher",
-      "detail": "A highest or extremely elevated realm in several Purāṇic cosmological presentations; descriptions vary by text."
+      "detail": "The highest realm in several Purāṇic arrangements, associated with Brahmā and extremely refined existence. Its precise theological status varies by school and text, so Veilarium presents it as one high-cosmology model rather than a universal endpoint."
     }
   ],
   "encounterTypes": [
@@ -3675,18 +3759,19 @@ window.VEILARIUM_DATA = {
     },
     "r-patala": {
       "id": "r-patala",
-      "title": "Viṣṇu and Lakṣmī on Śeṣa Nāga",
-      "artist": "Unknown Indian painter",
-      "date": "c. 1870",
-      "filename": "Vishnu and Lakshmi on Shesha Naga, ca 1870.jpg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg/960px-Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Vishnu_and_Lakshmi_on_Shesha_Naga,_ca_1870.jpg",
+      "title": "The Earth and Seven Underground Realms",
+      "artist": "Unknown Jaipur painter",
+      "date": "c. 1800–1850",
+      "filename": "Patala.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patala.jpg/1100px-Patala.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Patala.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Patala.jpg",
       "license": "Public Domain",
-      "collection": "Wikimedia Commons",
-      "mode": "evocative",
-      "note": "Subterranean/cosmic-serpent atmosphere for Pātāla. Pātāla is not automatically equivalent to “hell.”",
-      "sfw": true
+      "collection": "Victoria and Albert Museum, London",
+      "mode": "direct cosmographic",
+      "note": "Historical Jaipur cosmogram showing the earth and the seven subterranean realms within a Vishvarūpa cosmographic scheme. Used here as a diagram of the lower worlds, not as a claim that Viṣṇu, Lakṣmī, or Śeṣa reside in Pātāla.",
+      "sfw": true,
+      "description": "A historical Jaipur cosmogram used to represent the layered subterranean worlds. It avoids implying that Viṣṇu, Lakṣmī and Śeṣa reside in Pātāla."
     },
     "r-olympus": {
       "id": "r-olympus",
@@ -4091,7 +4176,8 @@ window.VEILARIUM_DATA = {
       "collection": "Japanese print tradition / Wikimedia Commons",
       "mode": "contextual",
       "note": "Izanagi and Izanami mythic context for Yomi. This print depicts the creator deities on the heavenly bridge, not Yomi itself.",
-      "sfw": true
+      "sfw": true,
+      "description": "Ogata Gekkō's image shows Izanagi and Izanami in their creation-myth context. It is used as a contextual gateway to the Yomi narrative, not as a literal picture of Yomi."
     },
     "r-shrine-threshold": {
       "id": "r-shrine-threshold",
@@ -4580,100 +4666,114 @@ window.VEILARIUM_DATA = {
         {
           "name": "Pātāla",
           "artworkId": "r-patala",
-          "text": "A subterranean/lower region often associated with Nāgas and splendor; not simply equivalent to “hell.”",
+          "text": "The lowest of the seven subterranean regions in a common Purāṇic ordering. Pātāla is often described as a realm of Nāgas, subterranean waters, jewels and extraordinary splendor; it is distinct from Naraka, the punitive hell-realms.",
           "ascentIndex": 1,
-          "ascentLabel": "LOWEST / CHthonic"
+          "ascentLabel": "LOWEST / CHthonic",
+          "description": "The lowest of the seven subterranean regions in a common Purāṇic ordering. Pātāla is often described as a realm of Nāgas, subterranean waters, jewels and extraordinary splendor; it is distinct from Naraka, the punitive hell-realms."
         },
         {
           "name": "Rasātala",
           "artworkId": "r-rasatala",
-          "text": "A lower region described differently across Purāṇic cosmographies.",
+          "text": "A deep subterranean realm placed above Pātāla in several Purāṇic cosmographies. Texts associate it with powerful non-human beings and chthonic populations; details vary considerably between sources.",
           "ascentIndex": 2,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A deep subterranean realm placed above Pātāla in several Purāṇic cosmographies. Texts associate it with powerful non-human beings and chthonic populations; details vary considerably between sources."
         },
         {
           "name": "Mahātala",
           "artworkId": "r-mahatala",
-          "text": "A lower region often connected with serpent beings in later cosmographic accounts.",
+          "text": "A lower world frequently linked with great serpentine beings and Nāga clans. It belongs to a layered subterranean cosmology rather than a simple moral geography of reward and punishment.",
           "ascentIndex": 3,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A lower world frequently linked with great serpentine beings and Nāga clans. It belongs to a layered subterranean cosmology rather than a simple moral geography of reward and punishment."
         },
         {
           "name": "Talātala",
           "artworkId": "r-talatala",
-          "text": "One of the seven lower regions in several Purāṇic presentations.",
+          "text": "One of the seven lower regions, commonly associated with Maya Dānava in Purāṇic literature. Its placement is cosmographic, and descriptions differ by text.",
           "ascentIndex": 4,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "One of the seven lower regions, commonly associated with Maya Dānava in Purāṇic literature. Its placement is cosmographic, and descriptions differ by text."
         },
         {
           "name": "Sutala",
           "artworkId": "r-sutala",
-          "text": "A lower realm prominently associated with Bali in Purāṇic Vāmana narratives.",
+          "text": "A celebrated subterranean realm strongly associated with the righteous Asura king Bali. In Vaiṣṇava narratives, Bali receives Sutala as a splendid domain under divine protection.",
           "ascentIndex": 5,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A celebrated subterranean realm strongly associated with the righteous Asura king Bali. In Vaiṣṇava narratives, Bali receives Sutala as a splendid domain under divine protection."
         },
         {
           "name": "Vitala",
           "artworkId": "r-vitala",
-          "text": "One of the seven lower regions; descriptions vary by source.",
+          "text": "A lower region in Purāṇic cosmology, often described through unusual subterranean substances, powers and divine associations. Its imagery varies across texts and later retellings.",
           "ascentIndex": 6,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A lower region in Purāṇic cosmology, often described through unusual subterranean substances, powers and divine associations. Its imagery varies across texts and later retellings."
         },
         {
           "name": "Atala",
           "artworkId": "r-atala",
-          "text": "One of seven lower regions in several Purāṇic cosmographies.",
+          "text": "The uppermost of the seven lower regions in a common Purāṇic sequence. It is associated with subterranean wonder and beings outside the human world, but should not be reduced to a generic 'hell.'",
           "ascentIndex": 7,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The uppermost of the seven lower regions in a common Purāṇic sequence. It is associated with subterranean wonder and beings outside the human world, but should not be reduced to a generic 'hell.'"
         },
         {
           "name": "Bhūloka",
           "artworkId": "r-bhu",
-          "text": "The terrestrial sphere of embodied human life in common cosmographic usage.",
+          "text": "The terrestrial human world: the realm of embodied life, ordinary geography and ritual action. In layered Hindu cosmology, it occupies the middle ground between lower and higher regions.",
           "ascentIndex": 8,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The terrestrial human world: the realm of embodied life, ordinary geography and ritual action. In layered Hindu cosmology, it occupies the middle ground between lower and higher regions."
         },
         {
           "name": "Bhuvarloka",
           "artworkId": "r-bhuvar",
-          "text": "An intermediary sphere whose precise meaning shifts across textual and ritual contexts.",
+          "text": "An intermediate region between the earthly and higher celestial worlds. It is variously associated with the atmosphere, ancestral presences, semi-divine beings and subtle space depending on the textual tradition.",
           "ascentIndex": 9,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "An intermediate region between the earthly and higher celestial worlds. It is variously associated with the atmosphere, ancestral presences, semi-divine beings and subtle space depending on the textual tradition."
         },
         {
           "name": "Svargaloka",
           "artworkId": "r-svarga",
-          "text": "A celestial/heavenly realm associated with devas and Indra in many later Hindu traditions.",
+          "text": "A heavenly realm of the devas, commonly associated with Indra and celestial pleasures. Svarga is exalted but generally not final liberation; beings may return from it when merit is exhausted.",
           "ascentIndex": 10,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A heavenly realm of the devas, commonly associated with Indra and celestial pleasures. Svarga is exalted but generally not final liberation; beings may return from it when merit is exhausted."
         },
         {
           "name": "Maharloka",
           "artworkId": "r-mahar",
-          "text": "A “great world” above Svarga in several later cosmographic arrangements.",
+          "text": "A high realm associated with great sages and beings of exceptional spiritual attainment. In Purāṇic cosmography it stands above Svarga and below still subtler worlds.",
           "ascentIndex": 11,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A high realm associated with great sages and beings of exceptional spiritual attainment. In Purāṇic cosmography it stands above Svarga and below still subtler worlds."
         },
         {
           "name": "Janaloka",
           "artworkId": "r-jana",
-          "text": "An elevated loka associated in several texts with spiritually advanced sages or beings.",
+          "text": "A lofty realm linked with advanced sages and mind-born beings. It belongs to the upper cosmological worlds and is described as increasingly subtle and remote from ordinary embodied existence.",
           "ascentIndex": 12,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A lofty realm linked with advanced sages and mind-born beings. It belongs to the upper cosmological worlds and is described as increasingly subtle and remote from ordinary embodied existence."
         },
         {
           "name": "Tapoloka",
           "artworkId": "r-tapo",
-          "text": "An elevated realm associated in some Purāṇic schemas with powerful ascetic beings.",
+          "text": "A very high realm associated with ascetic power, austerity and spiritually accomplished beings. Its name evokes tapas—heat, discipline and concentrated spiritual force.",
           "ascentIndex": 13,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A very high realm associated with ascetic power, austerity and spiritually accomplished beings. Its name evokes tapas—heat, discipline and concentrated spiritual force."
         },
         {
           "name": "Satyaloka / Brahmaloka",
           "artworkId": "r-satya",
-          "text": "An extremely elevated Brahmā-associated realm in several later cosmological presentations.",
+          "text": "The highest realm in several Purāṇic arrangements, associated with Brahmā and extremely refined existence. Its precise theological status varies by school and text, so Veilarium presents it as one high-cosmology model rather than a universal endpoint.",
           "ascentIndex": 14,
-          "ascentLabel": "HIGHEST / CELESTIAL"
+          "ascentLabel": "HIGHEST / CELESTIAL",
+          "description": "The highest realm in several Purāṇic arrangements, associated with Brahmā and extremely refined existence. Its precise theological status varies by school and text, so Veilarium presents it as one high-cosmology model rather than a universal endpoint."
         }
       ],
       "orderingNote": "Displayed from the seven lower regions upward through Bhūloka, the intermediary/celestial worlds and Satyaloka. This is one common Purāṇic-style arrangement, not the only Hindu cosmology."
@@ -4687,37 +4787,42 @@ window.VEILARIUM_DATA = {
         {
           "name": "Hades / Underworld",
           "artworkId": "r-hades",
-          "text": "The realm of the dead, represented differently across epic, mystery, philosophical and later literary traditions.",
+          "text": "The realm of the dead beneath or beyond the human world in Greek mythic geography. It includes multiple regions and postmortem destinies rather than one undifferentiated 'hell.'",
           "ascentIndex": 1,
-          "ascentLabel": "LOWEST / CHthonic"
+          "ascentLabel": "LOWEST / CHthonic",
+          "description": "The realm of the dead beneath or beyond the human world in Greek mythic geography. It includes multiple regions and postmortem destinies rather than one undifferentiated 'hell.'"
         },
         {
           "name": "Okeanos / Oceanus",
           "artworkId": "r-oceanus",
-          "text": "The encircling cosmic river and divine watery boundary in archaic cosmological imagination.",
+          "text": "The great encircling river or cosmic ocean imagined at the edges of the inhabited world. In archaic Greek cosmology it functions as a boundary, source and mythic geography rather than a vertical level.",
           "ascentIndex": 2,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The great encircling river or cosmic ocean imagined at the edges of the inhabited world. In archaic Greek cosmology it functions as a boundary, source and mythic geography rather than a vertical level."
         },
         {
           "name": "Elysium",
           "artworkId": "r-elysium",
-          "text": "A blessed afterlife landscape whose meaning develops across Greek and Roman literature.",
+          "text": "A blessed postmortem destination reserved in different sources for heroes, the favored, or the exceptionally fortunate. Its location and criteria vary across Greek and Roman authors.",
           "ascentIndex": 3,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A blessed postmortem destination reserved in different sources for heroes, the favored, or the exceptionally fortunate. Its location and criteria vary across Greek and Roman authors."
         },
         {
           "name": "Isles of the Blessed",
           "artworkId": "r-blessed",
-          "text": "A paradisal destination in several Greek poetic traditions, often compared with Elysium but not always identical.",
+          "text": "A paradisal western or oceanic destination linked with heroic afterlife traditions. It overlaps with Elysian ideas in some sources but is not always identical to Elysium.",
           "ascentIndex": 4,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A paradisal western or oceanic destination linked with heroic afterlife traditions. It overlaps with Elysian ideas in some sources but is not always identical to Elysium."
         },
         {
           "name": "Mount Olympus",
           "artworkId": "r-olympus",
-          "text": "Seat of the Olympian gods in Greek poetic and later visual imagination.",
+          "text": "The divine mountain-home of the Olympian gods in Greek religious imagination. Mythic Olympus is both a terrestrial mountain and a celestialized divine dwelling in literary tradition.",
           "ascentIndex": 5,
-          "ascentLabel": "HIGHEST / CELESTIAL"
+          "ascentLabel": "HIGHEST / CELESTIAL",
+          "description": "The divine mountain-home of the Olympian gods in Greek religious imagination. Mythic Olympus is both a terrestrial mountain and a celestialized divine dwelling in literary tradition."
         }
       ],
       "orderingNote": "Displayed as a navigational ascent from chthonic to terrestrial/oceanic to blessed/celestial spaces. Greek sources do not present these as one universal vertical staircase."
@@ -4731,58 +4836,66 @@ window.VEILARIUM_DATA = {
         {
           "name": "Niflheimr",
           "artworkId": "r-niflheim",
-          "text": "A misty/cold primordial region whose relationship to Hel varies in later synthesis.",
+          "text": "A primordial realm of mist, cold and darkness in Old Norse cosmological tradition. It is one of the great elemental extremes rather than simply the 'lowest floor' of a universe.",
           "ascentIndex": 1,
-          "ascentLabel": "LOWEST / CHthonic"
+          "ascentLabel": "LOWEST / CHthonic",
+          "description": "A primordial realm of mist, cold and darkness in Old Norse cosmological tradition. It is one of the great elemental extremes rather than simply the 'lowest floor' of a universe."
         },
         {
           "name": "Hel",
           "artworkId": "r-hel",
-          "text": "A realm of the dead associated with the being Hel; not equivalent to later Christian hell.",
+          "text": "The realm associated with the dead who do not fall in battle, ruled by Hel in later literary sources. It is not equivalent to the Christian hell, despite later linguistic overlap.",
           "ascentIndex": 2,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The realm associated with the dead who do not fall in battle, ruled by Hel in later literary sources. It is not equivalent to the Christian hell, despite later linguistic overlap."
         },
         {
           "name": "Muspelheim",
           "artworkId": "r-muspelheim",
-          "text": "A fiery primordial region associated with destructive forces and Surtr in later presentations.",
+          "text": "A fiery primordial region associated with destructive heat and the fire-being Surtr. It stands as a cosmic opposite to icy Niflheim in the creation tradition.",
           "ascentIndex": 3,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A fiery primordial region associated with destructive heat and the fire-being Surtr. It stands as a cosmic opposite to icy Niflheim in the creation tradition."
         },
         {
           "name": "Miðgarðr",
           "artworkId": "r-midgard",
-          "text": "The human world or enclosure, situated within a larger mythic cosmos.",
+          "text": "The human world, literally the 'middle enclosure.' It is situated within a network of worlds and boundaries rather than a simple vertical stack.",
           "ascentIndex": 4,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The human world, literally the 'middle enclosure.' It is situated within a network of worlds and boundaries rather than a simple vertical stack."
         },
         {
           "name": "Jötunheimr",
           "artworkId": "r-jotunheim",
-          "text": "A region associated with Jötnar and the outer wild beyond divine/human centers.",
+          "text": "The realm or region of the jötnar, often imagined beyond the protected human/divine center. It is a mythic frontier of wilderness, rivalry and ancient power.",
           "ascentIndex": 5,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The realm or region of the jötnar, often imagined beyond the protected human/divine center. It is a mythic frontier of wilderness, rivalry and ancient power."
         },
         {
           "name": "Álfheimr",
           "artworkId": "r-alfheim",
-          "text": "A realm/place connected with Álfar in Old Norse sources, especially through Freyr.",
+          "text": "A realm associated with the álfar and linked in Grímnismál with Freyr. Old Norse evidence is brief, so later fantasy-style elaborations should not be mistaken for early source detail.",
           "ascentIndex": 6,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A realm associated with the álfar and linked in Grímnismál with Freyr. Old Norse evidence is brief, so later fantasy-style elaborations should not be mistaken for early source detail."
         },
         {
           "name": "Ásgarðr",
           "artworkId": "r-asgard",
-          "text": "Realm/home of the Æsir in Old Norse cosmological language.",
+          "text": "The stronghold or realm of the Æsir gods. It is connected to Miðgarðr in mythic geography through structures such as Bifröst.",
           "ascentIndex": 7,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The stronghold or realm of the Æsir gods. It is connected to Miðgarðr in mythic geography through structures such as Bifröst."
         },
         {
           "name": "Valhöll / Valhalla",
           "artworkId": "r-valhalla",
-          "text": "Odin’s hall for selected slain warriors; not synonymous with all of Ásgarðr.",
+          "text": "Óðinn's hall for selected slain warriors, the einherjar. Valhöll is a hall within the divine world, not a complete synonym for the Norse afterlife.",
           "ascentIndex": 8,
-          "ascentLabel": "HIGHEST / CELESTIAL"
+          "ascentLabel": "HIGHEST / CELESTIAL",
+          "description": "Óðinn's hall for selected slain warriors, the einherjar. Valhöll is a hall within the divine world, not a complete synonym for the Norse afterlife."
         }
       ],
       "orderingNote": "Displayed as a navigational low-to-high journey. Old Norse cosmology is networked rather than a single canonical vertical ladder; Muspelheim and Niflheim are primordial extremes, not simple floors."
@@ -4796,37 +4909,42 @@ window.VEILARIUM_DATA = {
         {
           "name": "Duat",
           "artworkId": "r-duat",
-          "text": "A complex otherworld traversed by the dead and by the solar god in funerary texts.",
+          "text": "The hidden nocturnal realm traversed by the sun god and the dead. Egyptian funerary texts describe it as a landscape of gates, caverns, gods, dangers and transformations.",
           "ascentIndex": 1,
-          "ascentLabel": "LOWEST / CHthonic"
+          "ascentLabel": "LOWEST / CHthonic",
+          "description": "The hidden nocturnal realm traversed by the sun god and the dead. Egyptian funerary texts describe it as a landscape of gates, caverns, gods, dangers and transformations."
         },
         {
           "name": "Hall of Two Truths",
           "artworkId": "r-two-truths",
-          "text": "The judgment setting famous for the weighing of the heart in Book of the Dead imagery.",
+          "text": "The judgment setting associated with the weighing of the heart against maat. It is one episode within the broader afterlife journey rather than the entirety of the Duat.",
           "ascentIndex": 2,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The judgment setting associated with the weighing of the heart against maat. It is one episode within the broader afterlife journey rather than the entirety of the Duat."
         },
         {
           "name": "Night Books & Tomb Cosmos",
           "artworkId": "r-tomb-night",
-          "text": "Royal and funerary texts map night, gates and regeneration in different ways.",
+          "text": "Royal funerary texts such as the Amduat and Book of Gates map the sun's nocturnal journey through structured hours, beings and cosmic transformations.",
           "ascentIndex": 3,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "Royal funerary texts such as the Amduat and Book of Gates map the sun's nocturnal journey through structured hours, beings and cosmic transformations."
         },
         {
           "name": "Solar Barque Passage",
           "artworkId": "r-solar-barque",
-          "text": "The divine boat journey through cosmic/night spaces, central to several Egyptian theological images.",
+          "text": "The sun god's cyclical passage through day and night, especially the nocturnal voyage through the Duat. The image expresses cosmic renewal rather than a permanent residence.",
           "ascentIndex": 4,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The sun god's cyclical passage through day and night, especially the nocturnal voyage through the Duat. The image expresses cosmic renewal rather than a permanent residence."
         },
         {
           "name": "Aaru / Field of Reeds",
           "artworkId": "r-aaru",
-          "text": "A blessed afterlife field represented in funerary traditions and often idealized as perfected Egypt.",
+          "text": "An idealized blessed landscape where the justified dead may live in abundance and continue a perfected form of earthly life. Descriptions vary by period and text.",
           "ascentIndex": 5,
-          "ascentLabel": "HIGHEST / CELESTIAL"
+          "ascentLabel": "HIGHEST / CELESTIAL",
+          "description": "An idealized blessed landscape where the justified dead may live in abundance and continue a perfected form of earthly life. Descriptions vary by period and text."
         }
       ],
       "orderingNote": "Displayed as a symbolic movement from the Duat and judgment toward solar passage and the Field of Reeds. Egyptian afterlife texts describe journeys and cycles rather than one universal vertical stack."
@@ -4840,44 +4958,50 @@ window.VEILARIUM_DATA = {
         {
           "name": "Naraka",
           "artworkId": "r-naraka",
-          "text": "Hell realms of intense suffering; enumerations and iconography vary by text and region.",
+          "text": "Hell-realms of intense suffering produced by karma. They are generally temporary, not eternal, and descriptions differ across Buddhist cosmological traditions.",
           "ascentIndex": 1,
-          "ascentLabel": "LOWEST / CHthonic"
+          "ascentLabel": "LOWEST / CHthonic",
+          "description": "Hell-realms of intense suffering produced by karma. They are generally temporary, not eternal, and descriptions differ across Buddhist cosmological traditions."
         },
         {
           "name": "Preta Realm",
           "artworkId": "r-preta",
-          "text": "A realm/state of hungry ghosts marked by craving and deprivation in several Buddhist cosmologies.",
+          "text": "The realm or state of hungry ghosts, beings afflicted by insatiable craving and deprivation. It functions as both cosmological category and moral-psychological image in Buddhist traditions.",
           "ascentIndex": 2,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The realm or state of hungry ghosts, beings afflicted by insatiable craving and deprivation. It functions as both cosmological category and moral-psychological image in Buddhist traditions."
         },
         {
           "name": "Human Realm",
           "artworkId": "r-human-buddhist",
-          "text": "The human condition, often treated as especially precious for practice because suffering and opportunity coexist.",
+          "text": "The human condition is often valued as especially favorable for Dharma practice because it combines suffering, agency and opportunity in a rare balance.",
           "ascentIndex": 3,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The human condition is often valued as especially favorable for Dharma practice because it combines suffering, agency and opportunity in a rare balance."
         },
         {
           "name": "Trāyastriṃśa",
           "artworkId": "r-trayastrimsa",
-          "text": "A deva heaven associated with Śakra/Indra and major narrative episodes in Buddhist literature.",
+          "text": "The Heaven of the Thirty-Three, traditionally associated with Śakra/Indra atop Mount Sumeru. It is a deva realm within saṃsāra, not liberation itself.",
           "ascentIndex": 4,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The Heaven of the Thirty-Three, traditionally associated with Śakra/Indra atop Mount Sumeru. It is a deva realm within saṃsāra, not liberation itself."
         },
         {
           "name": "Tuṣita",
           "artworkId": "r-tushita",
-          "text": "A deva heaven particularly associated with bodhisattvas and Maitreya in Buddhist traditions.",
+          "text": "A deva heaven especially associated with bodhisattvas awaiting their final birth, most famously Maitreya in Buddhist tradition.",
           "ascentIndex": 5,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A deva heaven especially associated with bodhisattvas awaiting their final birth, most famously Maitreya in Buddhist tradition."
         },
         {
           "name": "Sukhāvatī / Western Pure Land",
           "artworkId": "r-sukhavati",
-          "text": "Amitābha’s Pure Land in Pure Land Buddhist traditions, with its own doctrinal and devotional context.",
+          "text": "The Pure Land of Amitābha Buddha. It belongs to Pure Land cosmology and devotional practice and should not be treated as merely the 'highest floor' of a generic Buddhist universe.",
           "ascentIndex": 6,
-          "ascentLabel": "HIGHEST / CELESTIAL"
+          "ascentLabel": "HIGHEST / CELESTIAL",
+          "description": "The Pure Land of Amitābha Buddha. It belongs to Pure Land cosmology and devotional practice and should not be treated as merely the 'highest floor' of a generic Buddhist universe."
         }
       ],
       "orderingNote": "Displayed from lower suffering states toward human and heavenly realms. Sukhāvatī is a Pure Land and should not be read as merely the top floor of a single vertical Buddhist cosmos."
@@ -4891,30 +5015,34 @@ window.VEILARIUM_DATA = {
         {
           "name": "Yomi",
           "artworkId": "r-yomi",
-          "text": "A land of the dead in Kojiki/Nihon Shoki mythic narrative; not a simple doctrinal hell.",
+          "text": "The land of the dead in the Izanagi–Izanami myth cycle, reached after Izanami's death. The Kojiki presents it as a dark, polluted realm separated from the living world by a boundary that Izanagi seals after his escape.",
           "ascentIndex": 1,
-          "ascentLabel": "LOWEST / CHthonic"
+          "ascentLabel": "LOWEST / CHthonic",
+          "description": "The land of the dead in the Izanagi–Izanami myth cycle, reached after Izanami's death. The Kojiki presents it as a dark, polluted realm separated from the living world by a boundary that Izanagi seals after his escape."
         },
         {
           "name": "Ashihara-no-Nakatsukuni",
           "artworkId": "r-ashihara",
-          "text": "The central land / human world in early Japanese cosmogonic narratives.",
+          "text": "The 'Central Land of Reed-Plains,' commonly understood as the middle terrestrial world where humans live and where the descent and pacification myths unfold.",
           "ascentIndex": 2,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "The 'Central Land of Reed-Plains,' commonly understood as the middle terrestrial world where humans live and where the descent and pacification myths unfold."
         },
         {
           "name": "Shrine & Sacred Threshold",
           "artworkId": "r-shrine-threshold",
-          "text": "Not one separate realm, but a reminder that sacred presence is often localized through places, boundaries, ritual and landscape.",
+          "text": "A Veilarium interpretive stop representing sacred boundaries in lived Shinto practice—torii, shrine precincts, mountains, groves and other liminal spaces where kami presence is ritually approached.",
           "ascentIndex": 3,
-          "ascentLabel": "ASCENDING"
+          "ascentLabel": "ASCENDING",
+          "description": "A Veilarium interpretive stop representing sacred boundaries in lived Shinto practice—torii, shrine precincts, mountains, groves and other liminal spaces where kami presence is ritually approached."
         },
         {
           "name": "Takamagahara",
           "artworkId": "r-takamagahara",
-          "text": "The High Plain of Heaven in early Japanese mythic narratives, associated with heavenly kami.",
+          "text": "The 'High Plain of Heaven,' the celestial realm associated with the heavenly kami in the Kojiki and Nihon Shoki myth cycles.",
           "ascentIndex": 4,
-          "ascentLabel": "HIGHEST / CELESTIAL"
+          "ascentLabel": "HIGHEST / CELESTIAL",
+          "description": "The 'High Plain of Heaven,' the celestial realm associated with the heavenly kami in the Kojiki and Nihon Shoki myth cycles."
         }
       ],
       "orderingNote": "Displayed from Yomi through the middle land and sacred thresholds toward Takamagahara. Japanese mythic geography is not reducible to a single universal vertical map."
